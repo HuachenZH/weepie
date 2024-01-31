@@ -5,6 +5,19 @@ import pdb
 
 
 def extract_frame(path_input:str, path_output_dir:str, freq:int) -> None:
+    """Extract frames of a video with a certain frequency.
+
+            Parameters:
+                    path_input (str): Path to the input mp4 file.
+
+                    path_output_dir (str): Path to the output directory (not file).
+
+                    freq (int): For every how many seconds you want to extract frame. 
+                    e.g. 30 for 30 seconds.
+
+            Returns:
+                    None
+    """
     container = av.open(path_input)
     # take first video stream
     stream = container.streams.video[0]
@@ -17,7 +30,7 @@ def extract_frame(path_input:str, path_output_dir:str, freq:int) -> None:
         if frame.pts % (freq/float(frame.time_base)) != 0:
             continue
         count += 1
-        frame.to_image().save(path_output_dir + f"frame_{idx}.jpg")
+        frame.to_image().save(path_output_dir + f"frame_{count}.jpg")
     print(count)
     
     #for packet in container.demux(stream):
@@ -35,5 +48,5 @@ def extract_frame(path_input:str, path_output_dir:str, freq:int) -> None:
 if __name__ == "__main__":
     fpath = "../data/video/csa.mp4"
     out_dir = "../data/img/"
-    freq = 1000
+    freq = 15
     extract_frame(fpath, out_dir, freq)
