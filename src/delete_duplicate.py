@@ -31,6 +31,16 @@ def get_filenames(path_dir:str) -> list:
 
 
 def sort_filenames(list_filenames:list):
+    """Sort list of filenames by the number inside filename by ascending order.\n
+    Before sort: frame_1.jpg  frame_100.jpg  frame_2.jpg
+    After sort:  frame_1.jpg  frame_2.jpg    frame_100.jpg
+
+            Parameters:
+                    list_filenames (list): list of filenames, not sorted.
+
+            Returns:
+                    sorted_filenames (list): sorted list of filenames
+    """
     # Construct a list of dictionaries. 
     # Each dictionary has two key value pairs:
     # "name" : the filename
