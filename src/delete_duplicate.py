@@ -1,6 +1,7 @@
 import cv2
 import os
 import numpy as np
+import re
 
 import pdb
 
@@ -30,18 +31,49 @@ def get_filenames(path_dir:str) -> list:
 
 
 def sort_filenames(list_filenames:list):
-    return
+    # Construct a list of dictionaries. 
+    # Each dictionary has two key value pairs:
+    # "name" : the filename
+    # "order": the number extracted from filename
+
+    # Construct list of dict
+    list_dict = []
+    pattern = "_[0-9]*\...."
+    for filename in list_filenames:
+        dict_filename = {}
+        dict_filename["name"] = filename
+        order = re.findall(pattern, filename)
+        if len(order) > 1:
+            raise Exception(f"There is an error with the filename {filename}, regex finds more than one matches with the pattern {pattern}.")
+        try:
+            dict_filename["order"] = int(order[0][1:-4]) # slice the heading "_" and tha tailing ".jpg"
+        except:
+            print(f"Regex finds no match in this filename: {filename}")
+            continue
+        list_dict.append(dict_filename)
+    
+    # Sort list of dict by the value of the key "order"
+    sorted_list = sorted(list_dict, key=lambda x: x["order"])
+    # Extract value of the key "name" into a new list
+    sorted_filenames = [utena["name"]  for utena in sorted_list]
+    return sorted_filenames
 
 
 
-def find_duplicates(path_dir:str):
+def find_duplicates(path_dir:str, sorted_filenames:list):
+    # iterate through the list of sorted_filenames
+    # compare one by one if images are the same
     list_filenames = get_filenames(path_dir)
-    breakpoint()
 
+
+
+def main():
+    path_dir = "../data/img/"
+    list_filenames = get_filenames(path_dir)
+    sorted_filenames = sort_filenames(list_filenames)
+    breakpoint()
+    find_duplicates(path_dir, sorted_filenames)
 
 
 if __name__ == "__main__":
-    path_dir = "../data/img/"
-    list_filenames = get_filenames(path_dir)
-    list_filenames = sort_filenames(list_filenames)
-    find_duplicates(path_dir)
+    main()
