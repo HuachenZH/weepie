@@ -28,6 +28,4 @@ This project is based on the open source OCR tool Tesseract. Apart from installi
 
 
 
-## info
-- an article: https://nanonets.com/blog/ocr-with-tesseract/
-- another article: https://pyimagesearch.com/2021/08/23/your-first-ocr-project-with-tesseract-and-python/
+
