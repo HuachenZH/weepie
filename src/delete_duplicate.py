@@ -3,12 +3,31 @@ import os
 import numpy as np
 import re
 
+from tqdm import tqdm
 import pdb
 
 
 def is_the_same(image1:np.ndarray, image2:np.ndarray) -> bool:
     """Returns true if two images are exactly the same"""
     return image1.shape == image2.shape and not(np.bitwise_xor(image1,image2).any())
+
+
+def mse(img1, img2):
+   h, w = img1.shape
+   diff = cv2.subtract(img1, img2)
+   err = np.sum(diff**2)
+   mse = err/(float(h*w))
+   return mse, diff
+
+
+
+def is_similar(image1:np.ndarray, image2:np.ndarray) -> bool:
+    error, diff = mse(image1, image2)
+    if error < 2:
+        return True
+    else:
+        return False
+
 
 
 def get_filenames(path_dir:str) -> list:
@@ -70,19 +89,37 @@ def sort_filenames(list_filenames:list):
 
 
 
-def find_duplicates(path_dir:str, sorted_filenames:list):
+def find_uniques(path_dir:str, sorted_filenames:list):
     # iterate through the list of sorted_filenames
     # compare one by one if images are the same
-    list_filenames = get_filenames(path_dir)
+    list_uniq = []
+    list_uniq.append(sorted_filenames[0])
+    for i in tqdm(range(len(sorted_filenames)-1)):
+        image1 = cv2.imread(path_dir + sorted_filenames[i])
+        image2 = cv2.imread(path_dir + sorted_filenames[i+1])
+        image1 = cv2.cvtColor(image1, cv2.COLOR_BGR2GRAY)
+        image2 = cv2.cvtColor(image2, cv2.COLOR_BGR2GRAY)
+        #if is_the_same(image1, image2):
+        #    list_duplicate.append(image2)
+        if not is_similar(image1, image2):
+            list_uniq.append(sorted_filenames[i+1])
+    breakpoint()
+    return list_uniq
 
+
+
+
+
+
+def delete_duplicates(path_dir:str):
+    list_filenames = get_filenames(path_dir)
+    sorted_filenames = sort_filenames(list_filenames)
+    list_duplicate = find_uniques(path_dir, sorted_filenames)
 
 
 def main():
     path_dir = "../data/img/"
-    list_filenames = get_filenames(path_dir)
-    sorted_filenames = sort_filenames(list_filenames)
-    breakpoint()
-    find_duplicates(path_dir, sorted_filenames)
+    delete_duplicates(path_dir)
 
 
 if __name__ == "__main__":
