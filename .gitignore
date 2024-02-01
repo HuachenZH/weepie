@@ -1,3 +1,4 @@
 video/
 img/
 test.py
+__pycache__/
