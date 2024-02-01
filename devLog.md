@@ -11,3 +11,8 @@
 
 ## 自己挖的坑
 - in the folder `data/img/`, images should be named like "frame_1.jpg", "frame_100.jpg"
+
+
+
+to resume:  
+weepie, test the subcommand
