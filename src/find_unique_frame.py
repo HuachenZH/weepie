@@ -12,16 +12,39 @@ def is_the_same(image1:np.ndarray, image2:np.ndarray) -> bool:
     return image1.shape == image2.shape and not(np.bitwise_xor(image1,image2).any())
 
 
-def mse(img1, img2):
-   h, w = img1.shape
-   diff = cv2.subtract(img1, img2)
-   err = np.sum(diff**2)
-   mse = err/(float(h*w))
-   return mse, diff
+def mse(img1:np.ndarray, img2:np.ndarray) -> (float, np.ndarray):
+    """Calculate the Mean Square Error between two images.
+    The two images should be converted into greyscale beforehand.
+
+            Parameters:
+                    img1 (np.ndarray): First image, should be in greyscale.
+
+                    img2 (np.ndarray): Second image, should be in greyscale.
+
+            Returns:
+                    mse, diff (tuple(float, np.ndarray)): mse and difference of two matrice.
+    """
+    h, w = img1.shape
+    diff = cv2.subtract(img1, img2)
+    err = np.sum(diff**2)
+    mse = err/(float(h*w))
+    return mse, diff
 
 
 
 def is_similar(image1:np.ndarray, image2:np.ndarray) -> bool:
+    """Determines whether two images are similar.
+    Determined by the mse of the pixel values of the two images.
+    The threshold is 2 by default.
+
+            Parameters:
+                    image1 (np.ndarray): First image, should be in greyscale.
+
+                    image2 (np.ndarray): Second image, should be in greyscale.
+
+            Returns:
+                    (bool): True if two images are similar.
+    """
     error, diff = mse(image1, image2)
     if error < 2:
         return True
@@ -89,7 +112,7 @@ def sort_filenames(list_filenames:list):
 
 
 
-def find_uniques(path_dir:str, sorted_filenames:list):
+def compare_frames_in_list(path_dir:str, sorted_filenames:list):
     # iterate through the list of sorted_filenames
     # compare one by one if images are the same
     list_uniq = []
@@ -103,23 +126,22 @@ def find_uniques(path_dir:str, sorted_filenames:list):
         #    list_duplicate.append(image2)
         if not is_similar(image1, image2):
             list_uniq.append(sorted_filenames[i+1])
-    breakpoint()
     return list_uniq
 
 
 
-
-
-
-def delete_duplicates(path_dir:str):
+def find_unique_frames(path_dir:str):
     list_filenames = get_filenames(path_dir)
     sorted_filenames = sort_filenames(list_filenames)
-    list_duplicate = find_uniques(path_dir, sorted_filenames)
+    list_uniq = compare_frames_in_list(path_dir, sorted_filenames)
+    return list_uniq
+
 
 
 def main():
     path_dir = "../data/img/"
-    delete_duplicates(path_dir)
+    res = find_unique_frames(path_dir)
+    print(res)
 
 
 if __name__ == "__main__":
