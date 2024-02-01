@@ -48,5 +48,5 @@ def extract_frame(path_input:str, path_output_dir:str, freq:int) -> None:
 if __name__ == "__main__":
     fpath = "../data/video/csa.mp4"
     out_dir = "../data/img/"
-    freq = 15
+    freq = 10
     extract_frame(fpath, out_dir, freq)
