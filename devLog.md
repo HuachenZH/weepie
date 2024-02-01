@@ -6,6 +6,7 @@
 
 ## To improve / future work
 - in `delete_duplicate.py`, the function `is_the_same` is built. You can build another one, is_similar, calculate the error between two matrices, return true of error is smaller than the threshold. 
+- in `delete_duplicate.py`, the function `is_similar` can be much improved. For the moment lots of duplicates will be returned
 
 
 ## 自己挖的坑
