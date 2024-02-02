@@ -31,7 +31,7 @@ def extract_frame(path_input:str, path_output_dir:str, freq:int) -> None:
             continue
         count += 1
         frame.to_image().save(path_output_dir + f"frame_{count}.jpg")
-    print(count)
+    print(f"{count} images are written to disk.")
     
     #for packet in container.demux(stream):
     #        for frame in packet.decode():

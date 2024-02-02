@@ -20,11 +20,10 @@ def get_args():
 def main():
     args = get_args()
 
+    # $ python3 weepie.py extractFrames ../data/video/csa.mp4 
     if args.cmd_name == "extractFrames":
         breakpoint()
         extract_frame(args.videoPath, args.imageDirPath, args.frequency)
-        
-
     #video_path = "../data/video/csa.mp4"
     #out_dir = "../data/img/"
 
