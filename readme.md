@@ -28,4 +28,8 @@ This project is based on the open source OCR tool Tesseract. Apart from installi
 
 
 
+## later...
+to explain:
+- MSE and threshold
+- how to compare (list of image should be sorted)
 

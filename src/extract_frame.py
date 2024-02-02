@@ -16,7 +16,7 @@ def extract_frame(path_input:str, path_output_dir:str, freq:int) -> None:
                     e.g. 30 for 30 seconds.
 
             Returns:
-                    None
+                    None. Changes are written to disk directly.
     """
     container = av.open(path_input)
     # take first video stream

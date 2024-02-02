@@ -32,7 +32,7 @@ def mse(img1:np.ndarray, img2:np.ndarray) -> (float, np.ndarray):
 
 
 
-def is_similar(image1:np.ndarray, image2:np.ndarray) -> bool:
+def is_similar(image1:np.ndarray, image2:np.ndarray, threshold:float) -> bool:
     """Determines whether two images are similar.
     Determined by the mse of the pixel values of the two images.
     The threshold is 2 by default.
@@ -42,11 +42,14 @@ def is_similar(image1:np.ndarray, image2:np.ndarray) -> bool:
 
                     image2 (np.ndarray): Second image, should be in greyscale.
 
+                    threshold (float): Threshold of MSE for determining similarity
+                    of two images. The smaller the MSE, the more likey they are similar.
+
             Returns:
                     (bool): True if two images are similar.
     """
     error, diff = mse(image1, image2)
-    if error < 2:
+    if error < threshold:
         return True
     else:
         return False
@@ -112,7 +115,21 @@ def sort_filenames(list_filenames:list):
 
 
 
-def compare_frames_in_list(path_dir:str, sorted_filenames:list):
+def compare_frames_in_list(path_dir:str, sorted_filenames:list, threshold:float):
+    """In the given sorted list, compare each frame to the frame after it.
+    Return a list of unique frames.
+
+            Parameters:
+                    path_dir (str): path to the directory of frames.
+
+                    sorted_filenames (list): list of filenames. File name only, 
+                    do not include path to it. Should be sorted.
+
+                    threshold (float): threshold of MSE of determining similarity of two images.
+
+            Returns:
+                    list_uniq (list): list of filenames of unique frames.
+    """
     # iterate through the list of sorted_filenames
     # compare one by one if images are the same
     list_uniq = []
@@ -124,23 +141,24 @@ def compare_frames_in_list(path_dir:str, sorted_filenames:list):
         image2 = cv2.cvtColor(image2, cv2.COLOR_BGR2GRAY)
         #if is_the_same(image1, image2):
         #    list_duplicate.append(image2)
-        if not is_similar(image1, image2):
+        if not is_similar(image1, image2, threshold):
             list_uniq.append(sorted_filenames[i+1])
     return list_uniq
 
 
 
-def find_unique_frames(path_dir:str):
+def find_unique_frames(path_dir:str, threshold:float):
     list_filenames = get_filenames(path_dir)
     sorted_filenames = sort_filenames(list_filenames)
-    list_uniq = compare_frames_in_list(path_dir, sorted_filenames)
+    list_uniq = compare_frames_in_list(path_dir, sorted_filenames, threshold)
     return list_uniq
 
 
 
 def main():
     path_dir = "../data/img/"
-    res = find_unique_frames(path_dir)
+    threshold = 2
+    res = find_unique_frames(path_dir, threshold)
     print(res)
 
 
