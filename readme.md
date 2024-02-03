@@ -33,3 +33,4 @@ to explain:
 - MSE and threshold
 - how to compare (list of image should be sorted)
 
+## Contributing

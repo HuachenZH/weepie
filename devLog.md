@@ -17,3 +17,5 @@
 
 
 to resume:  
+- extract_text.py, now i have the list, join it into text
+- in each question, add at which second it is appeared
