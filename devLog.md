@@ -7,6 +7,8 @@
 ## To improve / future work
 - in `delete_duplicate.py`, the function `is_the_same` is built. You can build another one, is_similar, calculate the error between two matrices, return true of error is smaller than the threshold. 
 - in `delete_duplicate.py`, the function `is_similar` can be much improved. For the moment lots of duplicates will be returned
+- for unsure OCR, give at which time (min, sec) of the video
+- find a way to determine similar texts
 
 
 ## 自己挖的坑
@@ -15,4 +17,3 @@
 
 
 to resume:  
-weepie, test the subcommand

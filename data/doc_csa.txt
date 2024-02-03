@@ -1,0 +1,4043 @@
+NEXT QUESTION :-
+
+Which ServiceNow products can be used to discover and populate the CMDB? (Choose two.)
+A. Discovery
+
+B. IntegrationHub ETL
+
+C. Finder
+
+D. CMDB Plug-in
+
+E. CMDB Integration Dashboard
+
+Correct Answer is :- A, ands
+
+NEXT QUESTION :-
+
+When using the Load Data and Transform Map process, what is the Mapping Assist used for?
+
+A. Mapping fields using the Import Log
+
+B. Mapping fields using Transform History
+C. Mapping fields using an SLA
+
+D. Mapping fields using a Field Map
+Correct Answer is :- D
+
+NEXT QUESTION :-
+
+When using the Load Data and Transform Map process, what is the Mapping Assist used for?
+
+A. Mapping fields using the Import Log
+
+B. Mapping fields using Transform History
+C. Mapping fields using an SLA
+
+D. Mapping fields using a Field Map
+
+Correct Answer is :- D
+
+NEXT QUESTION :-
+
+Which one of the following statements describes the contents of the Configuration Management
+Database (CMDB)?
+
+A. The CMDB contains data about tangible and intangible business assets
+
+B. The CMDB contains the Business Rules that direct the intangible, configurable assets used by a
+company
+
+C. The CMDB archives all Service Management PaaS equipment metadata and usage statistics
+D. The CMDB contains ITIL process data pertaining to configuration items
+
+Correct Answer is :- A
+
+NEXT QUESTION :-
+
+In what order should filter elements be specified?
+A. Field, Operator, then Value
+
+B. Field, Operator, then Condition
+
+C. Operator, Condition, then Value
+
+D. Value, Operator, then Field
+
+Correct Answer is :- A
+
+NEXT QUESTION :-
+
+Which statement is true about business rules?
+
+A. A business rule must run before a database action occurs
+
+B. A business rule can be a piece of Javascript
+
+C. A business rule must not run before a database action occurs
+D. A business rule monitors fields on a form
+
+Correct Answer is :- 8
+
+NEXT QUESTION :-
+
+Which of the following are a type of client scripts supported in ServiceNow? (Choose four.)
+A. onSubmit
+
+B. onUpdate
+
+C. onCellEdit
+
+D. onLoad
+
+E. onEdit
+
+F. onChange
+
+G. onSave
+
+Correct Answer is :- A, Cc, DandF
+
+NEXT QUESTION :-
+
+Which type of tables may be extended by other tables, but do not extend another table?
+A. Base Tables
+
+B. Core Tables
+
+C. Extended Tables
+
+D. Custom Tables
+
+Correct Answer is :- A
+
+NEXT QUESTION :-
+
+Which of the following statement describes the purpose of an Order Guide?
+
+A. Order Guides restrict the number of items in an order to only one item per request
+
+B. Order Guide provide a list of guidelines for Administrators on how to set up item variables
+C. Order Guide provide the ability to order multiple, related items as one request
+
+D. Order Guides take the user directly to the checkout without prompting for information
+
+Correct Answer is :- c
+
+NEXT QUESTION :-
+
+Which tool is used to have conversations with logged-in users in real-time?
+
+A. Connect Chat
+
+B. Now Messenger
+C. User Presence
+D. Comments
+
+Correct Answer is :- A
+
+NEXT QUESTION :-
+
+Which of the following concepts are associated with the ServiceNow CMDB? (Choose four.)
+A. Service Processes
+
+B. User Permissions
+
+C. Tables and Fields
+
+D. A Database
+
+E. The Dependency View
+
+Correct Answer is :- A,c, Dande
+
+NEXT QUESTION :-
+
+What is a formatter? Select one of the following.
+
+A.A formatter allows you to configure applications on your instance
+
+B. A formatter is a form element used to display information that is not a field in the record
+C. A formatter allows you to populate fields automatically
+
+D. A formatter is a set of conditions applied to a table to help find and work with data
+
+Correct Answer is :- B
+
+NEXT QUESTION :-
+
+What is a formatter? Select one of the following.
+
+A.A formatter allows you to configure applications on your instance
+
+B. A formatter is a form element used to display information that is not a field in the record
+C. A formatter allows you to populate fields automatically
+
+D. A formatter is a set of conditions applied to a table to help find and work with data
+
+Correct Answer is :- 8
+
+NEXT QUESTION :-
+
+What is a formatter? Select one of the following.
+
+A. A formatter allows you to configure applications on your instance
+
+B. A formatter is a form element used to display information that is not a field in the record
+C. A formatter allows you to populate fields automatically
+
+D. A formatter is a set of conditions applied to a table to help find and work with data
+Correct Answer is :- B
+
+NEXT QUESTION :-
+
+When searching using the App Navigator search field, what can be returned? (Choose four.)
+A. Names of Applications and Modules
+
+B. Names of Modules
+
+C. Names of Applications
+
+D. Favorites
+
+E. History Records
+
+F. Titles of Dashboard Gauges
+
+Correct Answer is :- A, B, Cand pb
+
+NEXT QUESTION :-
+
+Which technique is used to get information from a series of referenced fields from different
+tables?
+
+A. Table-Walking
+
+B. Sys_ID Pulling
+
+C. Dot-Walking
+
+D. Record-Hopping
+
+Correct Answer is :- c
+
+NEXT QUESTION :-
+
+What is a schema map?
+
+A. Aschema map enables administrators to define records from specific tables as trouble sources
+for Configuration Items
+
+B. Aschema map graphically organizes the visual task boards for the CMDB
+
+C. Aschema map graphically displays the Configuration Items that support a business service
+
+D. Aschema map displays the details of tables and their relationships in a visual manner, allowing
+administrators to view and easily access different parts of the database schema
+
+Correct Answer is :- D
+
+NEXT QUESTION :-
+
+What is a schema map?
+
+A. Aschema map enables administrators to define records from specific tables as trouble sources
+for Configuration Items
+
+B. A schema map graphically organizes the visual task boards for the CMDB
+
+C. Aschema map graphically displays the Configuration Items that support a business service
+
+D. Aschema map displays the details of tables and their relationships in a visual manner, allowing
+administrators to view and easily access different parts of the database schema
+
+Correct Answer is :- D
+
+NEXT QUESTION :-
+
+What is a schema map?
+
+A. Aschema map enables administrators to define records from specific tables as trouble sources
+for Configuration Items
+
+B. Aschema map graphically organizes the visual task boards for the CMDB
+
+C. Aschema map graphically displays the Configuration Items that support a business service
+
+D. Aschema map displays the details of tables and their relationships in a visual manner, allowing
+administrators to view and easily access different parts of the database schema
+
+Correct Answer is :- D
+
+NEXT QUESTION :-
+
+Which one of the following statements best describes the purpose of an Update Set?
+
+A. An Update Set allows administrators to group a series of changes into a named set and then
+move this set as a unit to other systems
+
+B. By default, an Update Set includes customizations, Business Rules, and homepages
+
+C. An Update Set is a group of customizations that is moved from Production to Development
+D. By default, the changes included in an Update Set are visible only in the instance to which they
+are applied
+
+Correct Answer is :- A
+
+NEXT QUESTION :-
+
+Which of the following can be customized through the Basic Configuration Ul 16 module? (Choose
+three.)
+
+A. Banner Image
+
+B. Record Number Format
+
+C. Browser Tab Title
+
+D. System Date Format
+
+E. Form Header Size
+
+Correct Answer is :- A, Cc, andpb
+
+NEXT QUESTION :-
+
+Which of the following can be customized through the Basic Configuration UI 16 module? (Choose
+three.)
+
+A. Banner Image
+
+B. Record Number Format
+
+C. Browser Tab Title
+
+D. System Date Format
+
+E. Form Header Size
+
+Correct Answer is :- A, Cc, andb
+
+NEXT QUESTION :-
+
+What is the function of user impersonation?
+A. Testing and visibility
+
+B. Activate verbose logging
+
+C. View custom perspectives
+
+D. Unlock Application master list
+
+Correct Answer is :- A
+
+NEXT QUESTION :-
+
+What information does the System Dictionary contain?
+A. The human-readable labels and language settings
+
+B. The definition for each table and column
+
+C. The information on how tables relate to each other
+D. The language dictionary used for spell checking
+
+Correct Answer is :- B
+
+NEXT QUESTION :-
+
+How is the Event Log different from the Event Registry?
+
+A. Event Log contains generated Events, the Event Registry is a table of Event definitions
+
+B. Event Log is formatted in the Log style, the Event Registry displays different fields
+
+C. Event Log lists Events that were triggered by integrations, the Event Registry lists the Events that
+were
+
+triggered during the day (24-hour period)
+
+D. Event Log is the same as the Event Registry
+
+Correct Answer is :- A
+
+NEXT QUESTION :-
+
+What is a Dictionary Override?
+
+A. A Dictionary Override is an incoming customer update in an Update Set which applies to the
+same objects as a newer local customer update
+
+B. A Dictionary Override is the addition, modification, or removal of anything that could have an
+effect on IT services
+
+C. A Dictionary Override is a task within a flow that requests an action before the flow can
+continue
+
+D. A Dictionary Override sets field properties in extended tables
+
+Correct Answer is :- D
+
+NEXT QUESTION :-
+
+What is a Dictionary Override?
+
+A.A Dictionary Override is an incoming customer update in an Update Set which applies to the
+same objects as a newer local customer update
+
+B. A Dictionary Override is the addition, modification, or removal of anything that could have an
+effect on IT services
+
+C. A Dictionary Override is a task within a flow that requests an action before the flow can
+continue
+
+D. A Dictionary Override sets field properties in extended tables
+
+Correct Answer is :- D
+
+NEXT QUESTION :-
+
+Which group of permissions is used to control Application and Module access?
+A. Access Control Rules
+
+B. UI Policies
+
+C. Roles
+
+D. Assignment Rules
+
+Correct Answer is :- c
+
+NEXT QUESTION :-
+
+What is a Record Producer?
+
+A. A Record Producer is a type of Catalog Item that is used for Requests, not Services
+
+B. A Record Producer creates user records
+
+C. ARecord Producer is a type of Catalog Item that provides easy ordering by bundling requests
+D. A Record Producer is a type of a Catalog Item that allows users to create task-based records
+from the Service Catalog
+
+Correct Answer is :- D
+
+NEXT QUESTION :-
+
+What is a Record Producer?
+
+A. A Record Producer is a type of Catalog Item that is used for Requests, not Services
+
+B. A Record Producer creates user records
+
+C. A Record Producer is a type of Catalog Item that provides easy ordering by bundling requests
+D. A Record Producer is a type of a Catalog Item that allows users to create task-based records
+from the Service Catalog
+
+Correct Answer is :- D
+
+NEXT QUESTION :-
+
+Create Incident, Password Reset, and Report outage: what do these services in the Service Catalog
+have in common?
+
+A. They direct the user to a record producer
+
+B. They direct the user to a catalog property
+
+C. They direct the user to a catalog UI policy
+
+D. They direct the user to a catalog client script
+
+Correct Answer is :- A
+
+NEXT QUESTION :-
+
+What is the Import Set Table?
+
+A. A table where data will be placed, post-transformation
+B. A table that determines relationships
+
+C. A staging area for imported records
+
+D. A repository for Update Set information
+
+Correct Answer is :- c
+
+NEXT QUESTION :-
+
+What is a characteristic of importing data into ServiceNow?
+
+A. An existing Transform Map can be used one time on the same import set
+
+B. Coalesce fields are used only after running Transform
+
+C. Any user can manage and set up import sets
+
+D. An existing Transform Map can be used multiple times on the same import set
+
+Correct Answer is :- D
+
+NEXT QUESTION :-
+
+What module in the Service Catalog application does an Administrator access to begin creating a
+new item?
+
+A. Maintain Categories
+
+B. Maintain Items
+
+C. Content Items
+
+D. Items
+
+Correct Answer is :- B
+
+NEXT QUESTION :-
+
+Which of the following allows a user to edit field values in a list without opening the form?
+A. Data Editor
+
+B. Edit Menu
+
+C. List Editor
+
+D. Form Designer
+
+Correct Answer is :- c
+
+NEXT QUESTION :-
+
+Which three Variable Types can be added to a Service Catalog Item?
+A. True/False, Multiple Choice, and Ordered
+
+B. True/False, Checkbox, and Number List
+
+C. Number List, Single Line Text, and Reference
+
+D. Multiple Choice, Select Box, and Checkbox
+
+Correct Answer is :- D
+
+NEXT QUESTION :-
+
+How are Workflows moved between instances?
+
+A. Workflows are moved using Update Sets
+
+B. Workflows are moved using Transform Maps
+
+C. Workflows are moved using Application Sets
+
+D. Workflows cannot be moved between instances
+
+Correct Answer is :- A
+
+NEXT QUESTION :-
+
+The baseline Service Catalog homepage contains links to which of the following components?
+A. Record Producers, Order Guides, and Catalog Items
+
+B. Order Guides, Item Variables, and flows
+
+C. Order Guides, Catalog Items, and flows
+
+D. Record Producers, Order Guides, and Item Variables
+
+Correct Answer is :- A
+
+NEXT QUESTION :-
+
+Which of the following statements is true when a new table is created by extending another table?
+A. The new table archives the parent table and assumed its roles in the database
+
+B. The new table inherits all of the Business Rules, Client Scripts, and UI Policies of the parent table,
+but none of the existing fields
+
+C. The new table inherits all of the fields of the parent table and can also contain new fields unique
+to itself
+
+D. The new table inherits all of the fields, but does not inherit Access Control rules, Client Scripts,
+and UI Policies of the parent table
+
+Correct Answer is :- c
+
+NEXT QUESTION :-
+
+Where can Admins check which release is running on an ServiceNow instance?
+A. Memory Stats module
+
+B. Stats module
+
+C. System.upgraded table
+
+D. Transactions log
+
+Correct Answer is :- B
+
+NEXT QUESTION :-
+
+A knowledge article must be which of the following states to display to a user?
+A. Published
+
+B. Drafted
+
+C. Retired
+
+D. Reviewed
+
+Correct Answer is :- A
+
+NEXT QUESTION :-
+
+Whatis the name of the conversational bot platform that provides assistance to help users obtain
+information, make decisions, and perform common tasks?
+
+A. Answer Agent
+
+B. live Feed
+
+C. Virtual Agent
+
+D. Connect Chat
+
+Correct Answer is :- c
+
+NEXT QUESTION :-
+
+What is the purpose of a Related List?
+A. To create a one-to-many relationship
+B. To dot-walk to a core table
+
+C. To present related fields
+
+D. To present related records
+
+Correct Answer is :- D
+
+NEXT QUESTION :-
+
+Which one of the following statements describes the purpose of a Service Catalog flow?
+
+A. A Service Catalog flow generates three basic components: item variable types, tasks, and
+approvals
+
+B. Althougha Service Catalog flow cannot send notifications, the flow drives complex fulfillment
+processes
+
+C. A Service Catalog flow is used to drive complex fulfillment processes and sends notifications to
+defined users or groups
+
+D. A Service Catalog flow generates three basic components: item variable types, tasks, and
+notifications
+
+Correct Answer is :- c
+
+NEXT QUESTION :-
+
+Which ane of the following statements describes the purpose of a Service Catalog flow?
+
+A. A Service Catalog flow generates three basic components: item variable types, tasks, and
+approvals
+
+B. Althougha Service Catalog flow cannot send notifications, the flow drives complex fulfillment
+processes
+
+C. A Service Catalog flow is used to drive complex fulfillment processes and sends notifications to
+defined users or groups
+
+D. A Service Catalog flaw generates three basic components: item variable types, tasks, and
+notifications
+
+Correct Answer is :- ¢
+
+NEXT QUESTION :-
+
+Which one of the following statements describes the purpose of a Service Catalog flow?
+
+A. A Service Catalog flow generates three basic components: item variable types, tasks, and
+approvals
+
+B. Althougha Service Catalog flow cannot send notifications, the flow drives complex fulfillment
+processes
+
+C. A Service Catalog flow is used to drive complex fulfillment processes and sends notifications to
+defined users or groups
+
+D. A Service Catalog flow generates three basic components: item variable types, tasks, and
+notifications
+
+Correct Answer is :- c
+
+NEXT QUESTION :-
+
+Which term best describes something that is created, has worked performed upon it, and is
+eventually moved
+
+to a state of closed?
+
+A. report
+
+B. flow
+
+C. event
+
+D. task
+
+Correct Answer is :- D
+
+NEXT QUESTION :-
+
+Which are valid Service Now User Authentication Methods? (Choose three.)
+A. XML feed
+
+B. Local database
+
+C. LDAP
+
+D. SSO
+
+E. FTP authentication
+
+Correct Answer is :- 8B, c, and pb
+
+NEXT QUESTION :-
+
+Access Control rules may be defined with which of the following permission requirements?
+(Choose three.)
+
+A. Roles
+
+B. Conditional Expressions
+
+C. Assignment Rules
+
+D. Scripts
+
+E. User Criteria
+
+F. Groups
+
+Correct Answer is :- A, 8, andpD
+
+NEXT QUESTION :-
+
+Which section of the ServiceNow UI allows you to perform a global search?
+A. Application Navigator
+
+B. Banner frame
+
+C. List pane
+
+D. Content frame
+
+Correct Answer is :- B
+
+NEXT QUESTION :-
+
+How do you make a list filter available to everyone?
+A. Make active, assign a name, and save
+
+B. Assign a group, set visibility, and save
+
+C. Assign a name, set visibility, and save
+
+D. Make active, set visibility, and save
+
+Correct Answer is :- c
+
+NEXT QUESTION :-
+
+What would NOT appear in the Application Navigator if “service” is typed into the filter field?
+A. Configuration > Business Services
+
+B. Self-Service > Knowledge
+
+C. Service Portal > Widgets
+
+D. Incident > Assigned to me
+
+Correct Answer is :- D
+
+NEXT QUESTION :-
+
+Which tool should be used to populate commonly used fields in a form?
+A. Template
+
+B. Reference Qualifier
+
+C. Formatter
+
+D. Assignment Rule
+
+Correct Answer is :- A
+
+NEXT QUESTION :-
+
+How is a group defined in ServiceNow?
+
+A. A group is one record stored in the Group Type [sys_user_group_type] table
+B. A group is one record stored in the Group [sys_user_group] table
+
+C. A group defines a set of users that share the same location
+
+D. A group defines a set of users that share the same job title
+
+Correct Answer is :- B
+
+NEXT QUESTION :-
+
+What is a role in ServiceNow?
+
+A. A role is one record in the Role [user_sys_role] table
+B. A role is a set of modules for a particular application
+C. A role is one record in the Role [sys_user_role] table
+D. A role is a persona used in Live Feed Chat
+
+Correct Answer is :- c
+
+NEXT QUESTION :-
+
+What is a Notification?
+
+A. Anew Knowledge article created by a Business Rule
+
+B. A tool for alerting users that events that concern them have occurred
+C. A message through Connect related to a Change Request
+
+D. An email file attachment
+
+Correct Answer is :- B
+
+NEXT QUESTION :-
+
+Which one of the following is NOT a type of Visual Task Board?
+A. Flexible
+
+B. Freeform
+
+C. Feature
+
+D. Guided boards
+
+Correct Answer is :- c
+
+NEXT QUESTION :-
+
+What is (are) best practice(s) regarding users/groups/roles? (Choose two.)
+A. You should never assign roles to groups.
+
+B. You should assign roles to users.
+
+C. You should add users to groups.
+
+D. You should assign roles to groups.
+
+Correct Answer is :- c, andp
+
+NEXT QUESTION :-
+
+Which core table in the ServiceNow platform provides a series of standard fields used on each of
+the tables that extend it, such as the Incident [incident] and Problem [problem] tables?
+
+A. Task [task]
+
+B. Assignment [assignment]
+
+C. Service [service]
+
+D. Workflow [workflow]
+
+Correct Answer is :- A
+
+NEXT QUESTION :-
+
+Which of the following statements describes how data is organized in a table?
+A. Acolumn is a field in the database and a record is one user
+
+B. A column is one field and a record is one row
+
+C. Acolumn is one field and a record is one column
+
+D. Acolumn contains data from one user and a record is one set of fields
+
+Correct Answer is :- A
+
+NEXT QUESTION :-
+
+Which of the following statements describes how data is organized in a table?
+A. A column is a field in the database and a record is one user
+
+B. A column is one field and a record is one row
+
+C. Acolumn is one field and a record is one column
+
+D. Acolumn contains data from one user and a record is one set of fields
+
+Correct Answer is :- A
+
+NEXT QUESTION :-
+
+Which of the following statements describes how data is organized in a table?
+A. Acolumn is a field in the database and a record is one user
+
+B. A column is one field and a record is one row
+
+C. Acolumn is one field and a record is one column
+
+D. Acolumn contains data from one user and a record is one set of fields
+
+Correct Answer is :- A
+
+NEXT QUESTION :-
+
+What is a sys_id?
+
+A. Unique 32-character identifier that is assigned to every record
+B. A client-side Business Rule
+
+C. Aserver-side Business Rule
+
+D. Unique 64-character identifier that is assigned to every record
+
+Correct Answer is :- A
+
+NEXT QUESTION :-
+
+When creating a global custom table named “abc”, what is the table name that is automatically
+assigned by the platform?
+
+A. snc_abc
+
+B. abc
+
+C. u_abc
+
+D. sys_abc
+
+Correct Answer is :- c
+
+NEXT QUESTION :-
+
+Access Control rules may provide access security for which of the following database objects?
+A. For a specific role, group, or user
+
+B. For a specific row, column, or table
+
+C. For specific groups
+
+D. For a specific CMDB Configuration item
+
+Correct Answer is :- D
+
+NEXT QUESTION :-
+
+What is the primary application used to load data into ServiceNow?
+A. Service Level Management
+
+B. Configuration
+
+C. System Import Sets
+
+D. System Update Sets
+
+Correct Answer is :- c
+
+NEXT QUESTION :-
+What is the difference between a UI Policy and Data Policy?
+A. Data Policies run when data is entered through the form, by an Import Set, or by web services,
+
+while UI Policies are set only by web services
+B. Data Policies can be converted into UI Policies, but UI Policies cannot be converted into Data
+
+Policies
+C. Data Policies run regardless of how data is entered into ServiceNow, while UI Policies are used
+
+for form interactions
+D. Data Policies run only after UI Policies run successfully
+
+Correct Answer is :- c
+
+NEXT QUESTION :-
+
+What is the difference between a UI Policy and Data Policy?
+
+A. Data Policies run when data is entered through the form, by an Import Set, or by web services,
+while UI Policies are set only by web services
+
+B. Data Policies can be converted into UI Policies, but UI Policies cannot be converted into Data
+Policies
+
+C. Data Policies run regardless of how data is entered into ServiceNow, while UI Policies are used
+for form interactions
+
+D. Data Policies run only after UI Policies run successfully
+
+Correct Answer is :- c
+
+NEXT QUESTION :-
+What is the difference between a UI Policy and Data Policy?
+A. Data Policies run when data is entered through the form, by an Import Set, or by web services,
+
+while UI Policies are set only by web services
+B. Data Policies can be converted into UI Policies, but UI Policies cannot be converted into Data
+
+Policies
+C. Data Policies run regardless of how data is entered into ServiceNow, while UI Policies are used
+
+for form interactions
+D. Data Policies run only after UI Policies run successfully
+
+Correct Answer is :- c
+
+NEXT QUESTION :-
+
+Which one of the following is an accurate list of changes that are captured in an Update Set?
+A. Changes made to: tables, forms, schedules, and client scripts
+
+B. Changes made to: tables, forms, Business Rules, and data records
+
+C. Changes made to: tables, forms, groups, and configuration items (Cls)
+
+D. Changes made to: table, forms, views, and fields
+
+Correct Answer is :- D
+
+NEXT QUESTION :-
+
+IntegrationHub enables execution of third-party APIs as a part of a flow. These integrations are
+referred to as
+
+A. an action
+
+B. aspoke
+
+C. aconnection
+
+D. an integration step
+
+Correct Answer is :- B
+
+NEXT QUESTION :-
+
+Which of the following protects applications by identifying and restricting access to available files
+and data?
+
+A. Application Configuration
+
+B. Verbose Log
+
+C. Access Control Rules
+
+D. Application Scope
+
+Correct Answer is :- D
+
+NEXT QUESTION :-
+
+Which one statement correctly describes Access Control rule evaluation?
+
+A. Table access rules are evaluated from the general to the specific
+
+B. If more than one rule applies to a record, the older rule is evaluated first
+
+C. If a row level rule and a field level rule exist, both rules must be true before an operation is
+allowed
+
+D. The role with the most permissions evaluates the rules first.
+
+Correct Answer is :- c
+
+NEXT QUESTION :-
+
+ServiceNow contains a resource which provides the following:
+
+1. Astandard and shared set of service related definitions across ServiceNow products and
+platform that will enable and support true service level reporting.
+
+2. ACMDB framework across our products and platform that will enable and support multiple
+configuration strategies.
+
+What resource do these statements describe?
+
+A. Common Services Data Model (CSDM)
+
+B. Information Technology Service Management (ITSM)
+C. Configuration Management Database (CMDB)
+
+D. Information Technology Infrastructure Library (ITIL)
+Correct Answer is :- A
+
+NEXT QUESTION :-
+
+ServiceNow contains a resource which provides the following:
+
+1. A standard and shared set of service related definitions across ServiceNow products and
+platform that will enable and support true service level reporting.
+
+2. ACMDB framework across our products and platform that will enable and support multiple
+configuration strategies.
+
+What resource do these statements describe?
+
+A. Common Services Data Model (CSDM)
+
+B. Information Technology Service Management (ITSM)
+C. Configuration Management Database (CMDB)
+
+D. Information Technology Infrastructure Library (ITIL)
+Correct Answer is :- A
+
+NEXT QUESTION :-
+
+An IT manager is responsible for the Network and Hardware assignment groups, each group
+contains 5 team members. These team members are working on many tasks, but the manager
+cannot see any tasks on the Service Desk > My Groups Work list. What could explain this?
+
+A. The Service Desk > My Groups Work list shows active work tasks that are not yet assigned.
+B. The manager does not have the itil role.
+
+C. The manager is not a member of the Service Desk group.
+
+D. The manager is not a member of the Network and Hardware groups.
+
+E. The Assignment Group manager field is empty.
+
+Correct Answer is :- B
+
+NEXT QUESTION :-
+
+An IT manager is responsible for the Network and Hardware assignment groups, each group
+contains 5 team members. These team members are working on many tasks, but the manager
+cannot see any tasks on the Service Desk > My Groups Work list. What could explain this?
+
+A. The Service Desk > My Groups Work list shows active work tasks that are not yet assigned.
+B. The manager does not have the itil role.
+
+C. The manager is not a member of the Service Desk group.
+
+D. The manager is not a member of the Network and Hardware groups.
+
+E. The Assignment Group manager field is empty.
+
+Correct Answer is :- 8
+
+NEXT QUESTION :-
+
+An IT manager is responsible for the Network and Hardware assignment groups, each group
+contains 5 team members. These team members are working on many tasks, but the manager
+cannot see any tasks on the Service Desk > My Groups Work list. What could explain this?
+
+A. The Service Desk > My Groups Work list shows active work tasks that are not yet assigned.
+B. The manager does not have the itil role.
+
+C. The manager is not a member of the Service Desk group.
+
+D. The manager is not a member of the Network and Hardware groups.
+
+E. The Assignment Group manager field is empty.
+
+Correct Answer is :- B
+
+NEXT QUESTION :-
+
+Which ServiceNow resource is a framework that ensures the data your ServiceNow application
+requires maps
+
+correctly to the appropriate CMDB tables?
+
+A. Common Service Data Model (CSDM)
+
+B. Service Mapping Utility (SMU)
+
+C. Service Schema Map (SSM)
+
+D. CMDB Class Manager (CMDBCM)
+
+E. Cl Class Manager (CICM)
+
+Correct Answer is :- A
+
+NEXT QUESTION :-
+
+What do you activate when you want to add applications or functionality within your development
+instance?
+
+A. App Package
+
+B. Updated Pack
+
+C. Patch
+
+D. Plugin
+
+E. App Updated Set
+
+Correct Answer is :- D
+
+NEXT QUESTION :-
+
+What field contains a record’s 32-character, unique identifier?
+A. sn_rec_id
+
+B. rec_id
+
+C. u_id
+
+D. sys_id
+
+E. sn_gu_id
+
+F. sn_sys_id
+
+G.id
+
+Correct Answer is :- D
+
+NEXT QUESTION :-
+
+Your company is giving all first line workers a special T-shirt as a recognition for their hard work.
+Management team wants a way for employees to order the T-shirt, with the ability to specify the
+preferred size and color. How would you ensure that only first line workers (non-managers) can
+submit the order?
+
+A. Create Record Producer and use the Available For list to specify First Line [sn_first_line] role
+
+B. Create Catalog Item and use the Not Available list to specify the Manager Group
+
+C. Create Catalog Item and use the Available For list to specify ITIL [itil] role
+
+D. Create Order Guide and use the User Criteria list to specify First Line [sn_first_line] role
+
+Correct Answer is :- 8
+
+NEXT QUESTION :-
+
+Your company is giving all first line workers a special T-shirt as a recognition for their hard work.
+Management team wants a way for employees to order the T-shirt, with the ability to specify the
+preferred size and color. How would you ensure that only first line workers (non-managers) can
+submit the order?
+
+A. Create Record Producer and use the Available For list to specify First Line [sn_first_line] role
+
+B. Create Catalog Item and use the Not Available list to specify the Manager Group
+
+C. Create Catalog Item and use the Available For list to specify ITIL [itil] role
+
+D. Create Order Guide and use the User Criteria list to specify First Line [sn_first_line] role
+
+Correct Answer is :- B
+
+NEXT QUESTION :-
+
+Your company is giving all first line workers a special T-shirt as a recognition for their hard work.
+Management team wants a way for employees to order the T-shirt, with the ability to specify the
+preferred size and color. How would you ensure that only first line workers (non-managers) can
+submit the order?
+
+A. Create Record Producer and use the Available For list to specify First Line [sn_first_line] role
+B. Create Catalog Item and use the Not Available list to specify the Manager Group
+
+C. Create Catalog Item and use the Available For list to specify ITIL [itil] role
+
+D. Create Order Guide and use the User Criteria list to specify First Line [sn_first_line] role
+Correct Answer is :- B
+
+NEXT QUESTION :-
+
+Your company is giving all first line workers a special T-shirt as a recognition for their hard work.
+Management team wants a way for employees to order the T-shirt, with the ability to specify the
+preferred size and color. How would you ensure that only first line workers (non-managers) can
+submit the order?
+
+A. Create Record Producer and use the Available For list to specify First Line [sn_first_line] role
+
+B. Create Catalog Item and use the Not Available list to specify the Manager Group
+
+C. Create Catalog Item and use the Available For list to specify ITIL [itil] role
+
+D. Create Order Guide and use the User Criteria list to specify First Line [sn_first_line] role
+
+Correct Answer is :- B
+
+NEXT QUESTION :-
+
+Your company is giving all first line workers a special T-shirt as a recognition for their hard work.
+Management team wants a way for employees to order the T-shirt, with the ability to specify the
+preferred size and color. How would you ensure that only first line workers (non-managers) can
+submit the order?
+
+A. Create Record Producer and use the Available For list to specify First Line [sn_first_line] role
+B. Create Catalog Item and use the Not Available list to specify the Manager Group
+
+C. Create Catalog Item and use the Available For list to specify ITIL [itil] role
+
+D. Create Order Guide and use the User Criteria list to specify First Line [sn_first_line] role
+Correct Answer is :- B
+
+NEXT QUESTION :-
+
+What is used frequently to move customizations from one instance to another?
+A. Update Sets
+
+B. Code Sets
+
+C. Update Packs
+
+D. Configuration Logs
+
+E. Remote Sets
+
+F. Local Sets
+
+G. Code Packs
+
+Correct Answer is :- A
+
+NEXT QUESTION :-
+
+What feature can track the amount of time that a task has been open, to ensure that tasks are
+completed
+
+within an allotted time?
+
+A. Task Escalation Clock
+
+B. Service Level Agreements
+
+C. Inactivity Monitor
+
+D. Response Time Clock
+
+E. Business Time Remaining
+
+Correct Answer is :- B
+
+NEXT QUESTION :-
+
+What is a quick way to create a report from a list view?
+
+A. Click on filter breadcrumb, drag and drop on the Report > Create New module
+B. Click Funnel, define filter conditions, click Create Report
+
+C. Click Context Menu, select Create Report
+
+D. Apply filter, right click on column header, select Bar Chart
+
+E. Apply filter, right click on column header, select Create Report
+
+Correct Answer is :- B
+
+NEXT QUESTION :-
+
+What import utility do you use when the field names on the import set match the name of the
+fields on the
+
+Target table?
+
+A. Schema Mapping
+
+B. Automatic Mapping
+
+C. Mapping Assist
+
+D. Mapping Dashboard
+
+Correct Answer is :- B
+
+NEXT QUESTION :-
+
+As an IT employee what interface would you use, if you wanted to browse internal IT
+documentation, like troubleshooting scripts and FAQs?
+
+A. Knowledge
+
+B. ServiceNow Wiki
+
+C. Knowledge Now
+
+D. SharePoint
+
+E. Stack Overflow
+
+Correct Answer is :- A
+
+NEXT QUESTION :-
+
+What are three security modules often used by the System Administrator? (Choose three.)
+A. System Properties > Security
+
+B. Utilities > Migrate Security
+
+C. System Security > Security
+
+D. Self-Service > My Access
+
+E. System Security > Access Control (ACL)
+
+F. Password Management > Security Questions
+
+G. System Security > High Security Settings
+
+Correct Answer is :- A,EandG
+
+NEXT QUESTION :-
+
+What is a no-code approach to control the mandatory or read-only state of a form field?
+A. Ul Action
+
+B. Client Script
+
+C. UI Script
+
+D. UI Rule
+
+E. Ul Policy
+
+Correct Answer is :- —
+
+NEXT QUESTION :-
+
+When moving multiple update sets at one time, what might you do to facilitate the move?
+A. Batch
+
+B. Verify
+
+C. Test
+
+D. Preview
+
+Correct Answer is :- D
+
+NEXT QUESTION :-
+
+What is specified in an Access Control rule?
+
+A. Groups, Conditional Expressions and Workflows
+
+B. Table Schema, CRUD, and User Authentication
+
+C. Object and Operation being secured; Permissions required to access the object
+D. security_admin
+
+Correct Answer is :- c
+
+NEXT QUESTION :-
+
+Which icon would you double click, to expand and collapse the list of all Applications and Modules?
+A. Star
+
+B. Clock
+
+C. Application
+
+D. Funnel
+
+Correct Answer is :- c
+
+NEXT QUESTION :-
+
+What do you call any component that needs to be managed in order to deliver services?
+A. CSDM Items
+
+B. CMDB
+
+C. Configuration item
+
+D. Service Offerings
+
+E. Asset
+
+Correct Answer is :- c
+
+NEXT QUESTION :-
+
+Anewservice catalog item is being developed, but should only be visible to managers inside the HR
+
+Department. What method would you use to fulfill this requirement?
+
+A. Specify the Dept_Megr role on the catalog content block
+
+B. Add the Department Manager group to the catalog item’s user criteria
+C. Add the Department Manager group to the catalog item’s ACL
+
+D. Only publish the item in the HR service catalog
+
+E. Use a Dept_Mgr ACL on the HR service catalog
+
+Correct Answer is :- c
+
+NEXT QUESTION :-
+
+A user wants to create a set of filter conditions, where they want to show records which satisfy
+two conditions:
+
+Incidents where the state is Closed, Incidents where Assignment Group is Network, After clicking
+the Funnel icon, what should the user do?
+
+A. Define the first condition; click AND button; define second condition; click Run
+
+B. Define the first condition; click AND button; define second condition; press enter
+
+C. Define the first condition; click OR button; define second condition; press enter
+
+D. Define the first condition; click > icon on breadcrumb, define second condition; click Run
+
+E. Define the first condition; click > icon on breadcrumb, define second condition; press enter
+
+Correct Answer is :- A
+
+NEXT QUESTION :-
+
+A user wants to create a set of filter conditions, where they want to show records which satisfy
+two conditions:
+
+Incidents where the state is Closed, Incidents where Assignment Group is Network, After clicking
+the Funnel icon, what should the user do?
+
+A. Define the first condition; click AND button; define second condition; click Run
+
+B. Define the first condition; click AND button; define second condition; press enter
+
+C. Define the first condition; click OR button; define second condition; press enter
+
+D. Define the first condition; click > icon on breadcrumb, define second condition; click Run
+
+E. Define the first condition; click > icon on breadcrumb, define second condition; press enter
+Correct Answer is :- A
+
+NEXT QUESTION :-
+
+Access Control rules are applied to a specific table, like the Incident table. What is the object name
+for arule that is specific to the Incident table and the Major Incident field?
+
+A. Incident.Major_Incident
+
+B. incident=>major_incident
+
+C. incident<=>major_incident
+
+D. incident| | major_incident
+
+E. incident.major_incident
+
+Correct Answer is :- —
+
+NEXT QUESTION :-
+
+Access Control rules are applied to a specific table, like the Incident table. What is the object name
+for a rule that is specific to the Incident table and the Major Incident field?
+
+A. Incident.Major_Incident
+
+B. incident=>major_incident
+
+C. incident<=>major_incident
+
+D. incident| | major_incident
+
+E. incident.major_incident
+
+Correct Answer is :- —
+
+NEXT QUESTION :-
+
+Access Control rules are applied to a specific table, like the Incident table. What is the object name
+for arule that is specific to the Incident table and the Major Incident field?
+
+A. Incident.Major_Incident
+
+B. incident=>major_incident
+
+C. incident<=>major_incident
+
+D. incident| | major_incident
+
+E. incident.major_incident
+
+Correct Answer is :- —
+
+Two departments (HR Onboarding and Facilities) have come to you, asking for a way for
+employees to request
+
+event room set up services. The requirements are the same for the form and the task routing to
+the Facilities’
+
+assignment group.
+
+For HR, the item will be used primarily for the Onboarding coordinators, for employee orientation
+sessions.
+
+For Facilities, the item will be used for anyone in the company who needs room set up services.
+However, both departments have their own service catalogs. What do you do, to support these
+requirements?
+
+A. Create one Catalog Item for HR Event Room Set Up and one for Facilities Event Room Set Up;
+then
+
+publish each to the appropriate Catalog.
+
+B. Create one Catalog Item for Event Room Set Up; then publish to both Catalogs.
+
+C. Create one Catalog Item for Event Room Set Up; then publish to the Parent Catalog, which is
+accessible to
+
+both HR and Facilities.
+
+Two departments (HR Onboarding and Facilities) have come to you, asking for a way for
+employees to request
+
+event room setup services. The requirements are the same for the form and the task routing to
+the Facilities’
+
+assignment group.
+
+For HR, the item will be used primarily for the Onboarding coordinators, for employee orientation
+sessions.
+
+For Facilities, the item will be used for anyone in the company who needs room set up services.
+However, both departments have their own service catalogs. What do you do, to support these
+requirements?
+
+A. Create one Catalog Item for HR Event Room Set Up and one for Facilities Event Room Set Up;
+then
+
+publish each to the appropriate Catalog.
+
+B. Create one Catalog Item for Event Room Set Up; then publish to both Catalogs.
+
+C. Create one Catalog Item for Event Room Set Up; then publish to the Parent Catalog, which is
+accessible to
+
+both HR and Facilities.
+
+Two departments (HR Onboarding and Facilities) have come to you, asking for a way for
+employees to request
+
+event room set up services. The requirements are the same for the form and the task routing to
+the Facilities’
+
+assignment group.
+
+For HR, the item will be used primarily for the Onboarding coordinators, for employee orientation
+sessions.
+
+For Facilities, the item will be used for anyone in the company who needs room set up services.
+However, both departments have their own service catalogs. What do you do, to support these
+requirements?
+
+A. Create one Catalog Item for HR Event Room Set Up and one for Facilities Event Room Set Up;
+then
+
+publish each to the appropriate Catalog.
+
+B. Create one Catalog Item for Event Room Set Up; then publish to both Catalogs.
+
+C. Create one Catalog Item for Event Room Set Up; then publish to the Parent Catalog, which is
+accessible to
+
+both HR and Facilities.
+
+Two departments (HR Onboarding and Facilities) have come to you, asking for a way for
+employees to request
+
+event room setup services. The requirements are the same for the form and the task routing to
+the Facilities’
+
+assignment group.
+
+For HR, the item will be used primarily for the Onboarding coordinators, for employee orientation
+sessions.
+
+For Facilities, the item will be used for anyone in the company who needs room set up services.
+However, both departments have their own service catalogs. What do you do, to support these
+requirements?
+
+A. Create one Catalog Item for HR Event Room Set Up and one for Facilities Event Room Set Up;
+then
+
+publish each to the appropriate Catalog.
+
+B. Create one Catalog Item for Event Room Set Up; then publish to both Catalogs.
+
+C. Create one Catalog Item for Event Room Set Up; then publish to the Parent Catalog, which is
+accessible to
+
+both HR and Facilities.
+
+Two departments (HR Onboarding and Facilities) have come to you, asking for a way for
+employees to request
+
+event room set up services. The requirements are the same for the form and the task routing to
+the Facilities’
+
+assignment group.
+
+For HR, the item will be used primarily for the Onboarding coordinators, for employee orientation
+sessions.
+
+For Facilities, the item will be used for anyone in the company who needs room set up services.
+However, both departments have their own service catalogs. What do you do, to support these
+requirements?
+
+A. Create one Catalog Item for HR Event Room Set Up and one for Facilities Event Room Set Up;
+then
+
+publish each to the appropriate Catalog.
+
+B. Create one Catalog Item for Event Room Set Up; then publish to both Catalogs.
+
+C. Create one Catalog Item for Event Room Set Up; then publish to the Parent Catalog, which is
+accessible to
+
+both HR and Facilities.
+
+Two departments (HR Onboarding and Facilities) have come to you, asking for a way for
+employees to request
+
+event room setup services. The requirements are the same for the form and the task routing to
+the Facilities’
+
+assignment group.
+
+For HR, the item will be used primarily for the Onboarding coordinators, for employee orientation
+sessions.
+
+For Facilities, the item will be used for anyone in the company who needs room set up services.
+However, both departments have their own service catalogs. What do you do, to support these
+requirements?
+
+A. Create one Catalog Item for HR Event Room Set Up and one for Facilities Event Room Set Up;
+then
+
+publish each to the appropriate Catalog.
+
+B. Create one Catalog Item for Event Room Set Up; then publish to both Catalogs.
+
+C. Create one Catalog Item for Event Room Set Up; then publish to the Parent Catalog, which is
+accessible to
+
+both HR and Facilities.
+
+Two departments (HR Onboarding and Facilities) have come to you, asking for a way for
+employees to request
+
+event room set up services. The requirements are the same for the form and the task routing to
+the Facilities’
+
+assignment group.
+
+For HR, the item will be used primarily for the Onboarding coordinators, for employee orientation
+sessions.
+
+For Facilities, the item will be used for anyone in the company who needs room set up services.
+However, both departments have their own service catalogs. What do you do, to support these
+requirements?
+
+A. Create one Catalog Item for HR Event Room Set Up and one for Facilities Event Room Set Up;
+then
+
+publish each to the appropriate Catalog.
+
+B. Create one Catalog Item for Event Room Set Up; then publish to both Catalogs.
+
+C. Create one Catalog Item for Event Room Set Up; then publish to the Parent Catalog, which is
+accessible to
+
+both HR and Facilities.
+
+the Facilities’
+
+assignment group.
+
+For HR, the item will be used primarily for the Onboarding coordinators, for employee orientation
+sessions.
+
+For Facilities, the item will be used for anyone in the company who needs room set up services.
+However, both departments have their own service catalogs. What do you do, to support these
+requirements?
+
+A. Create one Catalog Item for HR Event Room Set Up and one for Facilities Event Room Set Up;
+then
+
+publish each to the appropriate Catalog.
+
+B. Create one Catalog Item for Event Room Set Up; then publish to both Catalogs.
+
+C. Create one Catalog Item for Event Room Set Up; then publish to the Parent Catalog, which is
+accessible to
+
+both HR and Facilities.
+
+D. Create one Catalog Item for Event Room Set Up; then use ACLs to control access.
+
+Correct Answer is :- c
+
+NEXT QUESTION :-
+
+After finishing your work on High Security Settings, what do you do to return to normal admin
+security levels?
+
+A. Select Normal role
+
+B. Log out and back in
+
+C. Use System Administration > Normal Security module
+
+D. Select Global Update Set
+
+E. End Impersonation
+
+Correct Answer is :- B
+
+NEXT QUESTION :-
+
+Which module would you use to create a new automation of business logic such as approvals,
+tasks, and
+
+notifications?
+
+A. Process Automation > Flow Designer
+
+B. Process Automation > Flow Administration
+
+C. Process Automation > Workflow Editor
+
+D. Process Automation > Process Flow
+
+E. Process Automation > Active Flows
+
+Correct Answer is :- A
+
+NEXT QUESTION :-
+
+A department manager asks an analyst to build some reports. Where do you recommend the
+analyst start?
+
+A. Report Dashboard > Create New
+
+B. Reports > Getting Started
+
+C. Performance Analytics > Reports
+
+D. Self-Service > Reports
+
+E. Reports > Create New
+
+Correct Answer is :- —
+
+NEXT QUESTION :-
+
+What are the steps for applying an update set to an instance?
+A. Retrieve, Preview, Commit
+
+B. Specify, Transform, Apply
+
+C. Retrieve, Assess, Apply
+
+D. Get, Test, Push
+
+E. Pull, Review, Push
+
+Correct Answer is :- A
+
+NEXT QUESTION :-
+
+When importing spreadsheet data into ServiceNow, in which step does the data get written to the
+receiving
+
+table?
+
+A. Run Transform
+
+B. Run Import
+
+C. Import Dataset
+
+D. Execute Transform
+
+E. Schedule Transform
+
+Correct Answer is :- D
+
+NEXT QUESTION :-
+
+What would you do, ona list, if you wanted to show the records in groups, based on the column
+category? (Choose two.)
+
+A. On list Context Menu, select Group By > Category
+
+B. On the Filter Menu, select Group By > Category
+
+C. Click Group On icon, select Category
+
+D. On Navigator Filter, type tablename.group.category and press enter
+
+E. On the Category column title, click Context menu > Group By Category
+
+Correct Answer is :- A, ande
+
+NEXT QUESTION :-
+
+What would you do, ona list, if you wanted to show the records in groups, based on the column
+category? (Choose two.)
+
+A. On list Context Menu, select Group By > Category
+
+B. On the Filter Menu, select Group By > Category
+
+C. Click Group On icon, select Category
+
+D. On Navigator Filter, type tablename.group.category and press enter
+
+E. On the Category column title, click Context menu > Group By Category
+
+Correct Answer is :- A, andeé
+
+NEXT QUESTION :-
+
+What would you do, ona list, if you wanted to show the records in groups, based on the column
+category? (Choose two.)
+
+A. On list Context Menu, select Group By > Category
+
+B. On the Filter Menu, select Group By > Category
+
+C. Click Group On icon, select Category
+
+D. On Navigator Filter, type tablename.group.category and press enter
+
+E. On the Category column title, click Context menu > Group By Category
+
+Correct Answer is :- A, ande
+
+NEXT QUESTION :-
+
+Which collaboration tool is available from the banner, using the bubble icon?
+A. Now Messenger
+
+B. Agent Chat
+
+C. Connect Chat
+
+D. Collaborate Now
+
+E. Live Feed
+
+Correct Answer is :- c
+
+NEXT QUESTION :-
+
+On the knowledge base record, which tab would you use to define which users are not able to
+write articles to the knowledge base?
+
+A. Can Contribute
+
+B. Cannot Author
+
+C. Cannot Contribute
+
+D. Cannot Write
+
+E. Read Only
+
+Correct Answer is :- c
+
+NEXT QUESTION :-
+
+Which features allow you to update multiple records at one time? (Choose two.)
+A. List Editor
+
+B. Field Update Action
+
+C. Bulk Record Update
+
+D. Data Remediation Dashboard
+
+E. Update Selected Action
+
+Correct Answer is :- AandB
+
+NEXT QUESTION :-
+Categories in the knowledge base, by default, can be created and edited by which knowledge
+workers? (Choose two.)
+
+A. Knowledge Authors
+
+B. Knowledge Contributors
+
+C. Knowledge Controller
+
+D. Knowledge Managers
+
+E. Knowledge Category Managers
+
+F. Knowledge Submitters
+
+G. Knowledge Owners
+
+H. Knowledge Taxonomy Owner
+Correct Answer is :- BandD
+
+NEXT QUESTION :-
+
+Which collaboration tool opensa sidebar and allows you to create new conversations with other
+ServiceNow
+
+users?
+
+A. Skype Now
+
+B. Collaborate Now
+
+C. Agent Messenger
+
+D. Agent Chat
+
+E. Connect Chat
+
+Correct Answer is :-
+
+NEXT QUESTION :-
+
+What component causes a flow to run after a record has been created or updated?
+A. Date-based trigger
+
+B. On-change trigger
+
+C. Record-based trigger
+
+D. Application-based trigger
+
+E. Updated-date trigger
+
+Correct Answer is :-
+
+NEXT QUESTION :-
+
+What type of field is Boolean and appears as a check box?
+A. Yes/No
+
+B. True/False
+
+C. On/Off
+
+D. Binary
+
+E.0/1
+
+Correct Answer is :- B
+
+NEXT QUESTION :-
+
+Which module is used to access the knowledge bases which are available to you?
+A. Knowledge > Home
+
+B. Self Service > Knowledge
+
+C. Knowledge > All
+
+D. Knowledge > Knowledge Bases
+
+E. Knowledge > Overview
+
+Correct Answer is :- D
+
+NEXT QUESTION :-
+
+Acustomer requests the following data quality measures be added:
+
+Incident numbers should be read only, on all lists and forms, for all users. Short Description field
+should be mandatory, on all records, across all applications, on Insert. Which type of policy would
+you use to meet this requirement?
+
+A. Data Quality Policy
+
+B. Dictionary Design Policy
+
+C. UI Data Policy
+
+D. UI Policy
+
+E. Field Criteria Policy
+
+F. Data Policy
+
+Correct Answer is :- D
+
+NEXT QUESTION :-
+
+A customer requests the following data quality measures be added:
+
+Incident numbers should be read only, on all lists and forms, for all users. Short Description field
+should be mandatory, on all records, across all applications, on Insert. Which type of policy would
+you use to meet this requirement?
+
+A. Data Quality Policy
+
+B. Dictionary Design Policy
+
+C. Ul Data Policy
+
+D. UI Policy
+
+E. Field Criteria Policy
+
+F. Data Policy
+
+Correct Answer is :- D
+
+NEXT QUESTION :-
+
+A customer requests the following data quality measures be added:
+
+Incident numbers should be read only, on all lists and forms, for all users. Short Description field
+should be mandatory, on all records, across all applications, on Insert. Which type of policy would
+you use to meet this requirement?
+
+A. Data Quality Policy
+
+B. Dictionary Design Policy
+
+C. UI Data Policy
+
+D. UI Policy
+
+E. Field Criteria Policy
+
+F. Data Policy
+
+Correct Answer is :- D
+
+NEXT QUESTION :-
+
+What type of user (persona) has clearly defined paths and workflows in the platform and have one
+or more roles (ie itil and approver_user)?
+
+A. Workflow User
+
+B. Request Fulfiller
+
+C. ITSM User
+
+D. Approving Manager
+
+E. Service Desk User
+
+F. Process User
+
+Correct Answer is :- D
+
+NEXT QUESTION :-
+
+Which module would you use to customize your instances banner image, text and colors?
+A. System UI > Ul Pages > Branding
+
+B. Service Portal > Portals > Branding
+
+C. System Properties > Basic Configuration UI16
+
+D. System Properties > Branding
+
+E. Homepage Admin > Pages > Branding
+
+Correct Answer is :- c
+
+NEXT QUESTION :-
+
+Which module would you use to customize your instances banner image, text and colors?
+A. System UI > UI Pages > Branding
+
+B. Service Portal > Portals > Branding
+
+C. System Properties > Basic Configuration UI16
+
+D. System Properties > Branding
+
+E. Homepage Admin > Pages > Branding
+
+Correct Answer is :- c
+
+NEXT QUESTION :-
+
+Whatis the name of the table relationship, where two or more tables are related in a bi-directional
+relationship,
+
+so that the related records are visible from both tables in a related list?
+
+A. Database View
+
+B. Many to Many
+
+C. One to Many
+
+D. Extended
+
+Correct Answer is :- B
+
+NEXT QUESTION :-
+
+On a Form header, what is the three bar icon called?
+A. Pancake icon
+
+B. Additional Actions or Context Menu
+
+C. Hamburger icon
+
+D. Cake icon
+
+Correct Answer is :- B
+
+NEXT QUESTION :-
+
+Group records are stored in which table?
+A. Group [sn_user_group]
+
+B. Group [sys_user_group]
+
+C. Group [s_sys_group]
+
+D. Group [u_sys_group]
+
+Correct Answer is :- B
+
+NEXT QUESTION :-
+
+What function do you use to add buttons, links, and context menu items on forms and lists?
+A. UI Policies
+
+B. UI Settings
+
+C. Ul Actions
+
+D. UI Config
+
+Correct Answer is :- c
+
+NEXT QUESTION :-
+
+On a Business Rule, the When setting determines at what point the rule executes. What are the
+options for specifying that timing?
+
+A. Before, After, Async, Display
+
+B. Prior to, Synchronous, on Update
+
+C. Insert, Update, Delete, Query
+
+D. Before, Synchronous, Scheduled Job, View
+
+Correct Answer is :- A
+
+NEXT QUESTION :-
+
+Whatare different types of Data Sources, which may be imported into ServiceNow? (Choose four.)
+A. Local Sources (i.e. XML, CSV, Excel)
+
+B. Implementation Spoke
+
+C. DataHub
+
+D. JDBC Connection
+
+E. Network Server
+
+F. LDAP Connection
+
+Correct Answer is :- A, c, DandF
+
+NEXT QUESTION :-
+
+What are the components that make up a filter condition? (Choose three.)
+A. Operator
+
+B. Match Criteria
+
+C. Value
+
+D. Column
+
+E. Field
+
+Correct Answer is :- A, Cc, ande
+
+NEXT QUESTION :-
+
+When impersonating a user for testing purposes, what is the best way to return the instance,
+logged in with
+
+your user account?
+
+A. Turn your computer off and on again
+
+B. Clear browser cache
+
+C. End Impersonation
+
+D. Log out and back in
+
+Correct Answer is :- D
+
+NEXT QUESTION :-
+
+What controls the publishing and retiring process for knowledge articles?
+A. Approval Policies
+
+B. Approval Definitions
+
+C. Workflow Designer
+
+D. Workflows
+
+E. State Lifecycle
+
+Correct Answer is :- D
+
+NEXT QUESTION :-
+
+What type of query allows you to filter list data using normal words, instead of the condition
+builder?
+
+A. Natural Language Query
+
+B. Alexa Query
+
+C. Machine Learning Query
+
+D. Predictive Intelligence Query
+
+E. Auto-suggest Query
+
+Correct Answer is :- A
+
+NEXT QUESTION :-
+
+Tables may have a One to Many relationships. From the Service Catalog, what are examples of
+tables having a one to many relationships? (Choose three.)
+
+A. One Approval can have many Requests
+
+B. One Request can have many Requested Items
+
+C. One Requested Item can have many Approvals
+
+D. One Requested Item can have many Catalog Tasks
+
+E. One Cart can have many Requests
+
+Correct Answer is :- B,DandE
+
+NEXT QUESTION :-
+
+Tables may have a One to Many relationships. From the Service Catalog, what are examples of
+tables having a one to many relationships? (Choose three.)
+
+A. One Approval can have many Requests
+
+B. One Request can have many Requested Items
+
+C. One Requested Item can have many Approvals
+
+D. One Requested Item can have many Catalog Tasks
+
+E. One Cart can have many Requests
+
+Correct Answer is :- B, DandE
+
+NEXT QUESTION :-
+
+Tables may have a One to Many relationships. From the Service Catalog, what are examples of
+tables having a one to many relationships? (Choose three.)
+
+A. One Approval can have many Requests
+
+B. One Request can have many Requested Items
+
+C. One Requested Item can have many Approvals
+
+D. One Requested Item can have many Catalog Tasks
+
+E. One Cart can have many Requests
+
+Correct Answer is :- B,DandE
+
+NEXT QUESTION :-
+
+Tables may have a One to Many relationships. From the Service Catalog, what are examples of
+tables having a one to many relationships? (Choose three.)
+
+A. One Approval can have many Requests
+
+B. One Request can have many Requested Items
+
+C. One Requested Item can have many Approvals
+
+D. One Requested Item can have many Catalog Tasks
+
+E. One Cart can have many Requests
+
+Correct Answer is :- 8, DandE
+
+NEXT QUESTION :-
+
+On a filter condition, which component is always a choice list?
+A. Operator
+
+B. Filter Criteria
+
+C. Operation
+
+D. Match Criteria
+
+Correct Answer is :- c
+
+NEXT QUESTION :-
+
+A Role is defined as what?
+
+A. A collection of permissions
+B. A set of user access policies
+C. A Persona in a workflow
+
+D. A set of access control rules
+Correct Answer is :- D
+
+NEXT QUESTION :-
+
+A user is complaining that they are seeing a blank page, when they click Create New, from your
+custom Inventory application. You have confirmed that they can see the Inventory application, and
+the Create New module on the application navigator. What could be the cause of this issue?
+
+A. Create New module has a broken link
+
+B. Known intermittent issue with U115
+
+C. User should be using Chrome instead of Explorer for their browser
+
+D. User has read role, but not the write role on the Inventory table
+
+E. User session has timed out
+
+Correct Answer is :- —
+
+NEXT QUESTION :-
+
+Auser is complaining that they are seeing a blank page, when they click Create New, from your
+custom Inventory application. You have confirmed that they can see the Inventory application, and
+the Create New module on the application navigator. What could be the cause of this issue?
+
+A. Create New module has a broken link
+
+B. Known intermittent issue with U115
+
+C. User should be using Chrome instead of Explorer for their browser
+
+D. User has read role, but not the write role on the Inventory table
+
+E. User session has timed out
+
+Correct Answer is :- £
+
+NEXT QUESTION :-
+
+A user is complaining that they are seeing a blank page, when they click Create New, from your
+custom Inventory application. You have confirmed that they can see the Inventory application, and
+the Create New module on the application navigator. What could be the cause of this issue?
+
+A. Create New module has a broken link
+
+B. Known intermittent issue with U115
+
+C. User should be using Chrome instead of Explorer for their browser
+
+D. User has read role, but not the write role on the Inventory table
+
+E. User session has timed out
+
+Correct Answer is :- —
+
+NEXT QUESTION :-
+
+A user is complaining that they are seeing a blank page, when they click Create New, from your
+custom Inventory application. You have confirmed that they can see the Inventory application, and
+the Create New module on the application navigator. What could be the cause of this issue?
+
+A. Create New module has a broken link
+
+B. Known intermittent issue with U115
+
+C. User should be using Chrome instead of Explorer for their browser
+
+D. User has read role, but not the write role on the Inventory table
+
+E. User session has timed out
+
+Correct Answer is :- £
+
+NEXT QUESTION :-
+
+A user is complaining that they are seeing a blank page, when they click Create New, from your
+custom Inventory application. You have confirmed that they can see the Inventory application, and
+the Create New module on the application navigator. What could be the cause of this issue?
+
+A. Create New module has a broken link
+
+B. Known intermittent issue with U115
+
+C. User should be using Chrome instead of Explorer for their browser
+
+D. User has read role, but not the write role on the Inventory table
+
+E. User session has timed out
+
+Correct Answer is :- —
+
+NEXT QUESTION :-
+
+Whatis the name of the table relationship, where two or more tables are related in a bi-directional
+relationship,
+
+so that the related records are visible from both tables in a related list?
+
+A. Database View
+
+B. Many to Many
+
+C. One to Many
+
+D. Extended
+
+Correct Answer is :- B
+
+NEXT QUESTION :-
+
+On a Form header, what is the three bar icon called?
+A. Pancake icon
+
+B. Additional Actions or Context Menu
+
+C. Hamburger icon
+
+D. Cake icon
+
+Correct Answer is :- B
+
+NEXT QUESTION :-
+
+Group records are stored in which table?
+A. Group [sn_user_group]
+
+B. Group [sys_user_group]
+
+C. Group [s_sys_group]
+
+D. Group [u_sys_group]
+
+Correct Answer is :- B
+
+NEXT QUESTION :-
+
+What function do you use to add buttons, links, and context menu items on forms and lists?
+A. UI Policies
+
+B. UI Settings
+
+C. UI Actions
+
+D. UI Config
+
+Correct Answer is :- c
+
+NEXT QUESTION :-
+
+On a Business Rule, the When setting determines at what point the rule executes. What are the
+options for specifying that timing?
+
+A. Before, After, Async, Display
+
+B. Prior to, Synchronous, on Update
+
+C. Insert, Update, Delete, Query
+
+D. Before, Synchronous, Scheduled Job, View
+
+Correct Answer is :- A
+
+NEXT QUESTION :-
+
+Whatare different types of Data Sources, which may be imported into ServiceNow? (Choose four.)
+A. Local Sources (i.e. XML, CSV, Excel)
+
+B. Implementation Spoke
+
+C. DataHub
+
+D. JDBC Connection
+
+E. Network Server
+
+F. LDAP Connection
+
+Correct Answer is :- A, c, DandF
+
+NEXT QUESTION :-
+
+What are the components that make up a filter condition? (Choose three.)
+A. Operator
+
+B. Match Criteria
+
+C. Value
+
+D. Column
+
+E. Field
+
+Correct Answer is :- A, C, ande
+
+NEXT QUESTION :-
+
+When impersonating a user for testing purposes, what is the best way to return the instance,
+logged in with
+
+your user account?
+
+A. Turn your computer off and on again
+
+B. Clear browser cache
+
+C. End Impersonation
+
+D. Log out and back in
+
+Correct Answer is :- D
+
+NEXT QUESTION :-
+
+What controls the publishing and retiring process for knowledge articles?
+A. Approval Policies
+
+B. Approval Definitions
+
+C. Workflow Designer
+
+D. Workflows
+
+E. State Lifecycle
+
+Correct Answer is :- D
+
+NEXT QUESTION :-
+
+What type of query allows you to filter list data using normal words, instead of the condition
+builder?
+
+A. Natural Language Query
+
+B. Alexa Query
+
+C. Machine Learning Query
+
+D. Predictive Intelligence Query
+
+E. Auto-suggest Query
+
+Correct Answer is :- A
+
+NEXT QUESTION :-
+
+Tables may have a One to Many relationships. From the Service Catalog, what are examples of
+tables having a one to many relationships? (Choose three.)
+
+A. One Approval can have many Requests
+
+B. One Request can have many Requested Items
+
+C. One Requested Item can have many Approvals
+
+D. One Requested Item can have many Catalog Tasks
+
+E. One Cart can have many Requests
+
+Correct Answer is :- B,DandE
+
+NEXT QUESTION :-
+
+Tables may have a One to Many relationships. From the Service Catalog, what are examples of
+tables having a one to many relationships? (Choose three.)
+
+A. One Approval can have many Requests
+
+B. One Request can have many Requested Items
+
+C. One Requested Item can have many Approvals
+
+D. One Requested Item can have many Catalog Tasks
+
+E. One Cart can have many Requests
+
+Correct Answer is :- B, DandE
+
+NEXT QUESTION :-
+
+Tables may have a One to Many relationships. From the Service Catalog, what are examples of
+tables having a one to many relationships? (Choose three.)
+
+A. One Approval can have many Requests
+
+B. One Request can have many Requested Items
+
+C. One Requested Item can have many Approvals
+
+D. One Requested Item can have many Catalog Tasks
+
+E. One Cart can have many Requests
+
+Correct Answer is :- B,DandE
+
+NEXT QUESTION :-
+
+On a filter condition, which component is always a choice list?
+A. Operator
+
+B. Filter Criteria
+
+C. Operation
+
+D. Match Criteria
+
+Correct Answer is :- c
+
+NEXT QUESTION :-
+
+A Role is defined as what?
+
+A. A collection of permissions
+B. A set of user access policies
+C. A Persona in a workflow
+
+D. A set of access control rules
+Correct Answer is :- D
+
+NEXT QUESTION :-
+
+A user is complaining that they are seeing a blank page, when they click Create New, from your
+custom Inventory application. You have confirmed that they can see the Inventory application, and
+the Create New module on the application navigator. What could be the cause of this issue?
+
+A. Create New module has a broken link
+
+B. Known intermittent issue with U115
+
+C. User should be using Chrome instead of Explorer for their browser
+
+D. User has read role, but not the write role on the Inventory table
+
+E. User session has timed out
+
+Correct Answer is :- —
+
+NEXT QUESTION :-
+
+What is the name of the table relationship, where two or more tables are related in a bi-directional
+relationship,
+
+so that the related records are visible from both tables in a related list?
+
+A. Database View
+
+B. Many to Many
+
+C. One to Many
+
+D. Extended
+
+Correct Answer is :- B
+
+NEXT QUESTION :-
+
+On a Form header, what is the three bar icon called?
+A. Pancake icon
+
+B. Additional Actions or Context Menu
+
+C. Hamburger icon
+
+D. Cake icon
+
+Correct Answer is :- B
+
+NEXT QUESTION :-
+
+Group records are stored in which table?
+A. Group [sn_user_group]
+
+B. Group [sys_user_group]
+
+C. Group [s_sys_group]
+
+D. Group [u_sys_group]
+
+Correct Answer is :- B
+
+NEXT QUESTION :-
+
+What function do you use to add buttons, links, and context menu items on forms and lists?
+A. Ul Policies
+
+B. UI Settings
+
+C. Ul Actions
+
+D. UI Config
+
+Correct Answer is :- c
+
+NEXT QUESTION :-
+
+On a Business Rule, the When setting determines at what point the rule executes. What are the
+options for specifying that timing?
+
+A. Before, After, Async, Display
+
+B. Prior to, Synchronous, on Update
+
+C. Insert, Update, Delete, Query
+
+D. Before, Synchronous, Scheduled Job, View
+
+Correct Answer is :- A
+
+NEXT QUESTION :-
+
+Whatare different types of Data Sources, which may be imported into ServiceNow? (Choose four.)
+A. Local Sources (i.e. XML, CSV, Excel)
+
+B. Implementation Spoke
+
+C. DataHub
+
+D. JDBC Connection
+
+E. Network Server
+
+F. LDAP Connection
+
+Correct Answer is :- A, c, DandF
+
+NEXT QUESTION :-
+
+What are the components that make up a filter condition? (Choose three.)
+A. Operator
+
+B. Match Criteria
+
+C. Value
+
+D. Column
+
+E. Field
+
+Correct Answer is :- A, Cc, ande
+
+NEXT QUESTION :-
+
+When impersonating a user for testing purposes, what is the best way to return the instance,
+logged in with
+
+your user account?
+
+A. Turn your computer off and on again
+
+B. Clear browser cache
+
+C. End Impersonation
+
+D. Log out and back in
+
+Correct Answer is :- D
+
+NEXT QUESTION :-
+
+What controls the publishing and retiring process for knowledge articles?
+A. Approval Policies
+
+B. Approval Definitions
+
+C. Workflow Designer
+
+D. Workflows
+
+E. State Lifecycle
+
+Correct Answer is :- D
+
+NEXT QUESTION :-
+
+What type of query allows you to filter list data using normal words, instead of the condition
+builder?
+
+A. Natural Language Query
+
+B. Alexa Query
+
+C. Machine Learning Query
+
+D. Predictive Intelligence Query
+
+E. Auto-suggest Query
+
+Correct Answer is :- A
+
+NEXT QUESTION :-
+
+Tables may have a One to Many relationships. From the Service Catalog, what are examples of
+tables having a one to many relationships? (Choose three.)
+
+A. One Approval can have many Requests
+
+B. One Request can have many Requested Items
+
+C. One Requested Item can have many Approvals
+
+D. One Requested Item can have many Catalog Tasks
+
+E. One Cart can have many Requests
+
+Correct Answer is :- B,DandE
+
+NEXT QUESTION :-
+
+Tables may have a One to Many relationships. From the Service Catalog, what are examples of
+tables having a one to many relationships? (Choose three.)
+
+A. One Approval can have many Requests
+
+B. One Request can have many Requested Items
+
+C. One Requested Item can have many Approvals
+
+D. One Requested Item can have many Catalog Tasks
+
+E. One Cart can have many Requests
+
+Correct Answer is :- 8, DandE
+
+NEXT QUESTION :-
+
+On a filter condition, which component is always a choice list?
+A. Operator
+
+B. Filter Criteria
+
+C. Operation
+
+D. Match Criteria
+
+Correct Answer is :- c
+
+NEXT QUESTION :-
+
+A Role is defined as what?
+
+A. A collection of permissions
+B. A set of user access policies
+C. A Persona in a workflow
+
+D. A set of access control rules
+Correct Answer is :- D
+
+NEXT QUESTION :-
+
+A user is complaining that they are seeing a blank page, when they click Create New, from your
+custom Inventory application. You have confirmed that they can see the Inventory application, and
+the Create New module on the application navigator. What could be the cause of this issue?
+
+A. Create New module has a broken link
+
+B. Known intermittent issue with U115
+
+C. User should be using Chrome instead of Explorer for their browser
+
+D. User has read role, but not the write role on the Inventory table
+
+E. User session has timed out
+
+Correct Answer is :-
+
+NEXT QUESTION :-
+
+A user is complaining that they are seeing a blank page, when they click Create New, from your
+custom Inventory application. You have confirmed that they can see the Inventory application, and
+the Create New module on the application navigator. What could be the cause of this issue?
+
+A. Create New module has a broken link
+
+B. Known intermittent issue with U115
+
+C. User should be using Chrome instead of Explorer for their browser
+
+D. User has read role, but not the write role on the Inventory table
+
+E. User session has timed out
+
+Correct Answer is :- —
+
+NEXT QUESTION :-
+
+A user is complaining that they are seeing a blank page, when they click Create New, from your
+custom Inventory application. You have confirmed that they can see the Inventory application, and
+the Create New module on the application navigator. What could be the cause of this issue?
+
+A. Create New module has a broken link
+
+B. Known intermittent issue with U115
+
+C. User should be using Chrome instead of Explorer for their browser
+
+D. User has read role, but not the write role on the Inventory table
+
+E. User session has timed out
+
+Correct Answer is :- £
+
+NEXT QUESTION :-
+
+Auser is complaining that they are seeing a blank page, when they click Create New, from your
+custom Inventory application. You have confirmed that they can see the Inventory application, and
+the Create New module on the application navigator. What could be the cause of this issue?
+
+A. Create New module has a broken link
+
+B. Known intermittent issue with U115
+
+C. User should be using Chrome instead of Explorer for their browser
+
+D. User has read role, but not the write role on the Inventory table
+
+E. User session has timed out
+
+Correct Answer is :- —
+
+NEXT QUESTION :-
+
+What resource can you use to view details of the tables and configuration items (Cls) associated
+with a particular use case?
+
+A. Scenario Dashboard
+
+B. Cl Use Case Modeler
+
+C. CMDB Use Case Modeler
+
+D. Common Service Data Model (CSDM) product view
+
+Correct Answer is :- D
+
+NEXT QUESTION :-
+
+A manager wants to view a snapshot of month-end Sales performance data, as compared to Sales
+targets. In addition, the manager wants to be able to see those monthly numbers trended over
+time, and forecasted into the future. What capability do you suggest for this manager?
+
+A. Scheduled Reports, a custom snapshot table, and a Trend report
+
+B. Scheduled Reports and Excel
+
+C. Scheduled Reports, a custom snapshot table, and a Projection report
+
+D. Performance Analytics
+
+E. Key Performance Indicators
+
+Correct Answer is :- D
+
+NEXT QUESTION :-
+
+A manager wants to view a snapshot of month-end Sales performance data, as compared to Sales
+targets. In addition, the manager wants to be able to see those monthly numbers trended over
+time, and forecasted into the future. What capability do you suggest for this manager?
+
+A. Scheduled Reports, a custom snapshot table, and a Trend report
+
+B. Scheduled Reports and Excel
+
+C. Scheduled Reports, a custam snapshot table, and a Projection report
+
+D. Performance Analytics
+
+E. Key Performance Indicators
+
+Correct Answer is :- D
+
+NEXT QUESTION :-
+
+A manager wants to view a snapshot of month-end Sales performance data, as compared to Sales
+targets. In addition, the manager wants to be able to see those monthly numbers trended over
+time, and forecasted into the future. What capability do you suggest for this manager?
+
+A. Scheduled Reports, a custom snapshot table, and a Trend report
+
+B. Scheduled Reports and Excel
+
+C. Scheduled Reports, a custom snapshot table, and a Projection report
+
+D. Performance Analytics
+
+E. Key Performance Indicators
+
+Correct Answer is :- D
+
+NEXT QUESTION :-
+
+What are advantages of using Flow Designer? (Choose three.)
+
+A. Supports advanced developers
+
+B. Enables complicated scripting
+
+C. Reduces technical debt
+
+D. Less manual scripting
+
+E. Smooth integration with 3rd party systems
+Correct Answer is :- A, DandE
+
+NEXT QUESTION :-
+
+Your customer requires that they be able to monitor which users are performing impersonations in
+their instance. What would you do to meet that requirement?
+
+A. Add the role Log Write |sn_lag_write] to the Impersonator Group
+
+B. Create user update set for impersonation tracking
+
+C. Activate the glide.sys.log_impersonation prop
+
+D. From User icon, select Elevate Roles
+
+E. On the Impersonater role record, right click and select Create Log
+
+Correct Answer is -- c
+
+NEXT QUESTION :-
+
+Your customer requires that they be able to monitor which users are performing impersonations in
+their instance. What would you do to meet that requirement?
+
+A. Add the role Log Write [sn_log_write] to the Impersonator Group
+
+B. Create user update set for impersonation tracking
+
+C. Activate the glide.sys.log_impersonation prop
+
+D. From User icon, select Elevate Roles
+
+E. On the Impersonator role record, right click and select Create Log
+
+Correct Answer is :- c
+
+NEXT QUESTION :-
+
+Whena flow runsan action, it generates a runtime value, which stays the same for the duration of
+the flow. What is the name of this runtime value?
+
+A. Trigger runtime value
+
+B. Sequence runtime value
+
+C. Starting runtime value
+
+D. Data pill runtime value
+
+E. Input runtime value
+
+Correct Answer is :- D
+
+NEXT QUESTION :-
+
+The wait time for end users is based on the round-trip between the client and the server. What
+activities are
+
+included in the round-trips?
+
+A. Request + Response
+
+B. Save + Update
+
+C. Write + Read
+
+D. Submit + Query
+
+E. Insert + Verify
+
+Correct Answer is :- A
+
+NEXT QUESTION :-
+
+When importing data, what happens to imported rows, if no coalesce field is specified?
+A. All rows are rejected from the import, as coalesce field is required.
+
+B. All rows are treated as new records. No existing records are updated.
+
+C. Duplicate rows are rejected from the import.
+
+D. All rows are treated as new records, but errors will be flagged in the import log.
+
+Correct Answer is :- D
+
+NEXT QUESTION :-
+
+When importing data, what happens to imported rows, if no coalesce field is specified?
+A. All rows are rejected from the import, as coalesce field is required.
+
+B. All rows are treated as new records. No existing records are updated.
+
+C. Duplicate rows are rejected from the import.
+
+D. All rows are treated as new records, but errors will be flagged in the import log.
+Correct Answer is :- D
+
+NEXT QUESTION :-
+
+What is the most common role that has access to almost all platform features, functions, and
+data?
+
+A. Security Admin [security_admin]
+
+B. Sys Admin [sys_admin]
+
+C. Admin [sn_admin]
+
+D. System Administrator [admin]
+
+E. Base Admin [base_admin]
+
+Correct Answer is :- c
+
+NEXT QUESTION :-
+
+What feature do you use to specify which users are able to access a Service Catalog Item?
+A. Can Read Role
+
+B. Catalog User Role
+
+C. Can Order Tab
+
+D. User Criteria
+
+Correct Answer is :- D
+
+NEXT QUESTION :-
+
+Which component of a table contains a piece of data for one record?
+A. Factor
+
+B. Field
+
+C. Datapoint
+
+D. Element
+
+E. Item
+
+Correct Answer is :- B
+
+NEXT QUESTION :-
+
+What type of field has a drop down list, from which you can pick from pre-defined options?
+A. Choice
+
+B. Picker
+
+C. Drop down
+
+D.
+
+Correct Answer is :- A
+
+NEXT QUESTION :-
+
+User records are stored in which table?
+A. User [sys_user]
+
+B. User [sn_user]
+
+C. User [u_sys_user]
+
+D. User [s_user]
+
+Correct Answer is :- A
+
+NEXT QUESTION :-
+
+What ServiceNow feature can be triggered by events, and is used to inform users about activities
+or updates in ServiceNow?
+
+A. Notifications
+
+B. Alerts
+
+C. Texts
+
+D. Events
+
+E. Emails
+
+Correct Answer is :- D
+
+NEXT QUESTION :-
+
+Which ServiceNow capability allows you to provide knowledge articles, via a conversational
+messaging interface?
+
+A. Agent Assist
+
+B. Virtual Agent
+
+C. Now Messenger
+
+D. Connect Agent
+
+Correct Answer is :- B
+
+NEXT QUESTION :-
+
+Which role can manage multiple knowledge bases?
+A. knowledge_base_admin
+
+B. kb_admin
+
+C. sn_kb_admin
+
+D. knowledge_admin
+
+Correct Answer is :- D
+
+NEXT QUESTION :-
+
+Which statement correctly describes the differences between a Client Script and a Business Rule?
+A. A Client Script executes beforea record is loaded and a Business Rule executes after a record is
+loaded
+
+B. A Client Script executes on the server and a Business Rule executes on the client
+
+C. A Client Script executes on the client and a Business Rule executes on the server
+
+D. A Client Script executes before a recordis loaded anda Business Rule executes after a record is
+updated
+
+Correct Answer is :- c
+
+NEXT QUESTION :-
+
+Which statement correctly describes the differences between a Client Script and a Business Rule?
+A. A Client Script executes before a recordis loaded and a Business Rule executes after a record is
+loaded
+
+B. A Client Script executes on the server and a Business Rule executes on the client
+
+C. A Client Script executes on the client and a Business Rule executes on the server
+
+D. A Client Script executes before a recordis loaded anda Business Rule executes after a record is
+updated
+
+Correct Answer is :- c
+
+NEXT QUESTION :-
+
+Which statement correctly describes the differences between a Client Script and a Business Rule?
+A. A Client Script executes before a record is loaded and a Business Rule executes after a record is
+loaded
+
+B. A Client Script executes on the server and a Business Rule executes on the client
+
+C. A Client Script executes on the client and a Business Rule executes on the server
+
+D. A Client Script executes before a record is loaded anda Business Rule executes after a record is
+updated
+
+Correct Answer is :- c
+
+NEXT QUESTION :-
+
+What are benefits of assigning work tasks to a group, rather than to an individual? (Choose four.)
+A. Group members can choose their tasks from My Groups Work
+
+B. Groups can assign tasks to users based on on-call schedules
+
+C. Site support members can pick tasks, based on Location
+
+D. Groups can assign tasks to users based on skills
+
+E. Group members can avoid tasks, which are nearing SLA breach
+
+F. Groups can assign tasks to users based on availability
+
+Correct Answer is :- B,C, D andF
+
+NEXT QUESTION :-
+
+What are benefits of assigning work tasks to a group, rather than to an individual? (Choose four.)
+A. Group members can choose their tasks from My Groups Work
+
+B. Groups can assign tasks to users based on on-call schedules
+
+C. Site support members can pick tasks, based on Location
+
+D. Groups can assign tasks to users based on skills
+
+E. Group members can avoid tasks, which are nearing SLA breach
+
+F. Groups can assign tasks to users based on availability
+
+Correct Answer is :- B, Cc, D andF
+
+NEXT QUESTION :-
+
+What are benefits of assigning work tasks to a group, rather than to an individual? (Choose four.)
+A. Group members can choose their tasks from My Groups Work
+
+B. Groups can assign tasks to users based on on-call schedules
+
+C. Site support members can pick tasks, based on Location
+
+D. Groups can assign tasks to users based on skills
+
+E. Group members can avoid tasks, which are nearing SLA breach
+
+F. Groups can assign tasks to users based on availability
+
+Correct Answer is :- B,C, D and F
+
+NEXT QUESTION :-
+
+Whatare benefits of assigning work tasks to a group, rather than to an individual? (Choose four.)
+A. Group members can choose their tasks from My Groups Work
+
+B. Groups can assign tasks to users based on on-call schedules
+
+C. Site support members can pick tasks, based on Location
+
+D. Groups can assign tasks to users based on skills
+
+E. Group members can avoid tasks, which are nearing SLA breach
+
+F. Groups can assign tasks to users based on availability
+
+Correct Answer is :- B,C, DandF
+
+NEXT QUESTION :-
+
+What are benefits of assigning work tasks to a group, rather than to an individual? (Choose four.)
+A. Group members can choose their tasks from My Groups Work
+
+B. Groups can assign tasks to users based on on-call schedules
+
+C. Site support members can pick tasks, based on Location
+
+D. Groups can assign tasks to users based on skills
+
+E. Group members can avoid tasks, which are nearing SLA breach
+
+F. Groups can assign tasks to users based on availability
+
+Correct Answer is :- B,C, D and F
+
+NEXT QUESTION :-
+
+Whatare benefits of assigning work tasks to a group, rather than to an individual? (Choose four.)
+A. Group members can choose their tasks from My Groups Work
+
+B. Groups can assign tasks to users based on on-call schedules
+
+C. Site support members can pick tasks, based on Location
+
+D. Groups can assign tasks to users based on skills
+
+E. Group members can avoid tasks, which are nearing SLA breach
+
+F. Groups can assign tasks to users based on availability
+
+Correct Answer is :- B, Cc, D andF
+
+NEXT QUESTION :-
+
+What are benefits of assigning work tasks to a group, rather than to an individual? (Choose four.)
+A. Group members can choose their tasks from My Groups Work
+
+B. Groups can assign tasks to users based on on-call schedules
+
+C. Site support members can pick tasks, based on Location
+
+D. Groups can assign tasks to users based on skills
+
+E. Group members can avoid tasks, which are nearing SLA breach
+
+F. Groups can assign tasks to users based on availability
+
+Correct Answer is :- B,C, D andr
+
+NEXT QUESTION :-
+
+What ServiceNow feature allows you to include data from a secondary related table on a report?
+A. SQL
+
+B. Dot Walking
+
+C. Outer Join
+
+D. Joins
+
+Correct Answer is :- B
+
+NEXT QUESTION :-
+What attributes can you manage, using System Properties > Basic Configuration UI16? (Choose
+five.)
+
+A. Browser tab title
+
+B. Module text color
+
+C. Preferred browser
+
+D. Base theme
+
+E. Font style
+
+F. Animation style
+
+G. Header background color
+H. Banner Image
+
+Correct Answer is :- A, 8, D and GH
+
+NEXT QUESTION :-
+What attributes can you manage, using System Properties > Basic Configuration Ul16? (Choose
+five.)
+
+A. Browser tab title
+
+B. Module text color
+
+C. Preferred browser
+
+D. Base theme
+
+E. Font style
+
+F. Animation style
+
+G. Header background color
+H. Banner Image
+
+Correct Answer is :- A, B, D and GH
+
+NEXT QUESTION :-
+
+Which field (or fields) is used as a unique key during imports?
+A. Match Fields
+
+B. Coalesce Fields
+
+C. Key Fields
+
+D. Sys IDs
+
+Correct Answer is :- B
+
+NEXT QUESTION :-
+
+You are asked to create an option in the Service Catalog, which will allow a user to click Get Help
+and describe
+
+the issue they are having. These forms should create incident records, which are automatically
+routed to the
+
+Service Desk. Which method would you use?
+
+A. Create Record Producer
+
+B. Create Catalog Item
+
+C. Create Order Guide
+
+D. Create Content Item
+
+Correct Answer is :- B
+
+NEXT QUESTION :-
+
+You are asked to create an option in the Service Catalog, which will allow a user to click Get Help
+and describe
+
+the issue they are having. These forms should create incident records, which are automatically
+routed to the
+
+Service Desk. Which method would you use?
+
+A. Create Record Producer
+
+B. Create Catalog Item
+
+C. Create Order Guide
+
+D. Create Content Item
+
+Correct Answer is :- 8
+
+NEXT QUESTION :-
+
+You are asked to create an option in the Service Catalog, which will allow a user to click Get Help
+and describe
+
+the issue they are having. These forms should create incident records, which are automatically
+routed to the
+
+Service Desk. Which method would you use?
+
+A. Create Record Producer
+
+B. Create Catalog Item
+
+C. Create Order Guide
+
+D. Create Content Item
+
+Correct Answer is :- B
+
+NEXT QUESTION :-
+
+Which tool graphically displays an infrastructure view for a configuration item (Cl) and its
+relationship with other
+
+Cls?
+
+A. Schema Map
+
+B. Dependency View
+
+C. Dependency Map
+
+D. Database View
+
+Correct Answer is :- B
+
+NEXT QUESTION :-
+
+What are examples of Core tables in the ServiceNow platform?
+A. Configuration, Connect, Chat
+
+B. Team, Party, Awards
+
+C. User, Task, Incident
+
+D. Work, Caller, Timecard
+
+Correct Answer is :- A
+
+NEXT QUESTION :-
+
+Which tab on the knowledge base record, would you use to identify the sets of users who are able
+to read
+
+articles in that knowledge base?
+
+A. Access List
+
+B. Can Access
+
+C. Accessible to
+
+D. Can Read
+
+Correct Answer is :- D
+
+NEXT QUESTION :-
+
+What are the main components of the Form Design interface? (Choose three.)
+A. Field Layout
+
+B. Page Header
+
+C. Field Navigator
+
+D. Field Picker
+
+E. Form Layout
+
+Correct Answer is :- B, CandE
+
+NEXT QUESTION :-
+
+What is used to determine user access to knowledge bases or a knowledge article?
+A. sn_kb_read, sn_article_read
+
+B. Privacy Settings
+
+C. Read Access Flag
+
+D. User Criteria
+
+Correct Answer is :- D
+
+NEXT QUESTION :-
+
+What are the three key tables in an enterprise CMDB? (Choose three.)
+A. cmdb
+
+B. sn_cmdb_bak
+
+C. cmdb_rel_ci
+
+D. sn_cmdb
+
+E. cmdb_bak
+
+F. cmdb_ci
+
+G. sn_cmdb_ci
+
+Correct Answer is :- A,CandF
+
+NEXT QUESTION :-
+
+What is the best practice related to using the Default Update Set for moving customizations
+between instances?
+
+A. Merge Default update sets before moving between instances
+
+B. Submit Default update set to application repository
+
+C. You should not use the Default Update sets for moving between instances
+
+D. Keep Default update set to maximum of 20 records, for troubleshooting purposes
+
+Correct Answer is :- B
+
+NEXT QUESTION :-
+
+What is the best practice related to using the Default Update Set for moving customizations
+between instances?
+
+A. Merge Default update sets before moving between instances
+
+B. Submit Default update set to application repository
+
+C. You should not use the Default Update sets for moving between instances
+
+D. Keep Default update set to maximum of 20 records, for troubleshooting purposes
+Correct Answer is :- 8
+
+NEXT QUESTION :-
+
+On what part of the ServiceNow instance, would you find the option to Impersonate User?
+A. Module
+
+B. Content Frame
+
+C. Application Navigator
+
+D. Banner
+
+Correct Answer is :- D
+
+NEXT QUESTION :-
+
+Which application is used primarily to load data into ServiceNow?
+A. Import Hub
+
+B. System Import Sets
+
+C. Data Import Configuration
+
+D. Import Management
+
+Correct Answer is :- B
+
+NEXT QUESTION :-
+
+If a knowledge base has no access details specified, what users are able to read articles in that
+knowledge base?
+
+A. itil users
+
+B. Any user with an article's permalink
+
+C. Any active user
+D. No users
+
+Na
+
+   
+
+NEXT QUESTION :-
+
+Which database provides a logical model of your company infrastructure by identifying, controlling,
+maintaining and verifying Cls that exist?
+
+A. IMDB
+
+B. ITSM
+
+Cc. CSDM
+
+D. CMDB
+
+E. LDAP
+
+Correct Answer is :- D
+
+NEXT QUESTION :-
+
+Which module is used as the first step for importing data?
+A. Coalesce Data
+
+B. Transform Data
+
+C. Import Data
+
+D. Load Data
+
+Correct Answer is :- c
+
+NEXT QUESTION :-
+
+When you need to orchestrate business processes across services with little technical user
+knowledge, which utility would you use?
+
+A. Flow Manager
+
+B. Flow Designer
+
+C. Flow Editor
+
+D. Workflow Editor
+
+E. Workflow Designer
+
+Correct Answer is :- c
+
+NEXT QUESTION :-
+
+Whena user reports that they are not able to see modules on the application navigator, what can
+you do, to see what modules are visible to them?
+
+A. Look up their password, so you can login with their account
+
+B. Initiate a Connect Chat session
+
+C. Install the Bomgar plug-in
+
+D. Impersonate the user
+
+E. Launch a NowChat window
+
+Correct Answer is :- 8
+
+NEXT QUESTION :-
+
+Whena user reports that they are not able to see modules on the application navigator, what can
+you do, to see what modules are visible to them?
+
+A. Look up their password, so you can login with their account
+
+B. Initiate a Connect Chat session
+
+C. Install the Bomgar plug-in
+
+D. Impersonate the user
+
+E. Launch a NowChat window
+
+Correct Answer is :- B
+
+NEXT QUESTION :-
+
+What is a key difference between Reporting and Performance Analytics?
+
+A. Performance Analytics contains snapshots of data taken over time; Reporting shows only the
+data as it is,
+
+at the moment the report is run.
+
+B. Performance Analytics can show trends; Reports cannot.
+
+C. Reports can be run on a scheduled basis; Performance Analytics cannot.
+
+D. Performance Analytics data can be published to Dashboards; Reports cannot.
+
+E. Performance Analytics shows KPls; Reporting does not.
+
+Correct Answer is :- B
+
+NEXT QUESTION :-
+
+While showing a customer their incident form, they ask to change the Priority values to display
+their internal terminology P1, P2, P3, P4. They want it to be consistent across all Tasks. How would
+you do that? Right click on Priority and select what?
+
+A. Configure Lists
+
+B. Show s
+
+C. Configure Task
+
+D. Show Choices
+
+E. Show Choice List
+
+F. Configure s
+
+Correct Answer is :- F
+
+NEXT QUESTION :-
+
+While showing a customer their incident form, they ask to change the Priority values to display
+their internal terminology P1, P2, P3, P4. They wantit to be consistent across all Tasks. How would
+you do that? Right click on Priority and select what?
+
+A. Configure Lists
+
+B. Show s
+
+C. Configure Task
+
+D. Show Choices
+
+E. Show Choice List
+
+F. Configure s
+
+Correct Answer is :- F
+
+NEXT QUESTION :-
+
+Your customer would like to create a new template to notify users who are affected by network
+outages at their site. Which module would you use to create a new notification?
+
+A. System Notification > Email > Notifications
+
+B. Administration > Notification Overview
+
+C. System Properties > Email > Settings
+
+D. User Preferences > Email > Notifications
+
+E. Click Gear > Notifications > New
+
+Correct Answer is :- A
+
+NEXT QUESTION :-
+
+When designing a flow, how do you reference data from a record, in that flow?
+A. Drag the table icon onto the flow definition
+
+B. Use the condition builder to specify the desired values
+
+C. Specify the source table on the data pill related list
+
+D. Drag the data pill onto the flow definition
+
+E. Add the table reference using the slush bucket
+
+Correct Answer is :- D
+
+NEXT QUESTION :-
+
+On the Reports page, what sections allow you to see which reports are visible to different
+audiences? (Choose four.)
+
+A. Group
+
+B. Department
+
+C. My reports
+
+D. Team
+
+E. Dashboards
+
+F. Global
+
+G. Admin
+
+H. Analytics
+
+|. All
+
+J. Company
+
+Correct Answer is :- A, E, FandG
+
+NEXT QUESTION :-
+
+Which tool is used to define relationships between fields in an import set table and a target table?
+A. Transform Schema
+
+B. Schema Map
+
+C. Dictionary Map
+
+D. Transform Map
+
+E. Field Transformer
+
+F. Import Designer
+
+Correct Answer is :- D
+
+NEXT QUESTION :-
+
+Which ServiceNow capability provides assistance to help users obtain information, make decisions,
+and
+
+perform common work tasks via a messaging interface?
+
+A. Agent Workspace
+
+B. Chat bot
+
+C. Virtual Agent
+
+D. Knowledge Chat
+
+E. Now Support
+
+Correct Answer is :- c
+
+NEXT QUESTION :-
+
+Which feature allows you to automate business logic for a particular application or process such as
+approvals,
+
+tasks notifications, and record operations?
+
+A. Flows
+
+B. Action Sequences
+
+C. Action Sets
+
+D. Task Flows
+
+E. Flow Diagrams
+
+Correct Answer is :- A
+
+NEXT QUESTION :-
+
+From a form, what would you click to add additional fields to the form? (Choose two.)
+A. Context Menu > Form > Layout
+
+B. Context Menu > Configure > Form Layout
+
+C. Context Menu > Configure > Form Design
+
+D. Right click on header > Add > Field
+
+E. Context Menu > Form > Designer
+
+F. Right click on header > Configure > UX Dashboard
+
+Correct Answer is :- BandD
+
