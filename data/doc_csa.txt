@@ -12,7 +12,10 @@ D. CMDB Plug-in
 E. CMDB Integration Dashboard
 
 Correct Answer is :- A, ands
-
+0 min 0 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 When using the Load Data and Transform Map process, what is the Mapping Assist used for?
@@ -24,7 +27,10 @@ C. Mapping fields using an SLA
 
 D. Mapping fields using a Field Map
 Correct Answer is :- D
-
+0 min 30 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 When using the Load Data and Transform Map process, what is the Mapping Assist used for?
@@ -37,7 +43,10 @@ C. Mapping fields using an SLA
 D. Mapping fields using a Field Map
 
 Correct Answer is :- D
-
+0 min 40 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Which one of the following statements describes the contents of the Configuration Management
@@ -52,7 +61,10 @@ C. The CMDB archives all Service Management PaaS equipment metadata and usage st
 D. The CMDB contains ITIL process data pertaining to configuration items
 
 Correct Answer is :- A
-
+1 min 0 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 In what order should filter elements be specified?
@@ -65,7 +77,10 @@ C. Operator, Condition, then Value
 D. Value, Operator, then Field
 
 Correct Answer is :- A
-
+1 min 40 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Which statement is true about business rules?
@@ -78,7 +93,10 @@ C. A business rule must not run before a database action occurs
 D. A business rule monitors fields on a form
 
 Correct Answer is :- 8
-
+2 min 0 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Which of the following are a type of client scripts supported in ServiceNow? (Choose four.)
@@ -97,7 +115,10 @@ F. onChange
 G. onSave
 
 Correct Answer is :- A, Cc, DandF
-
+2 min 30 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Which type of tables may be extended by other tables, but do not extend another table?
@@ -110,7 +131,10 @@ C. Extended Tables
 D. Custom Tables
 
 Correct Answer is :- A
-
+3 min 0 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Which of the following statement describes the purpose of an Order Guide?
@@ -123,7 +147,10 @@ C. Order Guide provide the ability to order multiple, related items as one reque
 D. Order Guides take the user directly to the checkout without prompting for information
 
 Correct Answer is :- c
-
+3 min 20 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Which tool is used to have conversations with logged-in users in real-time?
@@ -135,7 +162,10 @@ C. User Presence
 D. Comments
 
 Correct Answer is :- A
-
+4 min 10 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Which of the following concepts are associated with the ServiceNow CMDB? (Choose four.)
@@ -150,7 +180,10 @@ D. A Database
 E. The Dependency View
 
 Correct Answer is :- A,c, Dande
-
+4 min 20 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What is a formatter? Select one of the following.
@@ -163,7 +196,10 @@ C. A formatter allows you to populate fields automatically
 D. A formatter is a set of conditions applied to a table to help find and work with data
 
 Correct Answer is :- B
-
+4 min 50 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What is a formatter? Select one of the following.
@@ -176,7 +212,10 @@ C. A formatter allows you to populate fields automatically
 D. A formatter is a set of conditions applied to a table to help find and work with data
 
 Correct Answer is :- 8
-
+5 min 0 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What is a formatter? Select one of the following.
@@ -188,7 +227,10 @@ C. A formatter allows you to populate fields automatically
 
 D. A formatter is a set of conditions applied to a table to help find and work with data
 Correct Answer is :- B
-
+5 min 20 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 When searching using the App Navigator search field, what can be returned? (Choose four.)
@@ -205,7 +247,10 @@ E. History Records
 F. Titles of Dashboard Gauges
 
 Correct Answer is :- A, B, Cand pb
-
+5 min 30 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Which technique is used to get information from a series of referenced fields from different
@@ -220,7 +265,10 @@ C. Dot-Walking
 D. Record-Hopping
 
 Correct Answer is :- c
-
+6 min 10 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What is a schema map?
@@ -236,7 +284,10 @@ D. Aschema map displays the details of tables and their relationships in a visua
 administrators to view and easily access different parts of the database schema
 
 Correct Answer is :- D
-
+6 min 20 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What is a schema map?
@@ -252,7 +303,10 @@ D. Aschema map displays the details of tables and their relationships in a visua
 administrators to view and easily access different parts of the database schema
 
 Correct Answer is :- D
-
+6 min 50 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What is a schema map?
@@ -268,7 +322,10 @@ D. Aschema map displays the details of tables and their relationships in a visua
 administrators to view and easily access different parts of the database schema
 
 Correct Answer is :- D
-
+7 min 0 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Which one of the following statements best describes the purpose of an Update Set?
@@ -283,7 +340,10 @@ D. By default, the changes included in an Update Set are visible only in the ins
 are applied
 
 Correct Answer is :- A
-
+7 min 10 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Which of the following can be customized through the Basic Configuration Ul 16 module? (Choose
@@ -300,7 +360,10 @@ D. System Date Format
 E. Form Header Size
 
 Correct Answer is :- A, Cc, andpb
-
+8 min 0 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Which of the following can be customized through the Basic Configuration UI 16 module? (Choose
@@ -317,7 +380,10 @@ D. System Date Format
 E. Form Header Size
 
 Correct Answer is :- A, Cc, andb
-
+8 min 10 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What is the function of user impersonation?
@@ -330,7 +396,10 @@ C. View custom perspectives
 D. Unlock Application master list
 
 Correct Answer is :- A
-
+8 min 30 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What information does the System Dictionary contain?
@@ -342,7 +411,10 @@ C. The information on how tables relate to each other
 D. The language dictionary used for spell checking
 
 Correct Answer is :- B
-
+8 min 50 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 How is the Event Log different from the Event Registry?
@@ -359,7 +431,10 @@ triggered during the day (24-hour period)
 D. Event Log is the same as the Event Registry
 
 Correct Answer is :- A
-
+9 min 10 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What is a Dictionary Override?
@@ -376,7 +451,10 @@ continue
 D. A Dictionary Override sets field properties in extended tables
 
 Correct Answer is :- D
-
+9 min 50 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What is a Dictionary Override?
@@ -393,7 +471,10 @@ continue
 D. A Dictionary Override sets field properties in extended tables
 
 Correct Answer is :- D
-
+10 min 20 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Which group of permissions is used to control Application and Module access?
@@ -406,7 +487,10 @@ C. Roles
 D. Assignment Rules
 
 Correct Answer is :- c
-
+10 min 40 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What is a Record Producer?
@@ -420,7 +504,10 @@ D. A Record Producer is a type of a Catalog Item that allows users to create tas
 from the Service Catalog
 
 Correct Answer is :- D
-
+10 min 50 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What is a Record Producer?
@@ -434,7 +521,10 @@ D. A Record Producer is a type of a Catalog Item that allows users to create tas
 from the Service Catalog
 
 Correct Answer is :- D
-
+11 min 0 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Create Incident, Password Reset, and Report outage: what do these services in the Service Catalog
@@ -449,7 +539,10 @@ C. They direct the user to a catalog UI policy
 D. They direct the user to a catalog client script
 
 Correct Answer is :- A
-
+11 min 30 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What is the Import Set Table?
@@ -462,7 +555,10 @@ C. A staging area for imported records
 D. A repository for Update Set information
 
 Correct Answer is :- c
-
+12 min 0 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What is a characteristic of importing data into ServiceNow?
@@ -476,7 +572,10 @@ C. Any user can manage and set up import sets
 D. An existing Transform Map can be used multiple times on the same import set
 
 Correct Answer is :- D
-
+12 min 20 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What module in the Service Catalog application does an Administrator access to begin creating a
@@ -491,7 +590,10 @@ C. Content Items
 D. Items
 
 Correct Answer is :- B
-
+13 min 0 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Which of the following allows a user to edit field values in a list without opening the form?
@@ -504,7 +606,10 @@ C. List Editor
 D. Form Designer
 
 Correct Answer is :- c
-
+13 min 20 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Which three Variable Types can be added to a Service Catalog Item?
@@ -517,7 +622,10 @@ C. Number List, Single Line Text, and Reference
 D. Multiple Choice, Select Box, and Checkbox
 
 Correct Answer is :- D
-
+13 min 40 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 How are Workflows moved between instances?
@@ -531,7 +639,10 @@ C. Workflows are moved using Application Sets
 D. Workflows cannot be moved between instances
 
 Correct Answer is :- A
-
+14 min 0 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 The baseline Service Catalog homepage contains links to which of the following components?
@@ -544,7 +655,10 @@ C. Order Guides, Catalog Items, and flows
 D. Record Producers, Order Guides, and Item Variables
 
 Correct Answer is :- A
-
+14 min 30 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Which of the following statements is true when a new table is created by extending another table?
@@ -560,7 +674,10 @@ D. The new table inherits all of the fields, but does not inherit Access Control
 and UI Policies of the parent table
 
 Correct Answer is :- c
-
+15 min 0 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Where can Admins check which release is running on an ServiceNow instance?
@@ -573,7 +690,10 @@ C. System.upgraded table
 D. Transactions log
 
 Correct Answer is :- B
-
+15 min 50 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 A knowledge article must be which of the following states to display to a user?
@@ -586,7 +706,10 @@ C. Retired
 D. Reviewed
 
 Correct Answer is :- A
-
+16 min 10 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Whatis the name of the conversational bot platform that provides assistance to help users obtain
@@ -601,7 +724,10 @@ C. Virtual Agent
 D. Connect Chat
 
 Correct Answer is :- c
-
+16 min 30 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What is the purpose of a Related List?
@@ -613,7 +739,10 @@ C. To present related fields
 D. To present related records
 
 Correct Answer is :- D
-
+16 min 50 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Which one of the following statements describes the purpose of a Service Catalog flow?
@@ -631,7 +760,10 @@ D. A Service Catalog flow generates three basic components: item variable types,
 notifications
 
 Correct Answer is :- c
-
+17 min 10 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Which ane of the following statements describes the purpose of a Service Catalog flow?
@@ -649,7 +781,10 @@ D. A Service Catalog flaw generates three basic components: item variable types,
 notifications
 
 Correct Answer is :- ¢
-
+17 min 20 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Which one of the following statements describes the purpose of a Service Catalog flow?
@@ -667,7 +802,10 @@ D. A Service Catalog flow generates three basic components: item variable types,
 notifications
 
 Correct Answer is :- c
-
+17 min 30 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Which term best describes something that is created, has worked performed upon it, and is
@@ -684,7 +822,10 @@ C. event
 D. task
 
 Correct Answer is :- D
-
+18 min 0 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Which are valid Service Now User Authentication Methods? (Choose three.)
@@ -699,7 +840,10 @@ D. SSO
 E. FTP authentication
 
 Correct Answer is :- 8B, c, and pb
-
+18 min 20 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Access Control rules may be defined with which of the following permission requirements?
@@ -718,7 +862,10 @@ E. User Criteria
 F. Groups
 
 Correct Answer is :- A, 8, andpD
-
+18 min 50 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Which section of the ServiceNow UI allows you to perform a global search?
@@ -731,7 +878,10 @@ C. List pane
 D. Content frame
 
 Correct Answer is :- B
-
+19 min 10 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 How do you make a list filter available to everyone?
@@ -744,7 +894,10 @@ C. Assign a name, set visibility, and save
 D. Make active, set visibility, and save
 
 Correct Answer is :- c
-
+19 min 30 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What would NOT appear in the Application Navigator if “service” is typed into the filter field?
@@ -757,7 +910,10 @@ C. Service Portal > Widgets
 D. Incident > Assigned to me
 
 Correct Answer is :- D
-
+20 min 0 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Which tool should be used to populate commonly used fields in a form?
@@ -770,7 +926,10 @@ C. Formatter
 D. Assignment Rule
 
 Correct Answer is :- A
-
+20 min 40 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 How is a group defined in ServiceNow?
@@ -783,7 +942,10 @@ C. A group defines a set of users that share the same location
 D. A group defines a set of users that share the same job title
 
 Correct Answer is :- B
-
+21 min 0 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What is a role in ServiceNow?
@@ -794,7 +956,10 @@ C. A role is one record in the Role [sys_user_role] table
 D. A role is a persona used in Live Feed Chat
 
 Correct Answer is :- c
-
+21 min 30 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What is a Notification?
@@ -807,7 +972,10 @@ C. A message through Connect related to a Change Request
 D. An email file attachment
 
 Correct Answer is :- B
-
+22 min 10 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Which one of the following is NOT a type of Visual Task Board?
@@ -820,7 +988,10 @@ C. Feature
 D. Guided boards
 
 Correct Answer is :- c
-
+22 min 30 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What is (are) best practice(s) regarding users/groups/roles? (Choose two.)
@@ -833,7 +1004,10 @@ C. You should add users to groups.
 D. You should assign roles to groups.
 
 Correct Answer is :- c, andp
-
+22 min 50 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Which core table in the ServiceNow platform provides a series of standard fields used on each of
@@ -848,7 +1022,10 @@ C. Service [service]
 D. Workflow [workflow]
 
 Correct Answer is :- A
-
+23 min 40 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Which of the following statements describes how data is organized in a table?
@@ -861,7 +1038,10 @@ C. Acolumn is one field and a record is one column
 D. Acolumn contains data from one user and a record is one set of fields
 
 Correct Answer is :- A
-
+24 min 0 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Which of the following statements describes how data is organized in a table?
@@ -874,7 +1054,10 @@ C. Acolumn is one field and a record is one column
 D. Acolumn contains data from one user and a record is one set of fields
 
 Correct Answer is :- A
-
+24 min 10 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Which of the following statements describes how data is organized in a table?
@@ -887,7 +1070,10 @@ C. Acolumn is one field and a record is one column
 D. Acolumn contains data from one user and a record is one set of fields
 
 Correct Answer is :- A
-
+24 min 20 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What is a sys_id?
@@ -900,7 +1086,10 @@ C. Aserver-side Business Rule
 D. Unique 64-character identifier that is assigned to every record
 
 Correct Answer is :- A
-
+24 min 40 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 When creating a global custom table named “abc”, what is the table name that is automatically
@@ -915,7 +1104,10 @@ C. u_abc
 D. sys_abc
 
 Correct Answer is :- c
-
+25 min 10 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Access Control rules may provide access security for which of the following database objects?
@@ -928,7 +1120,10 @@ C. For specific groups
 D. For a specific CMDB Configuration item
 
 Correct Answer is :- D
-
+25 min 30 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What is the primary application used to load data into ServiceNow?
@@ -941,7 +1136,10 @@ C. System Import Sets
 D. System Update Sets
 
 Correct Answer is :- c
-
+26 min 0 seconds
+
+%>%
+
 NEXT QUESTION :-
 What is the difference between a UI Policy and Data Policy?
 A. Data Policies run when data is entered through the form, by an Import Set, or by web services,
@@ -956,7 +1154,10 @@ for form interactions
 D. Data Policies run only after UI Policies run successfully
 
 Correct Answer is :- c
-
+26 min 10 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What is the difference between a UI Policy and Data Policy?
@@ -973,7 +1174,10 @@ for form interactions
 D. Data Policies run only after UI Policies run successfully
 
 Correct Answer is :- c
-
+26 min 20 seconds
+
+%>%
+
 NEXT QUESTION :-
 What is the difference between a UI Policy and Data Policy?
 A. Data Policies run when data is entered through the form, by an Import Set, or by web services,
@@ -988,7 +1192,10 @@ for form interactions
 D. Data Policies run only after UI Policies run successfully
 
 Correct Answer is :- c
-
+26 min 50 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Which one of the following is an accurate list of changes that are captured in an Update Set?
@@ -1001,7 +1208,10 @@ C. Changes made to: tables, forms, groups, and configuration items (Cls)
 D. Changes made to: table, forms, views, and fields
 
 Correct Answer is :- D
-
+27 min 0 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 IntegrationHub enables execution of third-party APIs as a part of a flow. These integrations are
@@ -1016,7 +1226,10 @@ C. aconnection
 D. an integration step
 
 Correct Answer is :- B
-
+27 min 40 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Which of the following protects applications by identifying and restricting access to available files
@@ -1031,7 +1244,10 @@ C. Access Control Rules
 D. Application Scope
 
 Correct Answer is :- D
-
+28 min 0 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Which one statement correctly describes Access Control rule evaluation?
@@ -1046,7 +1262,10 @@ allowed
 D. The role with the most permissions evaluates the rules first.
 
 Correct Answer is :- c
-
+28 min 20 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 ServiceNow contains a resource which provides the following:
@@ -1066,7 +1285,10 @@ C. Configuration Management Database (CMDB)
 
 D. Information Technology Infrastructure Library (ITIL)
 Correct Answer is :- A
-
+29 min 0 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 ServiceNow contains a resource which provides the following:
@@ -1086,7 +1308,10 @@ C. Configuration Management Database (CMDB)
 
 D. Information Technology Infrastructure Library (ITIL)
 Correct Answer is :- A
-
+29 min 10 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 An IT manager is responsible for the Network and Hardware assignment groups, each group
@@ -1103,7 +1328,10 @@ D. The manager is not a member of the Network and Hardware groups.
 E. The Assignment Group manager field is empty.
 
 Correct Answer is :- B
-
+29 min 50 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 An IT manager is responsible for the Network and Hardware assignment groups, each group
@@ -1120,7 +1348,10 @@ D. The manager is not a member of the Network and Hardware groups.
 E. The Assignment Group manager field is empty.
 
 Correct Answer is :- 8
-
+30 min 10 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 An IT manager is responsible for the Network and Hardware assignment groups, each group
@@ -1137,7 +1368,10 @@ D. The manager is not a member of the Network and Hardware groups.
 E. The Assignment Group manager field is empty.
 
 Correct Answer is :- B
-
+30 min 20 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Which ServiceNow resource is a framework that ensures the data your ServiceNow application
@@ -1156,7 +1390,10 @@ D. CMDB Class Manager (CMDBCM)
 E. Cl Class Manager (CICM)
 
 Correct Answer is :- A
-
+30 min 40 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What do you activate when you want to add applications or functionality within your development
@@ -1173,7 +1410,10 @@ D. Plugin
 E. App Updated Set
 
 Correct Answer is :- D
-
+31 min 10 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What field contains a record’s 32-character, unique identifier?
@@ -1192,7 +1432,10 @@ F. sn_sys_id
 G.id
 
 Correct Answer is :- D
-
+31 min 30 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Your company is giving all first line workers a special T-shirt as a recognition for their hard work.
@@ -1209,7 +1452,10 @@ C. Create Catalog Item and use the Available For list to specify ITIL [itil] rol
 D. Create Order Guide and use the User Criteria list to specify First Line [sn_first_line] role
 
 Correct Answer is :- 8
-
+32 min 0 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Your company is giving all first line workers a special T-shirt as a recognition for their hard work.
@@ -1226,7 +1472,10 @@ C. Create Catalog Item and use the Available For list to specify ITIL [itil] rol
 D. Create Order Guide and use the User Criteria list to specify First Line [sn_first_line] role
 
 Correct Answer is :- B
-
+32 min 10 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Your company is giving all first line workers a special T-shirt as a recognition for their hard work.
@@ -1241,7 +1490,10 @@ C. Create Catalog Item and use the Available For list to specify ITIL [itil] rol
 
 D. Create Order Guide and use the User Criteria list to specify First Line [sn_first_line] role
 Correct Answer is :- B
-
+32 min 30 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Your company is giving all first line workers a special T-shirt as a recognition for their hard work.
@@ -1258,7 +1510,10 @@ C. Create Catalog Item and use the Available For list to specify ITIL [itil] rol
 D. Create Order Guide and use the User Criteria list to specify First Line [sn_first_line] role
 
 Correct Answer is :- B
-
+32 min 40 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Your company is giving all first line workers a special T-shirt as a recognition for their hard work.
@@ -1273,7 +1528,10 @@ C. Create Catalog Item and use the Available For list to specify ITIL [itil] rol
 
 D. Create Order Guide and use the User Criteria list to specify First Line [sn_first_line] role
 Correct Answer is :- B
-
+32 min 50 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What is used frequently to move customizations from one instance to another?
@@ -1292,7 +1550,10 @@ F. Local Sets
 G. Code Packs
 
 Correct Answer is :- A
-
+33 min 0 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What feature can track the amount of time that a task has been open, to ensure that tasks are
@@ -1311,7 +1572,10 @@ D. Response Time Clock
 E. Business Time Remaining
 
 Correct Answer is :- B
-
+33 min 40 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What is a quick way to create a report from a list view?
@@ -1326,7 +1590,10 @@ D. Apply filter, right click on column header, select Bar Chart
 E. Apply filter, right click on column header, select Create Report
 
 Correct Answer is :- B
-
+34 min 10 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What import utility do you use when the field names on the import set match the name of the
@@ -1343,7 +1610,10 @@ C. Mapping Assist
 D. Mapping Dashboard
 
 Correct Answer is :- B
-
+34 min 40 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 As an IT employee what interface would you use, if you wanted to browse internal IT
@@ -1360,7 +1630,10 @@ D. SharePoint
 E. Stack Overflow
 
 Correct Answer is :- A
-
+35 min 0 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What are three security modules often used by the System Administrator? (Choose three.)
@@ -1379,7 +1652,10 @@ F. Password Management > Security Questions
 G. System Security > High Security Settings
 
 Correct Answer is :- A,EandG
-
+35 min 30 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What is a no-code approach to control the mandatory or read-only state of a form field?
@@ -1394,7 +1670,10 @@ D. UI Rule
 E. Ul Policy
 
 Correct Answer is :- —
-
+36 min 10 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 When moving multiple update sets at one time, what might you do to facilitate the move?
@@ -1407,7 +1686,10 @@ C. Test
 D. Preview
 
 Correct Answer is :- D
-
+36 min 30 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What is specified in an Access Control rule?
@@ -1420,7 +1702,10 @@ C. Object and Operation being secured; Permissions required to access the object
 D. security_admin
 
 Correct Answer is :- c
-
+36 min 50 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Which icon would you double click, to expand and collapse the list of all Applications and Modules?
@@ -1433,7 +1718,10 @@ C. Application
 D. Funnel
 
 Correct Answer is :- c
-
+37 min 20 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What do you call any component that needs to be managed in order to deliver services?
@@ -1448,7 +1736,10 @@ D. Service Offerings
 E. Asset
 
 Correct Answer is :- c
-
+37 min 30 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Anewservice catalog item is being developed, but should only be visible to managers inside the HR
@@ -1465,7 +1756,10 @@ D. Only publish the item in the HR service catalog
 E. Use a Dept_Mgr ACL on the HR service catalog
 
 Correct Answer is :- c
-
+37 min 50 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 A user wants to create a set of filter conditions, where they want to show records which satisfy
@@ -1485,7 +1779,10 @@ D. Define the first condition; click > icon on breadcrumb, define second conditi
 E. Define the first condition; click > icon on breadcrumb, define second condition; press enter
 
 Correct Answer is :- A
-
+38 min 40 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 A user wants to create a set of filter conditions, where they want to show records which satisfy
@@ -1504,7 +1801,10 @@ D. Define the first condition; click > icon on breadcrumb, define second conditi
 
 E. Define the first condition; click > icon on breadcrumb, define second condition; press enter
 Correct Answer is :- A
-
+39 min 30 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Access Control rules are applied to a specific table, like the Incident table. What is the object name
@@ -1521,7 +1821,10 @@ D. incident| | major_incident
 E. incident.major_incident
 
 Correct Answer is :- —
-
+39 min 40 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Access Control rules are applied to a specific table, like the Incident table. What is the object name
@@ -1538,7 +1841,10 @@ D. incident| | major_incident
 E. incident.major_incident
 
 Correct Answer is :- —
-
+40 min 0 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Access Control rules are applied to a specific table, like the Incident table. What is the object name
@@ -1555,7 +1861,10 @@ D. incident| | major_incident
 E. incident.major_incident
 
 Correct Answer is :- —
-
+40 min 10 seconds
+
+%>%
+
 Two departments (HR Onboarding and Facilities) have come to you, asking for a way for
 employees to request
 
@@ -1582,7 +1891,10 @@ C. Create one Catalog Item for Event Room Set Up; then publish to the Parent Cat
 accessible to
 
 both HR and Facilities.
-
+40 min 20 seconds
+
+%>%
+
 Two departments (HR Onboarding and Facilities) have come to you, asking for a way for
 employees to request
 
@@ -1609,7 +1921,10 @@ C. Create one Catalog Item for Event Room Set Up; then publish to the Parent Cat
 accessible to
 
 both HR and Facilities.
-
+40 min 30 seconds
+
+%>%
+
 Two departments (HR Onboarding and Facilities) have come to you, asking for a way for
 employees to request
 
@@ -1636,7 +1951,10 @@ C. Create one Catalog Item for Event Room Set Up; then publish to the Parent Cat
 accessible to
 
 both HR and Facilities.
-
+40 min 40 seconds
+
+%>%
+
 Two departments (HR Onboarding and Facilities) have come to you, asking for a way for
 employees to request
 
@@ -1663,7 +1981,10 @@ C. Create one Catalog Item for Event Room Set Up; then publish to the Parent Cat
 accessible to
 
 both HR and Facilities.
-
+40 min 50 seconds
+
+%>%
+
 Two departments (HR Onboarding and Facilities) have come to you, asking for a way for
 employees to request
 
@@ -1690,7 +2011,10 @@ C. Create one Catalog Item for Event Room Set Up; then publish to the Parent Cat
 accessible to
 
 both HR and Facilities.
-
+41 min 0 seconds
+
+%>%
+
 Two departments (HR Onboarding and Facilities) have come to you, asking for a way for
 employees to request
 
@@ -1717,7 +2041,10 @@ C. Create one Catalog Item for Event Room Set Up; then publish to the Parent Cat
 accessible to
 
 both HR and Facilities.
-
+41 min 20 seconds
+
+%>%
+
 Two departments (HR Onboarding and Facilities) have come to you, asking for a way for
 employees to request
 
@@ -1744,7 +2071,10 @@ C. Create one Catalog Item for Event Room Set Up; then publish to the Parent Cat
 accessible to
 
 both HR and Facilities.
-
+41 min 30 seconds
+
+%>%
+
 the Facilities’
 
 assignment group.
@@ -1771,7 +2101,10 @@ both HR and Facilities.
 D. Create one Catalog Item for Event Room Set Up; then use ACLs to control access.
 
 Correct Answer is :- c
-
+41 min 50 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 After finishing your work on High Security Settings, what do you do to return to normal admin
@@ -1788,7 +2121,10 @@ D. Select Global Update Set
 E. End Impersonation
 
 Correct Answer is :- B
-
+42 min 0 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Which module would you use to create a new automation of business logic such as approvals,
@@ -1807,7 +2143,10 @@ D. Process Automation > Process Flow
 E. Process Automation > Active Flows
 
 Correct Answer is :- A
-
+42 min 30 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 A department manager asks an analyst to build some reports. Where do you recommend the
@@ -1824,7 +2163,10 @@ D. Self-Service > Reports
 E. Reports > Create New
 
 Correct Answer is :- —
-
+43 min 0 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What are the steps for applying an update set to an instance?
@@ -1839,7 +2181,10 @@ D. Get, Test, Push
 E. Pull, Review, Push
 
 Correct Answer is :- A
-
+43 min 30 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 When importing spreadsheet data into ServiceNow, in which step does the data get written to the
@@ -1858,7 +2203,10 @@ D. Execute Transform
 E. Schedule Transform
 
 Correct Answer is :- D
-
+43 min 50 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What would you do, ona list, if you wanted to show the records in groups, based on the column
@@ -1875,7 +2223,10 @@ D. On Navigator Filter, type tablename.group.category and press enter
 E. On the Category column title, click Context menu > Group By Category
 
 Correct Answer is :- A, ande
-
+44 min 20 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What would you do, ona list, if you wanted to show the records in groups, based on the column
@@ -1892,7 +2243,10 @@ D. On Navigator Filter, type tablename.group.category and press enter
 E. On the Category column title, click Context menu > Group By Category
 
 Correct Answer is :- A, andeé
-
+44 min 40 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What would you do, ona list, if you wanted to show the records in groups, based on the column
@@ -1909,7 +2263,10 @@ D. On Navigator Filter, type tablename.group.category and press enter
 E. On the Category column title, click Context menu > Group By Category
 
 Correct Answer is :- A, ande
-
+44 min 50 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Which collaboration tool is available from the banner, using the bubble icon?
@@ -1924,7 +2281,10 @@ D. Collaborate Now
 E. Live Feed
 
 Correct Answer is :- c
-
+45 min 0 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 On the knowledge base record, which tab would you use to define which users are not able to
@@ -1941,7 +2301,10 @@ D. Cannot Write
 E. Read Only
 
 Correct Answer is :- c
-
+45 min 20 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Which features allow you to update multiple records at one time? (Choose two.)
@@ -1956,7 +2319,10 @@ D. Data Remediation Dashboard
 E. Update Selected Action
 
 Correct Answer is :- AandB
-
+45 min 40 seconds
+
+%>%
+
 NEXT QUESTION :-
 Categories in the knowledge base, by default, can be created and edited by which knowledge
 workers? (Choose two.)
@@ -1977,7 +2343,10 @@ G. Knowledge Owners
 
 H. Knowledge Taxonomy Owner
 Correct Answer is :- BandD
-
+46 min 10 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Which collaboration tool opensa sidebar and allows you to create new conversations with other
@@ -1996,7 +2365,10 @@ D. Agent Chat
 E. Connect Chat
 
 Correct Answer is :-
-
+46 min 40 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What component causes a flow to run after a record has been created or updated?
@@ -2011,7 +2383,10 @@ D. Application-based trigger
 E. Updated-date trigger
 
 Correct Answer is :-
-
+47 min 0 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What type of field is Boolean and appears as a check box?
@@ -2026,7 +2401,10 @@ D. Binary
 E.0/1
 
 Correct Answer is :- B
-
+47 min 30 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Which module is used to access the knowledge bases which are available to you?
@@ -2041,7 +2419,10 @@ D. Knowledge > Knowledge Bases
 E. Knowledge > Overview
 
 Correct Answer is :- D
-
+47 min 50 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Acustomer requests the following data quality measures be added:
@@ -2063,7 +2444,10 @@ E. Field Criteria Policy
 F. Data Policy
 
 Correct Answer is :- D
-
+48 min 10 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 A customer requests the following data quality measures be added:
@@ -2085,7 +2469,10 @@ E. Field Criteria Policy
 F. Data Policy
 
 Correct Answer is :- D
-
+48 min 20 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 A customer requests the following data quality measures be added:
@@ -2107,7 +2494,10 @@ E. Field Criteria Policy
 F. Data Policy
 
 Correct Answer is :- D
-
+48 min 30 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What type of user (persona) has clearly defined paths and workflows in the platform and have one
@@ -2126,7 +2516,10 @@ E. Service Desk User
 F. Process User
 
 Correct Answer is :- D
-
+48 min 50 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Which module would you use to customize your instances banner image, text and colors?
@@ -2141,7 +2534,10 @@ D. System Properties > Branding
 E. Homepage Admin > Pages > Branding
 
 Correct Answer is :- c
-
+49 min 20 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Which module would you use to customize your instances banner image, text and colors?
@@ -2156,7 +2552,10 @@ D. System Properties > Branding
 E. Homepage Admin > Pages > Branding
 
 Correct Answer is :- c
-
+49 min 40 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Whatis the name of the table relationship, where two or more tables are related in a bi-directional
@@ -2173,7 +2572,10 @@ C. One to Many
 D. Extended
 
 Correct Answer is :- B
-
+49 min 50 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 On a Form header, what is the three bar icon called?
@@ -2186,7 +2588,10 @@ C. Hamburger icon
 D. Cake icon
 
 Correct Answer is :- B
-
+50 min 10 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Group records are stored in which table?
@@ -2199,7 +2604,10 @@ C. Group [s_sys_group]
 D. Group [u_sys_group]
 
 Correct Answer is :- B
-
+50 min 30 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What function do you use to add buttons, links, and context menu items on forms and lists?
@@ -2212,7 +2620,10 @@ C. Ul Actions
 D. UI Config
 
 Correct Answer is :- c
-
+51 min 0 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 On a Business Rule, the When setting determines at what point the rule executes. What are the
@@ -2227,7 +2638,10 @@ C. Insert, Update, Delete, Query
 D. Before, Synchronous, Scheduled Job, View
 
 Correct Answer is :- A
-
+51 min 20 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Whatare different types of Data Sources, which may be imported into ServiceNow? (Choose four.)
@@ -2244,7 +2658,10 @@ E. Network Server
 F. LDAP Connection
 
 Correct Answer is :- A, c, DandF
-
+51 min 50 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What are the components that make up a filter condition? (Choose three.)
@@ -2259,7 +2676,10 @@ D. Column
 E. Field
 
 Correct Answer is :- A, Cc, ande
-
+52 min 30 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 When impersonating a user for testing purposes, what is the best way to return the instance,
@@ -2276,7 +2696,10 @@ C. End Impersonation
 D. Log out and back in
 
 Correct Answer is :- D
-
+52 min 50 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What controls the publishing and retiring process for knowledge articles?
@@ -2291,7 +2714,10 @@ D. Workflows
 E. State Lifecycle
 
 Correct Answer is :- D
-
+53 min 20 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What type of query allows you to filter list data using normal words, instead of the condition
@@ -2308,7 +2734,10 @@ D. Predictive Intelligence Query
 E. Auto-suggest Query
 
 Correct Answer is :- A
-
+53 min 40 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Tables may have a One to Many relationships. From the Service Catalog, what are examples of
@@ -2325,7 +2754,10 @@ D. One Requested Item can have many Catalog Tasks
 E. One Cart can have many Requests
 
 Correct Answer is :- B,DandE
-
+54 min 10 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Tables may have a One to Many relationships. From the Service Catalog, what are examples of
@@ -2342,7 +2774,10 @@ D. One Requested Item can have many Catalog Tasks
 E. One Cart can have many Requests
 
 Correct Answer is :- B, DandE
-
+54 min 20 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Tables may have a One to Many relationships. From the Service Catalog, what are examples of
@@ -2359,7 +2794,10 @@ D. One Requested Item can have many Catalog Tasks
 E. One Cart can have many Requests
 
 Correct Answer is :- B,DandE
-
+54 min 30 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Tables may have a One to Many relationships. From the Service Catalog, what are examples of
@@ -2376,7 +2814,10 @@ D. One Requested Item can have many Catalog Tasks
 E. One Cart can have many Requests
 
 Correct Answer is :- 8, DandE
-
+54 min 40 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 On a filter condition, which component is always a choice list?
@@ -2389,7 +2830,10 @@ C. Operation
 D. Match Criteria
 
 Correct Answer is :- c
-
+54 min 50 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 A Role is defined as what?
@@ -2400,7 +2844,10 @@ C. A Persona in a workflow
 
 D. A set of access control rules
 Correct Answer is :- D
-
+55 min 10 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 A user is complaining that they are seeing a blank page, when they click Create New, from your
@@ -2418,7 +2865,10 @@ D. User has read role, but not the write role on the Inventory table
 E. User session has timed out
 
 Correct Answer is :- —
-
+55 min 30 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Auser is complaining that they are seeing a blank page, when they click Create New, from your
@@ -2436,7 +2886,10 @@ D. User has read role, but not the write role on the Inventory table
 E. User session has timed out
 
 Correct Answer is :- £
-
+55 min 40 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 A user is complaining that they are seeing a blank page, when they click Create New, from your
@@ -2454,7 +2907,10 @@ D. User has read role, but not the write role on the Inventory table
 E. User session has timed out
 
 Correct Answer is :- —
-
+55 min 50 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 A user is complaining that they are seeing a blank page, when they click Create New, from your
@@ -2472,7 +2928,10 @@ D. User has read role, but not the write role on the Inventory table
 E. User session has timed out
 
 Correct Answer is :- £
-
+56 min 0 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 A user is complaining that they are seeing a blank page, when they click Create New, from your
@@ -2490,7 +2949,10 @@ D. User has read role, but not the write role on the Inventory table
 E. User session has timed out
 
 Correct Answer is :- —
-
+56 min 10 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Whatis the name of the table relationship, where two or more tables are related in a bi-directional
@@ -2507,7 +2969,10 @@ C. One to Many
 D. Extended
 
 Correct Answer is :- B
-
+56 min 20 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 On a Form header, what is the three bar icon called?
@@ -2520,7 +2985,10 @@ C. Hamburger icon
 D. Cake icon
 
 Correct Answer is :- B
-
+56 min 40 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Group records are stored in which table?
@@ -2533,7 +3001,10 @@ C. Group [s_sys_group]
 D. Group [u_sys_group]
 
 Correct Answer is :- B
-
+57 min 0 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What function do you use to add buttons, links, and context menu items on forms and lists?
@@ -2546,7 +3017,10 @@ C. UI Actions
 D. UI Config
 
 Correct Answer is :- c
-
+57 min 30 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 On a Business Rule, the When setting determines at what point the rule executes. What are the
@@ -2561,7 +3035,10 @@ C. Insert, Update, Delete, Query
 D. Before, Synchronous, Scheduled Job, View
 
 Correct Answer is :- A
-
+57 min 50 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Whatare different types of Data Sources, which may be imported into ServiceNow? (Choose four.)
@@ -2578,7 +3055,10 @@ E. Network Server
 F. LDAP Connection
 
 Correct Answer is :- A, c, DandF
-
+58 min 20 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What are the components that make up a filter condition? (Choose three.)
@@ -2593,7 +3073,10 @@ D. Column
 E. Field
 
 Correct Answer is :- A, C, ande
-
+59 min 0 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 When impersonating a user for testing purposes, what is the best way to return the instance,
@@ -2610,7 +3093,10 @@ C. End Impersonation
 D. Log out and back in
 
 Correct Answer is :- D
-
+59 min 20 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What controls the publishing and retiring process for knowledge articles?
@@ -2625,7 +3111,10 @@ D. Workflows
 E. State Lifecycle
 
 Correct Answer is :- D
-
+59 min 50 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What type of query allows you to filter list data using normal words, instead of the condition
@@ -2642,7 +3131,10 @@ D. Predictive Intelligence Query
 E. Auto-suggest Query
 
 Correct Answer is :- A
-
+1 h 0 min 10 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Tables may have a One to Many relationships. From the Service Catalog, what are examples of
@@ -2659,7 +3151,10 @@ D. One Requested Item can have many Catalog Tasks
 E. One Cart can have many Requests
 
 Correct Answer is :- B,DandE
-
+1 h 0 min 40 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Tables may have a One to Many relationships. From the Service Catalog, what are examples of
@@ -2676,7 +3171,10 @@ D. One Requested Item can have many Catalog Tasks
 E. One Cart can have many Requests
 
 Correct Answer is :- B, DandE
-
+1 h 0 min 50 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Tables may have a One to Many relationships. From the Service Catalog, what are examples of
@@ -2693,7 +3191,10 @@ D. One Requested Item can have many Catalog Tasks
 E. One Cart can have many Requests
 
 Correct Answer is :- B,DandE
-
+1 h 1 min 0 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 On a filter condition, which component is always a choice list?
@@ -2706,7 +3207,10 @@ C. Operation
 D. Match Criteria
 
 Correct Answer is :- c
-
+1 h 1 min 20 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 A Role is defined as what?
@@ -2717,7 +3221,10 @@ C. A Persona in a workflow
 
 D. A set of access control rules
 Correct Answer is :- D
-
+1 h 1 min 40 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 A user is complaining that they are seeing a blank page, when they click Create New, from your
@@ -2735,7 +3242,10 @@ D. User has read role, but not the write role on the Inventory table
 E. User session has timed out
 
 Correct Answer is :- —
-
+1 h 2 min 0 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What is the name of the table relationship, where two or more tables are related in a bi-directional
@@ -2752,7 +3262,10 @@ C. One to Many
 D. Extended
 
 Correct Answer is :- B
-
+1 h 2 min 40 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 On a Form header, what is the three bar icon called?
@@ -2765,7 +3278,10 @@ C. Hamburger icon
 D. Cake icon
 
 Correct Answer is :- B
-
+1 h 3 min 10 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Group records are stored in which table?
@@ -2778,7 +3294,10 @@ C. Group [s_sys_group]
 D. Group [u_sys_group]
 
 Correct Answer is :- B
-
+1 h 3 min 30 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What function do you use to add buttons, links, and context menu items on forms and lists?
@@ -2791,7 +3310,10 @@ C. Ul Actions
 D. UI Config
 
 Correct Answer is :- c
-
+1 h 3 min 50 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 On a Business Rule, the When setting determines at what point the rule executes. What are the
@@ -2806,7 +3328,10 @@ C. Insert, Update, Delete, Query
 D. Before, Synchronous, Scheduled Job, View
 
 Correct Answer is :- A
-
+1 h 4 min 20 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Whatare different types of Data Sources, which may be imported into ServiceNow? (Choose four.)
@@ -2823,7 +3348,10 @@ E. Network Server
 F. LDAP Connection
 
 Correct Answer is :- A, c, DandF
-
+1 h 4 min 50 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What are the components that make up a filter condition? (Choose three.)
@@ -2838,7 +3366,10 @@ D. Column
 E. Field
 
 Correct Answer is :- A, Cc, ande
-
+1 h 5 min 30 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 When impersonating a user for testing purposes, what is the best way to return the instance,
@@ -2855,7 +3386,10 @@ C. End Impersonation
 D. Log out and back in
 
 Correct Answer is :- D
-
+1 h 5 min 50 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What controls the publishing and retiring process for knowledge articles?
@@ -2870,7 +3404,10 @@ D. Workflows
 E. State Lifecycle
 
 Correct Answer is :- D
-
+1 h 6 min 20 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What type of query allows you to filter list data using normal words, instead of the condition
@@ -2887,7 +3424,10 @@ D. Predictive Intelligence Query
 E. Auto-suggest Query
 
 Correct Answer is :- A
-
+1 h 6 min 40 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Tables may have a One to Many relationships. From the Service Catalog, what are examples of
@@ -2904,7 +3444,10 @@ D. One Requested Item can have many Catalog Tasks
 E. One Cart can have many Requests
 
 Correct Answer is :- B,DandE
-
+1 h 7 min 10 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Tables may have a One to Many relationships. From the Service Catalog, what are examples of
@@ -2921,7 +3464,10 @@ D. One Requested Item can have many Catalog Tasks
 E. One Cart can have many Requests
 
 Correct Answer is :- 8, DandE
-
+1 h 7 min 40 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 On a filter condition, which component is always a choice list?
@@ -2934,7 +3480,10 @@ C. Operation
 D. Match Criteria
 
 Correct Answer is :- c
-
+1 h 7 min 50 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 A Role is defined as what?
@@ -2945,7 +3494,10 @@ C. A Persona in a workflow
 
 D. A set of access control rules
 Correct Answer is :- D
-
+1 h 8 min 10 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 A user is complaining that they are seeing a blank page, when they click Create New, from your
@@ -2963,7 +3515,10 @@ D. User has read role, but not the write role on the Inventory table
 E. User session has timed out
 
 Correct Answer is :-
-
+1 h 8 min 30 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 A user is complaining that they are seeing a blank page, when they click Create New, from your
@@ -2981,7 +3536,10 @@ D. User has read role, but not the write role on the Inventory table
 E. User session has timed out
 
 Correct Answer is :- —
-
+1 h 8 min 40 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 A user is complaining that they are seeing a blank page, when they click Create New, from your
@@ -2999,7 +3557,10 @@ D. User has read role, but not the write role on the Inventory table
 E. User session has timed out
 
 Correct Answer is :- £
-
+1 h 8 min 50 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Auser is complaining that they are seeing a blank page, when they click Create New, from your
@@ -3017,7 +3578,10 @@ D. User has read role, but not the write role on the Inventory table
 E. User session has timed out
 
 Correct Answer is :- —
-
+1 h 9 min 0 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What resource can you use to view details of the tables and configuration items (Cls) associated
@@ -3032,7 +3596,10 @@ C. CMDB Use Case Modeler
 D. Common Service Data Model (CSDM) product view
 
 Correct Answer is :- D
-
+1 h 9 min 10 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 A manager wants to view a snapshot of month-end Sales performance data, as compared to Sales
@@ -3050,7 +3617,10 @@ D. Performance Analytics
 E. Key Performance Indicators
 
 Correct Answer is :- D
-
+1 h 9 min 40 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 A manager wants to view a snapshot of month-end Sales performance data, as compared to Sales
@@ -3068,7 +3638,10 @@ D. Performance Analytics
 E. Key Performance Indicators
 
 Correct Answer is :- D
-
+1 h 9 min 50 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 A manager wants to view a snapshot of month-end Sales performance data, as compared to Sales
@@ -3086,7 +3659,10 @@ D. Performance Analytics
 E. Key Performance Indicators
 
 Correct Answer is :- D
-
+1 h 10 min 0 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What are advantages of using Flow Designer? (Choose three.)
@@ -3101,7 +3677,10 @@ D. Less manual scripting
 
 E. Smooth integration with 3rd party systems
 Correct Answer is :- A, DandE
-
+1 h 10 min 20 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Your customer requires that they be able to monitor which users are performing impersonations in
@@ -3118,7 +3697,10 @@ D. From User icon, select Elevate Roles
 E. On the Impersonater role record, right click and select Create Log
 
 Correct Answer is -- c
-
+1 h 11 min 0 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Your customer requires that they be able to monitor which users are performing impersonations in
@@ -3135,7 +3717,10 @@ D. From User icon, select Elevate Roles
 E. On the Impersonator role record, right click and select Create Log
 
 Correct Answer is :- c
-
+1 h 11 min 10 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Whena flow runsan action, it generates a runtime value, which stays the same for the duration of
@@ -3152,7 +3737,10 @@ D. Data pill runtime value
 E. Input runtime value
 
 Correct Answer is :- D
-
+1 h 11 min 40 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 The wait time for end users is based on the round-trip between the client and the server. What
@@ -3171,7 +3759,10 @@ D. Submit + Query
 E. Insert + Verify
 
 Correct Answer is :- A
-
+1 h 12 min 10 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 When importing data, what happens to imported rows, if no coalesce field is specified?
@@ -3184,7 +3775,10 @@ C. Duplicate rows are rejected from the import.
 D. All rows are treated as new records, but errors will be flagged in the import log.
 
 Correct Answer is :- D
-
+1 h 12 min 40 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 When importing data, what happens to imported rows, if no coalesce field is specified?
@@ -3196,7 +3790,10 @@ C. Duplicate rows are rejected from the import.
 
 D. All rows are treated as new records, but errors will be flagged in the import log.
 Correct Answer is :- D
-
+1 h 13 min 0 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What is the most common role that has access to almost all platform features, functions, and
@@ -3213,7 +3810,10 @@ D. System Administrator [admin]
 E. Base Admin [base_admin]
 
 Correct Answer is :- c
-
+1 h 13 min 10 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What feature do you use to specify which users are able to access a Service Catalog Item?
@@ -3226,7 +3826,10 @@ C. Can Order Tab
 D. User Criteria
 
 Correct Answer is :- D
-
+1 h 13 min 40 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Which component of a table contains a piece of data for one record?
@@ -3241,7 +3844,10 @@ D. Element
 E. Item
 
 Correct Answer is :- B
-
+1 h 14 min 0 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What type of field has a drop down list, from which you can pick from pre-defined options?
@@ -3254,7 +3860,10 @@ C. Drop down
 D.
 
 Correct Answer is :- A
-
+1 h 14 min 20 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 User records are stored in which table?
@@ -3267,7 +3876,10 @@ C. User [u_sys_user]
 D. User [s_user]
 
 Correct Answer is :- A
-
+1 h 14 min 30 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What ServiceNow feature can be triggered by events, and is used to inform users about activities
@@ -3284,7 +3896,10 @@ D. Events
 E. Emails
 
 Correct Answer is :- D
-
+1 h 15 min 0 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Which ServiceNow capability allows you to provide knowledge articles, via a conversational
@@ -3299,7 +3914,10 @@ C. Now Messenger
 D. Connect Agent
 
 Correct Answer is :- B
-
+1 h 15 min 20 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Which role can manage multiple knowledge bases?
@@ -3312,7 +3930,10 @@ C. sn_kb_admin
 D. knowledge_admin
 
 Correct Answer is :- D
-
+1 h 15 min 40 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Which statement correctly describes the differences between a Client Script and a Business Rule?
@@ -3327,7 +3948,10 @@ D. A Client Script executes before a recordis loaded anda Business Rule executes
 updated
 
 Correct Answer is :- c
-
+1 h 16 min 0 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Which statement correctly describes the differences between a Client Script and a Business Rule?
@@ -3342,7 +3966,10 @@ D. A Client Script executes before a recordis loaded anda Business Rule executes
 updated
 
 Correct Answer is :- c
-
+1 h 16 min 10 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Which statement correctly describes the differences between a Client Script and a Business Rule?
@@ -3357,7 +3984,10 @@ D. A Client Script executes before a record is loaded anda Business Rule execute
 updated
 
 Correct Answer is :- c
-
+1 h 16 min 20 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What are benefits of assigning work tasks to a group, rather than to an individual? (Choose four.)
@@ -3374,7 +4004,10 @@ E. Group members can avoid tasks, which are nearing SLA breach
 F. Groups can assign tasks to users based on availability
 
 Correct Answer is :- B,C, D andF
-
+1 h 16 min 40 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What are benefits of assigning work tasks to a group, rather than to an individual? (Choose four.)
@@ -3391,7 +4024,10 @@ E. Group members can avoid tasks, which are nearing SLA breach
 F. Groups can assign tasks to users based on availability
 
 Correct Answer is :- B, Cc, D andF
-
+1 h 16 min 50 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What are benefits of assigning work tasks to a group, rather than to an individual? (Choose four.)
@@ -3408,7 +4044,10 @@ E. Group members can avoid tasks, which are nearing SLA breach
 F. Groups can assign tasks to users based on availability
 
 Correct Answer is :- B,C, D and F
-
+1 h 17 min 0 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Whatare benefits of assigning work tasks to a group, rather than to an individual? (Choose four.)
@@ -3425,7 +4064,10 @@ E. Group members can avoid tasks, which are nearing SLA breach
 F. Groups can assign tasks to users based on availability
 
 Correct Answer is :- B,C, DandF
-
+1 h 17 min 10 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What are benefits of assigning work tasks to a group, rather than to an individual? (Choose four.)
@@ -3442,7 +4084,10 @@ E. Group members can avoid tasks, which are nearing SLA breach
 F. Groups can assign tasks to users based on availability
 
 Correct Answer is :- B,C, D and F
-
+1 h 17 min 20 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Whatare benefits of assigning work tasks to a group, rather than to an individual? (Choose four.)
@@ -3459,7 +4104,10 @@ E. Group members can avoid tasks, which are nearing SLA breach
 F. Groups can assign tasks to users based on availability
 
 Correct Answer is :- B, Cc, D andF
-
+1 h 17 min 30 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What are benefits of assigning work tasks to a group, rather than to an individual? (Choose four.)
@@ -3476,7 +4124,10 @@ E. Group members can avoid tasks, which are nearing SLA breach
 F. Groups can assign tasks to users based on availability
 
 Correct Answer is :- B,C, D andr
-
+1 h 17 min 40 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What ServiceNow feature allows you to include data from a secondary related table on a report?
@@ -3489,7 +4140,10 @@ C. Outer Join
 D. Joins
 
 Correct Answer is :- B
-
+1 h 17 min 50 seconds
+
+%>%
+
 NEXT QUESTION :-
 What attributes can you manage, using System Properties > Basic Configuration UI16? (Choose
 five.)
@@ -3510,7 +4164,10 @@ G. Header background color
 H. Banner Image
 
 Correct Answer is :- A, 8, D and GH
-
+1 h 18 min 10 seconds
+
+%>%
+
 NEXT QUESTION :-
 What attributes can you manage, using System Properties > Basic Configuration Ul16? (Choose
 five.)
@@ -3531,7 +4188,10 @@ G. Header background color
 H. Banner Image
 
 Correct Answer is :- A, B, D and GH
-
+1 h 18 min 20 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Which field (or fields) is used as a unique key during imports?
@@ -3544,7 +4204,10 @@ C. Key Fields
 D. Sys IDs
 
 Correct Answer is :- B
-
+1 h 18 min 50 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 You are asked to create an option in the Service Catalog, which will allow a user to click Get Help
@@ -3564,7 +4227,10 @@ C. Create Order Guide
 D. Create Content Item
 
 Correct Answer is :- B
-
+1 h 19 min 10 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 You are asked to create an option in the Service Catalog, which will allow a user to click Get Help
@@ -3584,7 +4250,10 @@ C. Create Order Guide
 D. Create Content Item
 
 Correct Answer is :- 8
-
+1 h 19 min 20 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 You are asked to create an option in the Service Catalog, which will allow a user to click Get Help
@@ -3604,7 +4273,10 @@ C. Create Order Guide
 D. Create Content Item
 
 Correct Answer is :- B
-
+1 h 19 min 30 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Which tool graphically displays an infrastructure view for a configuration item (Cl) and its
@@ -3621,7 +4293,10 @@ C. Dependency Map
 D. Database View
 
 Correct Answer is :- B
-
+1 h 19 min 40 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What are examples of Core tables in the ServiceNow platform?
@@ -3634,7 +4309,10 @@ C. User, Task, Incident
 D. Work, Caller, Timecard
 
 Correct Answer is :- A
-
+1 h 20 min 0 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Which tab on the knowledge base record, would you use to identify the sets of users who are able
@@ -3651,7 +4329,10 @@ C. Accessible to
 D. Can Read
 
 Correct Answer is :- D
-
+1 h 20 min 20 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What are the main components of the Form Design interface? (Choose three.)
@@ -3666,7 +4347,10 @@ D. Field Picker
 E. Form Layout
 
 Correct Answer is :- B, CandE
-
+1 h 20 min 40 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What is used to determine user access to knowledge bases or a knowledge article?
@@ -3679,7 +4363,10 @@ C. Read Access Flag
 D. User Criteria
 
 Correct Answer is :- D
-
+1 h 21 min 0 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What are the three key tables in an enterprise CMDB? (Choose three.)
@@ -3698,7 +4385,10 @@ F. cmdb_ci
 G. sn_cmdb_ci
 
 Correct Answer is :- A,CandF
-
+1 h 21 min 20 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What is the best practice related to using the Default Update Set for moving customizations
@@ -3713,7 +4403,10 @@ C. You should not use the Default Update sets for moving between instances
 D. Keep Default update set to maximum of 20 records, for troubleshooting purposes
 
 Correct Answer is :- B
-
+1 h 22 min 0 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What is the best practice related to using the Default Update Set for moving customizations
@@ -3727,7 +4420,10 @@ C. You should not use the Default Update sets for moving between instances
 
 D. Keep Default update set to maximum of 20 records, for troubleshooting purposes
 Correct Answer is :- 8
-
+1 h 22 min 30 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 On what part of the ServiceNow instance, would you find the option to Impersonate User?
@@ -3740,7 +4436,10 @@ C. Application Navigator
 D. Banner
 
 Correct Answer is :- D
-
+1 h 22 min 40 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Which application is used primarily to load data into ServiceNow?
@@ -3753,7 +4452,10 @@ C. Data Import Configuration
 D. Import Management
 
 Correct Answer is :- B
-
+1 h 23 min 0 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 If a knowledge base has no access details specified, what users are able to read articles in that
@@ -3769,7 +4471,10 @@ D. No users
 Na
 
    
-
+1 h 23 min 10 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Which database provides a logical model of your company infrastructure by identifying, controlling,
@@ -3786,7 +4491,10 @@ D. CMDB
 E. LDAP
 
 Correct Answer is :- D
-
+1 h 23 min 40 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Which module is used as the first step for importing data?
@@ -3799,7 +4507,10 @@ C. Import Data
 D. Load Data
 
 Correct Answer is :- c
-
+1 h 24 min 10 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 When you need to orchestrate business processes across services with little technical user
@@ -3816,7 +4527,10 @@ D. Workflow Editor
 E. Workflow Designer
 
 Correct Answer is :- c
-
+1 h 24 min 20 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Whena user reports that they are not able to see modules on the application navigator, what can
@@ -3833,7 +4547,10 @@ D. Impersonate the user
 E. Launch a NowChat window
 
 Correct Answer is :- 8
-
+1 h 24 min 50 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Whena user reports that they are not able to see modules on the application navigator, what can
@@ -3850,7 +4567,10 @@ D. Impersonate the user
 E. Launch a NowChat window
 
 Correct Answer is :- B
-
+1 h 25 min 0 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 What is a key difference between Reporting and Performance Analytics?
@@ -3869,7 +4589,10 @@ D. Performance Analytics data can be published to Dashboards; Reports cannot.
 E. Performance Analytics shows KPls; Reporting does not.
 
 Correct Answer is :- B
-
+1 h 25 min 20 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 While showing a customer their incident form, they ask to change the Priority values to display
@@ -3889,7 +4612,10 @@ E. Show Choice List
 F. Configure s
 
 Correct Answer is :- F
-
+1 h 26 min 0 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 While showing a customer their incident form, they ask to change the Priority values to display
@@ -3909,7 +4635,10 @@ E. Show Choice List
 F. Configure s
 
 Correct Answer is :- F
-
+1 h 26 min 20 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Your customer would like to create a new template to notify users who are affected by network
@@ -3926,7 +4655,10 @@ D. User Preferences > Email > Notifications
 E. Click Gear > Notifications > New
 
 Correct Answer is :- A
-
+1 h 26 min 40 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 When designing a flow, how do you reference data from a record, in that flow?
@@ -3941,7 +4673,10 @@ D. Drag the data pill onto the flow definition
 E. Add the table reference using the slush bucket
 
 Correct Answer is :- D
-
+1 h 27 min 20 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 On the Reports page, what sections allow you to see which reports are visible to different
@@ -3968,7 +4703,10 @@ H. Analytics
 J. Company
 
 Correct Answer is :- A, E, FandG
-
+1 h 27 min 50 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Which tool is used to define relationships between fields in an import set table and a target table?
@@ -3985,7 +4723,10 @@ E. Field Transformer
 F. Import Designer
 
 Correct Answer is :- D
-
+1 h 28 min 30 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Which ServiceNow capability provides assistance to help users obtain information, make decisions,
@@ -4004,7 +4745,10 @@ D. Knowledge Chat
 E. Now Support
 
 Correct Answer is :- c
-
+1 h 29 min 0 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 Which feature allows you to automate business logic for a particular application or process such as
@@ -4023,7 +4767,10 @@ D. Task Flows
 E. Flow Diagrams
 
 Correct Answer is :- A
-
+1 h 29 min 20 seconds
+
+%>%
+
 NEXT QUESTION :-
 
 From a form, what would you click to add additional fields to the form? (Choose two.)
@@ -4040,4 +4787,4 @@ E. Context Menu > Form > Designer
 F. Right click on header > Configure > UX Dashboard
 
 Correct Answer is :- BandD
-
+1 h 29 min 50 seconds

@@ -68,13 +68,15 @@ def delete_duplicated_frames(path_dir:str, threshold:float) -> None:
         print("Nothing to be deleted")
         return
     print("Deleting duplicated frames...")
+    count_deleted = 0
     for duplicate in tqdm(list_dup):
         if os.path.exists(path_dir+duplicate):
             os.remove(path_dir+duplicate)
             print(f"File removed: {duplicate}")
+            count_deleted += 1
         else:
             print(f"The file {duplicate} is not found.")
-    print("Done")
+    print(f"Done, {count_deleted} files removed.")
 
 
 
