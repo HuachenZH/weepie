@@ -81,7 +81,7 @@ def write_doc(path_dir:str, out_path:str) -> None:
     list_doc, list_timestamp = build_doc(path_dir)
     list_doc_timestamp = [doc+timestamp+"\n" for doc, timestamp in zip(list_doc, list_timestamp)]
     str_doc_timestamp = "\n%>%\n\n".join(list_doc_timestamp)
-    with open(out_path, "w") as f:
+    with open(out_path, "w+") as f:
         f.write(str_doc_timestamp)
         print(f"File written to disk: {out_path}")
 

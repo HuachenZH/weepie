@@ -37,6 +37,7 @@ def extract_frame(path_input:str, path_output_dir:str, freq:int) -> None:
             Returns:
                     None. Changes are written to disk directly.
     """
+    if path_output_dir[-1] != "/": path_output_dir += "/"
     container = av.open(path_input)
     # take first video stream
     stream = container.streams.video[0]

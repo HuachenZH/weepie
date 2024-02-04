@@ -28,13 +28,15 @@ def get_args():
 def main():
     args = get_args()
 
-    # $ python3 weepie.py extractFrames ../data/video/csa.mp4 
+    # $ python3 weepie.py -i ../data/img/cad/ extractFrames ../data/video/cad.mp4  
     if args.cmd_name == "extractFrames":
         extract_frame(args.videoPath, args.imageDirPath, args.frequency)
 
+    # $ python3 weepie.py -i ../data/img/cad/ delDupFrames 
     if args.cmd_name == "delDupFrames":
         delete_duplicated_frames(args.imageDirPath, args.threshold)
     
+    # $ python3 weepie.py -i ../data/img/cad/ extractText -o ../out/cad.txt
     if args.cmd_name == "extractText":
         write_doc(args.imageDirPath, args.outputPath)
 

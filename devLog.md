@@ -9,6 +9,8 @@
 - in `delete_duplicate.py`, the function `is_similar` can be much improved. For the moment lots of duplicates will be returned
 - for unsure OCR, give at which time (min, sec) of the video
 - find a way to determine similar texts
+- hrsd: the answers are not written, they are shown in different color
+- cad: in the video, the presenter scrolls a pdt....
 
 
 ## 自己挖的坑
