@@ -1,7 +1,26 @@
 import av
+from exif import Image
 from tqdm import tqdm
 
 import pdb
+
+
+def time_formatter(time_seconds:float) -> str:
+    """Format time.
+    62 s --> 1 min 2 s
+    4056 s --> 1 h 7 min 36 s
+
+            Parameters:
+                    time_seconds (float): the frame appears at which second.
+
+            Returns:
+                    (str)
+    """
+    if time_seconds < 3600:
+        return f"{int(time_seconds//60)} min {int(time_seconds%60)} seconds"
+    else:
+        return f"{int(time_seconds//3600)} h {int(time_seconds%3600//60)} min {int(time_seconds%3600%60)} seconds"
+
 
 
 def extract_frame(path_input:str, path_output_dir:str, freq:int) -> None:
@@ -26,11 +45,20 @@ def extract_frame(path_input:str, path_output_dir:str, freq:int) -> None:
     
     count = 0
     for idx, frame in tqdm(enumerate(container.decode(stream))):
-        #if idx % average_fps != 0:
+        # Save the frame to jpg with pyav
         if frame.pts % (freq/float(frame.time_base)) != 0:
             continue
         count += 1
-        frame.to_image().save(path_output_dir + f"frame_{count}.jpg")
+        filename = f"frame_{count}.jpg"
+        frame.to_image().save(path_output_dir + filename)
+        # Re-read the image to modify its exif
+        with open(path_output_dir + filename, "rb") as f:
+            my_image = Image(f)
+        str_time = time_formatter(frame.pts * float(frame.time_base))
+        my_image.set("datetime", str_time)
+        with open(path_output_dir + filename, "wb") as new_f:
+            new_f.write(my_image.get_file())
+
     print(f"{count} images are written to disk.")
     
     #for packet in container.demux(stream):
