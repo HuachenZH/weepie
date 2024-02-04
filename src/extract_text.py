@@ -11,7 +11,15 @@ import pdb
 
 
 
-def extract_text(image_path_filename:str):
+def extract_text(image_path_filename:str) -> str:
+    """Extract texts in an image using Tesseract OCR.
+
+            Parameters:
+                    image_path_filename (str): path and filename to the image.
+
+            Returns:
+                    text (str)
+    """
     img = cv2.imread(image_path_filename, 0)
     img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
     text = pytesseract.image_to_string(img)
@@ -20,6 +28,16 @@ def extract_text(image_path_filename:str):
 
 
 def build_doc(path_dir:str) -> (list, list):
+    """Iterate through all images in the folder and extract text.
+
+            Parameters:
+                    path_dir (str): path to the folder of images.
+
+            Returns:
+                    (list, list): a tuple of lists. 
+                    The first one: list of text extracted.
+                    The second one: list of timestamp of each image.
+    """
     list_doc = []
     list_timestamp = []
     list_doc.append("placeholder")
@@ -50,6 +68,16 @@ def build_doc(path_dir:str) -> (list, list):
 
 
 def write_doc(path_dir:str, out_path:str) -> None:
+    """Extract text from images and write it to disk.
+
+            Parameters:
+                    path_dir (str): path to the folder of images.
+ 
+                    out_path (str): path and filename to the output text.
+
+            Returns:
+                    None. File written to disk directly.
+    """
     list_doc, list_timestamp = build_doc(path_dir)
     list_doc_timestamp = [doc+timestamp+"\n" for doc, timestamp in zip(list_doc, list_timestamp)]
     str_doc_timestamp = "\n%>%\n\n".join(list_doc_timestamp)
