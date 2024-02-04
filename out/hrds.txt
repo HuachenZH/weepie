@@ -1,0 +1,2222 @@
+ServiceNow
+HR SERVICE DELIVERY (HRSD)
+0 min 0 seconds
+
+%>%
+
+An HR Admin without the System Admin role can do what? (Choose three.)
+
+A. Grant roles to users or groups
+
+B. Modify the HR Administration > Properties
+C. Reset user passwords
+
+D. Create HR Criteria
+
+E. Configure business rules
+
+F. Add users to groups
+0 min 10 seconds
+
+%>%
+
+After the HR Admin [sn_hr_core.admin] role has been removed from the
+Admin role, how may a user with only the Admin role add members to HR
+groups?
+
+A. The Admin must elevate their role to security_admin to add
+members to HR groups.
+
+B. The Admin follows the same process as with any group membership
+change.
+
+C. The Admin can no longer add members to HR groups.
+
+D. The Admin must impersonate an HR Admin to add members to HR
+groups.
+0 min 50 seconds
+
+%>%
+
+In the Create Bulk Cases module, which Filter by options are available in the
+dropdown? (Choose four.)
+
+A. Document Template
+B. Upload File
+
+C. HR Service Template
+D. User Criteria
+
+E. HR Template
+
+F. HR Profiles
+
+G. HR Criteria
+1 min 40 seconds
+
+%>%
+
+If you have both Admin and HR Admin roles and wanted to configure an
+Access Control for the Employee Relations Cases table, what must first be
+done?
+
+A. Add the Delegated Developer role to your User record
+
+B. From the User dropdown in the banner, elevate your role to
+security_admin
+
+C. Manually add the security_admin role to your User record
+D. Nothing would need to be done
+2 min 30 seconds
+
+%>%
+
+What type of information does the HR Profile contain?
+
+A. Personal employee data
+
+B. Group membership and role information
+C. User login and department information
+D. A user's password
+3 min 10 seconds
+
+%>%
+
+How many User Criteria Records may be applied to a single KB or KB
+Article?
+
+A. Only two
+B. Only three
+C. Unlimited
+D. Only one
+3 min 40 seconds
+
+%>%
+
+In the base ServiceNow instance, how are User Criteria used?
+
+A. To control which users can access the HR Case application
+
+B. To control what a user sees in the information and suggested reading
+widgets
+
+C. To control read and write access to Knowledge bases and articles
+
+D. To control which users can access the HR Service Portal
+4 min 0 seconds
+
+%>%
+
+Which of the following are true for an HR application as it relates to the
+User [sys_user] Table and the HR Profile [sn_hr_core.profile] Table?
+
+A. Both are required.
+
+B. Only HR Profile table is required in HR.
+C. Neither are required.
+
+D. Only the User table is required in HR.
+4 min 50 seconds
+
+%>%
+
+In the base instance, what determines the conditions a Case must meet
+before it can be assigned to an agent?
+
+A. Matching Rules
+B. Client Rules
+
+C. ACLs
+
+D. Escalation Rules
+5 min 20 seconds
+
+%>%
+
+What role is required, at a minimum, to view confidential HR Profile data?
+
+A. HR Admin [sn_hr_core.admin]
+
+B. HR Basic [sn_hr_core.basic]
+
+C. LE Admin [sn_hr_le.admin]
+
+D. HR Manager [sn_hr_core.manager]
+5 min 50 seconds
+
+%>%
+
+What types of HR Document templates may be created in ServiceNow?
+(Choose two.)
+
+A. Document Templates
+
+B. Word document templates
+C. PDF document templates
+D. Text document templates
+6 min 20 seconds
+
+%>%
+
+What are the advantages of removing the HR Admin role from the system
+Admin role after the HR Implementation tasks have been completed?
+(Choose two.)
+
+A. This ensures that HR has control over further HR configurations.
+
+B. The HR Admin role should remain a part of the system Admin role.
+
+C. This ensures that confidential HR data is only accessible to users with an
+HR role.
+
+D. It is not necessary because the system Admin always has access to all
+HR data.
+
+ 
+7 min 10 seconds
+
+%>%
+
+What does ServiceNow now call the HR application?
+
+A. HRDS - HR Deliver Service
+
+B. HRSM - HR Service Management
+C. HRMS - HR Management System
+D. HRSD - HR Service Delivery
+8 min 10 seconds
+
+%>%
+
+Activate Windows
+Go to Settings to activate Windows.
+
+ 
+
+wee
+
+   
+
+ee
+
+ 
+
+Cow a
+8 min 40 seconds
+
+%>%
+
+What defines an employee's access to the HR Service Portal / Employee
+Service Center?
+
+A. Group membership
+B. User Criteria
+
+C. HR Criteria
+
+D. Client Roles
+8 min 50 seconds
+
+%>%
+
+What kind of records do HR Requests create?
+
+A. HR Incidents
+B. HR Files
+
+C. HR Problems
+D. HR Cases
+9 min 10 seconds
+
+%>%
+
+In the HR Guided Setup Module, why are some tasks locked in the Task
+view?
+
+A. They require an elevated role to access.
+
+B. They are deprecated tasks that should not be completed.
+C. They require other tasks to be completed first.
+
+D. They require a plugin to be activated first.
+9 min 40 seconds
+
+%>%
+
+Which of the following are examples of HR application scopes? (Choose
+four.)
+
+A. Human Resources: COE
+
+B. Human Resources: Core
+
+C. Human Resources: Knowledge
+
+D. Human Resources: Integrations
+
+E. Human Resources: Lifecycle Events
+F. Human Resources: Global
+
+G. Human Resources: Service Portal
+10 min 10 seconds
+
+%>%
+
+How can an HR Administrator or Content writer limit which employees will
+see content on the Employee Service Center?
+
+A. All employees will see the same information
+
+B. Client roles automatically limit what is visible to employees
+C. Using User Criteria
+
+D. Using HR Criteria
+11 min 0 seconds
+
+%>%
+
+ 
+
+ 
+
+Find (Ctrl + F)
+
+ 
+
+ 
+
+If the Audience field has been configured on a Lifecycle Event Activity, what
+will the system do if the subject person does not meet the criteria for that
+Activity?
+
+A. the activity must be manually closed by the HR professional
+B. the Lifecycle Event will be canceled
+
+C. the activity must be manually closed by the Subject person
+D. the activity will be skipped
+11 min 40 seconds
+
+%>%
+
+The ServiceNow SIM methodology is based around what generic
+methodologies?
+
+A. Waterfall and Rapid Application Development (RAD)
+B. Agile and Waterfall
+
+C. Prince
+
+D. Scrum and XP
+12 min 20 seconds
+
+%>%
+
+If an HR Services needs to be accessible to employees on the Employee
+Service Center, what field must be completed on the HR Service?
+
+A. Checklist
+
+B. Fulfiller Instructions
+C. Lifecycle Event type
+D. Record Producer
+13 min 10 seconds
+
+%>%
+
+HR Profiles may be created for multiple employees using conditions and
+criteria in which module?
+
+A. Create Human Resources Profile
+B. Create new Case
+
+C. Generate HR Profiles
+
+D. Bulk Cases
+13 min 40 seconds
+
+%>%
+
+User authentication and Instance restriction are examples of what type of
+security?
+
+A. Physical Security
+B. Roles and Groups
+C. Contextual Security
+D. Platform Access
+14 min 20 seconds
+
+%>%
+
+If the HR Service does not have any Case options specified, HR Documents
+must be manually generated for the HR Case.
+
+In this situation, who is able to generate an HR document for the Case?
+
+A. Any HR professional
+
+B. Only an HR Admin
+
+C. Only an HR Manager
+
+D. Only the assigned to person
+14 min 40 seconds
+
+%>%
+
+When does the HR Template populate information on the HR Case form?
+
+A. When the Opened for person is selected
+
+B. When the Assignment group is selected.
+
+C. When the HR Case Type is selected.
+
+D. When the HR service is selected on the HR Case Creation form.
+15 min 20 seconds
+
+%>%
+
+The HR Profile table is used to track information for what Employment
+types? (Choose three.)
+
+A. Other
+
+B. Potential Employee
+C. Full Time Employee
+D. Temporary Employee
+E. Spouse
+
+F. Contractor
+16 min 0 seconds
+
+%>%
+
+If the HRSD application is scoped, why can the System Administrator initially 6
+access all HR applications after the plugin has been installed?
+
+A. When the HR plugins are installed, the necessary HR roles are added to
+the Admin role.
+
+B. The roles were manually granted by a ServiceNow security user.
+
+C. The Admin will always have access to all HR tables and data.
+
+D. The roles were manually granted by an HR Admin.
+16 min 30 seconds
+
+%>%
+
+If the HRSD application is scoped, why can the System Administrator initially 4
+access all HR applications after the plugin has been installed?
+
+A. When the HR plugins are installed, the necessary HR roles are added to
+the Admin role.
+
+B. The roles were manually granted by a ServiceNow security user.
+
+C. The Admin will always have access to all HR tables and data.
+
+D. The roles were manually granted by an HR Admin.
+17 min 0 seconds
+
+%>%
+
+Scenario: You have an existing ITSM customer who is now implementing HR
+Enterprise. In UAT, they discovered that they get an error message about a
+Read operation from the HR scope to the Global scope being denied. You
+have verified that each Script Include was written correctly.
+
+What else must be done to allow the Script Includes to work in the HR
+application?
+
+A. The Status of the associated record on the Application Restricted Caller
+Access list must be set to Denied.
+
+B. You must create a custom ACL to allow the script includes to work.
+
+C. The Status of the associated record on the Application Restricted Caller
+Access list must be set to Allowed.
+
+D. You must change Scope for the script includes to work.
+17 min 20 seconds
+
+%>%
+
+In the HR Guided Setup Module, the Configuration View displays which of
+the following for a Category? (Choose three.)
+
+A. Properties
+B. Gauges
+
+C. Dashboards
+D. Lists
+
+E. Overviews
+F. Forms
+18 min 50 seconds
+
+%>%
+
+What method needs to be invoked from Matching Rule Processor class?
+
+A. processAndGetCandidates
+B. processAndGetUsers
+
+C. processAndGelList
+
+D. processAndGetArray
+19 min 20 seconds
+
+%>%
+
+lf an HR Service will only be used internally by HR professionals, what is the
+minimum configuration needed?
+
+A. HR Service and HR Template.
+
+B. HR Service, HR Template, and Record Producer.
+
+C. HR Service
+
+D. HR Service, HR Template, Record Producer, and Lifecycle event type.
+19 min 50 seconds
+
+%>%
+
+The Knowledge bases searched for the Knowledge results section on an HR
+Case are determined by what?
+
+A. Contextual Search configuration
+
+B. HR Service configuration
+
+C. HR Criteria configuration
+
+D. Knowledge Management configuration
+20 min 30 seconds
+
+%>%
+
+When gathering requirements for HR Services, it is best to begin by defining
+the Service then working upwards, categorizing in progressively more detail.
+What are the basic categories used?
+
+A. HR Service, Topic Detail, COE.
+
+B. HR Service, Topic Category, Activity Category, Activities, COE.
+C. HR Service, Topic Category, COE.
+
+D. HR Service, Topic Detail, Topic Category, COE.
+21 min 0 seconds
+
+%>%
+
+If a knowledge base and its articles have no user criteria selected, a user
+without a role can do what?
+
+A. read and contribute articles
+
+B. read articles, but not contribute
+
+C. can neither read nor contribute articles
+D. contribute, but not read articles
+21 min 50 seconds
+
+%>%
+
+How does ServiceNow know which HR Template to use on an HR Case?
+
+A. The HR Template is referenced on the HR Service record.
+
+B. The HR Template is referenced on the record producer form.
+C. Each COE has a specific HR Template.
+
+D. The HR Template is selected directly on the Catalog item.
+22 min 30 seconds
+
+%>%
+
+What are the key differentiators between an HR Profile record and a User
+record? (Choose three.)
+
+A. The HR Profile stores the employee's assigned delegates.
+
+B. The HR Profile includes group membership information.
+
+C. The HR Profile includes employee organizational information like
+Colleagues.
+
+D. The HR Profile stores login credential information.
+
+E. The HR Profile may include employee marital status.
+
+F. The HR Profile is intended to store confidential employee data that is
+pertinent for HR.
+23 min 10 seconds
+
+%>%
+
+If a customer has a huge employee population, complex organizational
+structures, and requires custom integrations and language translations,
+what level of configuration complexity would their project be considered?
+
+A. Drastic
+B. Low
+C Major
+
+0) Peet
+24 min 10 seconds
+
+%>%
+
+If a customer has a huge employee population, complex organizational
+structures, and requires custom integrations and language translations,
+what level of configuration complexity would their project be considered?
+
+A. Drastic
+B. Low
+
+C. Major
+D. Nominal
+24 min 20 seconds
+
+%>%
+
+When an employee completes a questionnaire on an Employee Form, on
+which table does the system store their answers?
+
+A. Form [sys_ui_form]
+
+B. Metric Result [asmt_metric_result]
+C. Question Answer [question_answer]
+D. HR Case [sn_hr_core_case]
+24 min 50 seconds
+
+%>%
+
+With the I18N: Knowledge Management Internationalization Plugin v2
+enabled, how are translated Knowledge articles associated with each other
+so that the user is presented with the article in the selected language?
+
+A. Article Versions related list
+
+B. Knowledge feedback related list
+C. Affected Products related list
+
+D. Translated Versions related list
+25 min 30 seconds
+
+%>%
+
+When creating a PDF Document Template, where does the list of Document
+Revisions come from?
+
+A. From Managed Documents
+B. From Document Templates
+C. From Knowledge Articles
+D. From System Documents
+26 min 40 seconds
+
+%>%
+
+Only users with which role, at a minimum, may view the confidential data on
+the HR Profiles table?
+
+A. Profile Writer [sn_hr_core.profile_writer]
+B. Profile Reader [sn_hr_core.profile_reader]
+C. HR Case Writer [sn_hr_le.case_writer]
+
+D. HR Case Reader [sn_hr_le.case_reader]
+27 min 10 seconds
+
+%>%
+
+What determines if a user can view a Knowledge article?
+
+A. Can/Cannot Read User Criteria
+
+B. Can/Cannot Contribute User Criteria
+C. HR Criteria
+
+D. ACL Rules
+27 min 40 seconds
+
+%>%
+
+What do Client Roles define?
+
+A. Groups for the customer's clients.
+
+B. Roles that come into force if user uses a browser client.
+
+C. Named roles (eg VP of Operations, SVP Sales) for a customer's clients.
+
+D. Access for new hires, employees, alumni, contingent, and contract
+workers.
+28 min 10 seconds
+
+%>%
+
+When a Guided Setup task is marked as complete, how can it be reopened?
+
+A. Closed tasks cannot be reopened
+B. Click the Mark as Incomplete button
+C. Submit a request in HI
+
+D. Restart the Guided Setup entirely
+28 min 40 seconds
+
+%>%
+
+When creating a PDF Document template, the Document revision field must
+be completed.
+
+How does the system determine which documents are available to be
+selected for this field?
+
+A. You must be a member of the Owning Group for the Managed Document
+B. All Documents are visible
+
+C. Your group memberships and the Document owner field on the Managed
+Document record
+
+D. You must have created the Managed Document record
+29 min 20 seconds
+
+%>%
+
+What is used to create a link on an HR Case form that accesses information
+outside the application?
+
+A. HR Service
+
+B. Link Generator
+
+C. Restricted Caller Access
+D. COE Configuration
+30 min 10 seconds
+
+%>%
+
+When configuring a PDF Document Template, how does the system map
+form fields to ServiceNow fields?
+
+A. The Document field type on the PDF Template Mappings record
+30 min 40 seconds
+
+%>%
+
+A. The Document field type on the PDF Template Mappings record
+B. The Preview value field on the PDF Template Mappings record
+C. The Mapping field on the PDF Template Mappings record
+
+D. The Document field on the PDF Template Mappings record
+30 min 50 seconds
+
+%>%
+
+If the Match All field is checked on a User Criteria record, the user:
+
+A. Must satisfy at least one of the criteria to meet the conditions.
+
+B. Must satisfy at least of the criteria to meet the conditions.
+
+C. Must satisfy a majority percentage of the criteria to meet the conditions.
+D. Must satisfy all of the selected criteria to meet the conditions.
+31 min 20 seconds
+
+%>%
+
+If a new HR Knowledge base is created, how can it be included in the
+Knowledge results section on the HR Case form?
+32 min 10 seconds
+
+%>%
+
+A. Add it to the HR Template
+
+B. Add it to the HR Service configuration
+
+C. All Knowledge bases are searched by default
+D. Add it to the Contextual Search configuration
+32 min 20 seconds
+
+%>%
+
+How is the HR template associated with an HR service?
+
+A. On the HR service record
+
+B. On the Lifecycle Event Activity Set
+C. On the HR template record
+
+D. On the HR case
+
+ 
+32 min 50 seconds
+
+%>%
+
+Where does the HR Administrator define which HR Profile fields can be
+edited in the ServiceNow instance?
+
+A. HR Profile > Setup
+
+B. HR Administration > Properties
+C. HR Administration > Setup
+
+D. HR Profiles > Properties
+
+ 
+33 min 20 seconds
+
+%>%
+
+What is the purpose of the Owning Group field on the HR Template?
+
+A. They approve the Template to be published.
+B. They own the Lifecycle Event.
+
+C. They manage updates to the Template.
+
+D. HR Cases are assigned to the Owning Group.
+
+ 
+34 min 0 seconds
+
+%>%
+
+What kinds of records can be created using HR Service Activities? (Choose
+two.)
+
+A. Workflows
+
+B. Tasks
+
+C. HR Templates
+D. Approvals
+
+ 
+34 min 30 seconds
+
+%>%
+
+What are some of the benefits of having separate COE tables? (Choose two.)
+
+A. Allows for an extra layer of security within the HR organization.
+
+B. Allows HR case agents to gather the right information based on the
+Service.
+
+C. Eliminates the need for an HR case agent.
+D. Eliminates the need to create database views.
+
+ 
+35 min 0 seconds
+
+%>%
+
+Who can generate the PDF document on an active HR Case?
+
+A. Only the Assigned to person
+
+B. Only the Subject Person's manager
+C. Only an HR manager
+
+D. Only the employee
+
+ 
+35 min 40 seconds
+
+%>%
+
+What role is required to access the modules in the HR Integrations
+application?
+
+A. HR Lifecycle Event Case Writer [sn_hr_le.case_writer]
+B. HR Core Profile Reader [sn_hr_core.profile_reader]
+
+ 
+36 min 10 seconds
+
+%>%
+
+C. Admin [admin]
+D. HR Integrations Admin [sn_hr_integrations.admin]
+
+ 
+36 min 30 seconds
+
+%>%
+
+What role is required to access the modules in the HR Integrations
+application?
+
+A. HR Lifecycle Event Case Writer [sn_hr_le.case_writer]
+B. HR Core Profile Reader [sn_hr_core.profile_reader]
+
+C. Admin [admin]
+
+D. HR Integrations Admin [sn_hr_integrations.admin]
+
+ 
+36 min 40 seconds
+
+%>%
+
+What role is required to access the modules in the HR Integrations
+application?
+
+A. HR Lifecycle Event Case Writer [sn_hr_le.case_writer]
+B. HR Core Profile Reader [sn_hr_core.profile_reader]
+
+C. Admin [admin]
+
+D. HR Integrations Admin [sn_hr_integrations.admin]
+
+ 
+
+ 
+36 min 50 seconds
+
+%>%
+
+In the base ServiceNow platform, the Human Resources General Knowledge
+base has Can Contribute User Criteria set to Users with the
+[sn_hr_core.kb_write] role.
+
+If a Knowledge article in the Human Resources General Knowledge base
+has no Can Contribute User Criteria set, what is the minimum role a user
+would need to edit the article?
+
+A. HR Admin [sn_hr_core.admin]
+
+B. HR Basic [sn_hr_core.basic]
+
+C. KB Reader [sn_hr_core.kb_reader]
+D. KB Writer [sn_hr_core.kb_writer]
+
+ 
+37 min 10 seconds
+
+%>%
+
+In which module can the HR admin manage the HR email address for
+incoming HR requests?
+
+A. HR Administration > Email Administration
+B. System Properties > Email Setup
+
+ 
+38 min 0 seconds
+
+%>%
+
+C. System Properties > Email Properties
+D. HR Administration > Properties
+
+ 
+38 min 20 seconds
+
+%>%
+
+In the base ServiceNow configuration, when are HR Cases created after a
+Bulk HR case request is submitted?
+
+A. Twice per day using a scheduled job
+B. Every 6 hours using a scheduled job
+C. Once a day using a scheduled job
+
+D. Immediately
+
+ 
+38 min 40 seconds
+
+%>%
+
+An employee in Chicago submits a request using the Employee Service
+Center. The HR Case template associated with the HR Service defines the
+Skills needed, but not an Assignment Group.
+
+Using base platform functionality, which of the following is the first step the
+system takes to assign the Case?
+
+A. An Assignment Rule creates a list of possible assignees
+B. A Matching Rule assigns the Case to a group
+
+C. The Case must be manually assigned
+
+D. An Assignment Rule assigns the Case to a group
+39 min 10 seconds
+
+%>%
+
+Which of the following are predefined Dashboards that are installed with HR
+Case Management? (Choose three.)
+
+A. Manager Dashboard
+
+B. Overview
+
+C. Workforce Administration Dashboard
+D. Onboarding Dashboard
+40 min 10 seconds
+
+%>%
+
+ServiceNow has identified 3 maturity levels for an HR customer. What are
+they?
+
+A. Managed Interactions, Self-Reliance, Smart Services
+
+B. Managed Interactions, Self-Help, Advanced Services
+
+C. No automation, Self-reliance, Smart Services
+
+D. Managed Interactions, Self-Reliance, Automated Services
+40 min 50 seconds
+
+%>%
+
+When using the Generate HR Profiles module to create HR Profiles, what
+field must be completed to ensure the employees are granted the
+appropriate Client Role?
+
+A. Employment type
+B. Profile type
+
+C. Employee type
+
+D. User type
+41 min 30 seconds
+
+%>%
+
+What does the employees utilize when submitting a self service request to
+the HR Organization?
+
+A. HR Catalog
+B. HR Skills
+
+C. HR Template
+D. HR Profile
+42 min 10 seconds
+
+%>%
+
+Activate Windows
+Go to Settings to activate Windows.
+42 min 30 seconds
+
+%>%
+
+What is the primary purpose of HR Topic Categories?
+
+A. They group common HR Services.
+
+B. They group common HR templates.
+
+C. They group common HR employees.
+
+D. They group common HR Catalog Items.
+42 min 40 seconds
+
+%>%
+
+What are the benefits of the HR application being scoped? (Choose three.)
+
+A. Provides an additional layer of control over HR data.
+
+B. Allows HR Admins to configure the HR application.
+
+C. HR department has more autonomy to manage all aspects of HRSD.
+D. Allows the System Administrator complete control.
+
+E. HR department has full control of the global application.
+43 min 0 seconds
+
+%>%
+
+The HR Admin [sn_hr_core.admin] role allows the user to add members to
+groups. What additional role is needed for an HR Admin to remove users
+from groups?
+
+A. User Admin [user_admin]
+
+B. User Writer [user_writer]
+
+C. User Reader [user_reader]
+
+D. HR User Admin [hr_user_admin]
+43 min 50 seconds
+
+%>%
+
+On the HR Case form, some HR Services have associated Response
+templates.
+
+What determines which HR Services have Response Templates?
+
+A. The HR Criteria on the HR Service
+
+B. The HR Criteria on the Response Template record
+
+C. The table and conditions on the Response Template record
+D. The User Criteria on the HR Service
+44 min 20 seconds
+
+%>%
+
+At what level is User Criteria set to control who can read and edit
+knowledge articles?
+45 min 0 seconds
+
+%>%
+
+A. In either the Knowledge Base or Article.
+B. In the Knowledge Article only.
+
+C. In the User record.
+
+D. In the Knowledge Base only.
+45 min 20 seconds
+
+%>%
+
+How many COEs may be associated with an HR Service?
+
+a
+
+limited
+
+9O9>
+seca
+os
+45 min 40 seconds
+
+%>%
+
+Which module provides a user-friendly interface new HR Skills and assigning
+HR skills to members of the HR department?
+
+A. Skills Routing
+
+B. Skills Management
+C. Manage HR Skills
+D. Skills Definition
+46 min 20 seconds
+
+%>%
+
+Which table is considered the core table for all HR Case records?
+
+A. Skill [cmn_skill]
+
+B. Incident [incident]
+
+C. HR Task [sn_hr_core.task]
+
+D. HR Case [sn_hr_core_case]
+
+E. HR Profile [sn_hr_core_profile]
+46 min 50 seconds
+
+%>%
+
+Which HR Role is typically granted to all HR Support staff, at a minimum?
+
+A. HR Admin [sn_hr_core.admin]
+
+B. HR Basic [sn_hr_core.basic]
+
+C. HR KB Writer [sn_hr_core.kb_writer]
+
+D. Document Management User [document_management_user]
+47 min 20 seconds
+
+%>%
+
+A user with only the HR Admin [sn_hr_core.admin] role can save and modify
+which copies of existing reports?
+
+A. All
+
+B. Global
+C. Group
+D. Personal
+47 min 40 seconds
+
+%>%
+
+What is the difference between a configuration and a customization?
+
+A. Configuration uses complex JavaScript while Customization involves field
+name changes and new
+
+buttons.
+
+B. There is no difference between Configuration and Customization.
+
+C. Customization uses the built-in tools in the platform while Configuration
+involves code changes.
+
+D. Configuration uses the built-in tools in the platform while Customization
+involves code changes.
+48 min 10 seconds
+
+%>%
+
+Which Service Portal configuration option is used to customize the logo,
+theme, and title of the HR Service Portal?
+
+A. Designer
+
+B. Page Editor
+
+C. Widget Editor
+D. Branding Editor
+49 min 0 seconds
+
+%>%
+
+What is the minimum role required to access the HR Properties module?
+
+A. HR Manager [sn_hr_core.manager]
+49 min 30 seconds
+
+%>%
+
+B. LE Admin [sn_hr_le.admin]
+C. Admin [admin]
+D. HR Admin [sn_hr_core.admin]
+49 min 40 seconds
+
+%>%
+
+The HR Case [sn_hr_core_case] table is an extension of what?
+
+A. Incident table
+
+B. Case table
+
+C. Task table
+
+D. Lifecycle Events table
+50 min 0 seconds
+
+%>%
+
+What role is required to assign scoped HR roles?
+
+A. HR Admin [sn_hr_core.admin]
+
+B. HR Manager [sn_hr_core.manager]
+C. LE Admin [sn_hr_le.admin]
+
+D. HR Basic [sn_hr_core.basic]
+50 min 20 seconds
+
+%>%
+
+The customer you are implementing has purchased HR Service Delivery
+Enterprise which includes Enterprise Onboarding and Transitions.
+
+Which plugin must be activated to utilize Enterprise Onboarding and
+Transitions?
+
+A. Human Resources Scoped App: Lifecycle Events
+[com.sn_hr_lifecycle_events]
+
+B. Employee Document Management
+[com.sn_employee_document_management]
+
+C. Human Resources Scoped App: Core [com.sn_hr_core]
+D. Employee Service Center [com.sn_hr_service_portal]
+50 min 50 seconds
+
+%>%
+
+The Lifecycle Events [sn_hr_le_case] table is a direct extension of which
+table?
+
+A. Talent Management [sn_hr_core_talent_management]
+B. HRIT Operations Case [sn_hr_core_case_operations]
+C. HR Case [sn_hr_core_case]
+
+D. Task [sc_task]
+51 min 30 seconds
+
+%>%
+
+Delegated Developers are granted access only to what in which they are
+working?
+
+A. Interfaces
+B. APIs
+
+C. Instances
+D. Scopes
+52 min 0 seconds
+
+%>%
+
+The customer you will be implementing for wants to utilize Now Mobile.
+What is the minimum HR SKU they may purchase that includes Now Mobile?
+
+A. HR Service Delivery Professional
+
+B. Now Mobile is a standalone solution
+C. HR Service Delivery Enterprise
+
+D. HR Service Delivery Standard
+52 min 40 seconds
+
+%>%
+
+If the HR Admin [sn_hr_core.admin] needs to develop within the HR
+application but cannot have the system Admin role, what additional role
+should be granted?
+
+A. HR Basic [sn_hr_core.basic]
+
+B. Scoped Developer [sn_hr_core.developer]
+C. Delegated Developer [delegated_developer]
+D. HR Manager [sn_hr_core.manager]
+53 min 30 seconds
+
+%>%
+
+When a Document Template is created from an HR Case, the name of the
+person who created the document is added to the name of the attachment.
+Why?
+
+A. It indicates who should sign the document
+B. It indicates who generated the document
+C. It indicates the Opened for user
+
+D. It indicates who the document is about
+54 min 0 seconds
+
+%>%
+
+How can fields for a specific HR Service be displayed on the New Case
+Creation page?
+
+A. HR Service-specific fields cannot be added to the New Case Creation
+page
+
+B. Using the Case Creation Service Configurations
+
+C. Using the Case Options field on the HR Service
+
+D. Using the HR Criteria module
+54 min 40 seconds
+
+%>%
+
+Activate Windows
+Go to Settings to activate Windows.
+55 min 20 seconds
+
+%>%
+
+Which field on the HR Service record defines which HR Catalog Item is
+associated with the Service?
+
+A. COE
+
+B. Topic Detail
+
+C. Template
+
+D. Record Producer
+55 min 30 seconds
+
+%>%
+
+What must be updated or loaded into the Customer's instance before
+importing the stories?
+55 min 50 seconds
+
+%>%
+
+When the Lifecycle Events application is installed, the LE Admin role is
+granted to which role?
+
+A. HR Admin [sn_hr_core.admin]
+
+B. It is not added to other roles
+
+C. HR Basic [sn_hr_core.basic]
+
+D. HR Manager [sn_hr_core.manager]
+56 min 20 seconds
+
+%>%
+
+Which of the following applications is installed with the Human Resources
+Scoped App: Core plugin?
+
+A. Employee Service Center
+
+B. Employee Document Management
+C. Lifecycle Events
+
+D. HR Case Management
+56 min 50 seconds
+
+%>%
+
+If you wanted someone to administer the Employee Service Center without
+granting them the HR Admin role, which scoped Admin role would they
+need?
+
+A. Service Portal Admin [sn_hr_sp.admin]
+
+B. Widget Admin [sn_hr_widget.admin]
+
+C. Employee Files Admin [sn_hr_ef.admin]
+
+D. Integrations Admin [sn_hr_integrations.admin]
+57 min 20 seconds
+
+%>%
+
+When does the platform assign a Client Role to a user?
+
+A. Client Roles must be manually added to each employee record
+B. When an HR Profile is created or modified for the employee
+
+C. Client Roles are automatically added with Group membership
+D. When a User record is created for the employee
+58 min 0 seconds
+
+%>%
+
+ 
+
+a ee ee ray
+Oe Ge Genter t Reefeeeen Mantes Gosia: afte Bacto
+
+ 
+58 min 30 seconds
+
+%>%
+
+If you had little coding experience and were tasked with adding new pages
+to the customer's Employee Service Center, which Service Portal
+Configuration option would be best to complete the task?
+
+A. Page Editor
+
+B. Designer
+
+C. Widget Editor
+D. Branding Editor
+58 min 40 seconds
+
+%>%
+
+What provides a graphical interface to create survey categories, questions,
+configure the details, and publish the survey?
+
+A. Survey Designer
+B. Survey Workflow
+C. Survey Developer
+D. Survey Portal
+
+HR Administrators can configure a personal copy of the HR Case Dashboard
+using which of the following buttons? (Choose two.)
+
+A. Change Layout
+B. Delete Content
+C. Modify Layout
+59 min 10 seconds
+
+%>%
+
+What determines when the HR Chat queue is available?
+
+A. Schedule field on the HR Profile
+
+B. Schedule field on the User record
+
+C. HR Chat is always available
+
+D. Schedule field on the Queues record
+1 h 0 min 10 seconds
+
+%>%
+
+What defines the path the Case or HR Task will take when it is escalated?
+
+A. Assignment Rules
+B. Business Rules
+
+C. Matching Rules
+
+D. Escalation Rules
+1 h 0 min 40 seconds
+
+%>%
+
+If the HR Administrator group has been tasked with collecting Performance
+Analytics data, what additional role should be granted to the group?
+
+A. Performance Analytics Data Collector [pa_data_collector]
+
+B. Performance Analytics Administrator [pa_admin]
+
+C. Performance Analytics Threshold Admin [pa_threshold_admin]
+D. System Administrator [admin]
+1 h 1 min 10 seconds
+
+%>%
+
+If the HR Administrator has only been given the HR Admin
+[sn_hr_core.admin] role, what additional role is necessary for them to
+configure all aspects of the Employee Document Management application?
+
+A. Employee Document Management Writer[sn_hr_ef.document_writer)
+B. Employee Document Management Reader[sn_hr_ef.document_reader]
+C. EF Admin [sn_hr_ef.admin] role
+
+D. No additional roles are needed
+1 h 1 min 50 seconds
+
+%>%
+
+A. Employee Document Management Writer[sn_hr_ef.document_writer)
+B. Employee Document Management Reader[sn_hr_ef.document_reader]
+C. EF Admin [sn_hr_ef.admin] role
+
+D. No additional roles are needed
+1 h 2 min 20 seconds
+
+%>%
+
+If both the Knowledge Base and the KB article have no "Can Read" User
+Criteria, what role is required to read the article?
+
+A. HR Basic [sn_hr_core.basic]
+
+B. HR Manager [sn_hr_core.manager]
+C. No role is needed
+
+D. HR Admin [sn_hr_core.admin]
+1 h 2 min 30 seconds
+
+%>%
+
+Cae eee ee cee ae ee Oe
+B. HR Manager [sn_hr_core.manager]
+C. No role is needed
+
+D. HR Admin [sn_hr_core.admin]
+1 h 2 min 50 seconds
+
+%>%
+
+Using the base HRSD configuration with no integrations, when the subject
+person electronically signs an HR document or PDF document, the signature
+is saved as what?
+
+A. a digital signature
+
+B. a picture of the signature that is added to the document
+C. a digital key
+
+D. a digital certificate
+1 h 3 min 0 seconds
+
+%>%
+
+What role needs to be removed from the Admin role at go live to prevent the
+System Admin from being able to see HR Profile information?
+
+A. HR Manager [sn_hr_core.manager]
+B. HR Agent [sn_hr_core.agent]
+
+C. Core Admin [sn_core.admin]
+
+D. HR Admin [sn_hr_core.admin]
+1 h 3 min 30 seconds
+
+%>%
+
+If you select Data type Numeric Scale on the Assessment Metric (Survey
+Question) form there is a Scale definition field made visible.
+
+What does it mean to select High for the Scale definition?
+1 h 4 min 10 seconds
+
+%>%
+
+A. It means a high score is bad
+
+B. It means a high score is good
+
+C. There is no option for Scale definition
+D. There is no option for High
+1 h 4 min 20 seconds
+
+%>%
+
+In which Application Scope is the Lifecycle Events table contained?
+
+A. Human Resources: Core
+
+B. Human Resources: Lifecycle Events
+C. Human Resources: Integrations
+
+D. Human Resources: Service Portal
+1 h 4 min 50 seconds
+
+%>%
+
+A. Human Resources: Core
+
+B. Human Resources: Lifecycle Events
+C. Human Resources: Integrations
+
+D. Human Resources: Service Portal
+1 h 5 min 10 seconds
+
+%>%
+
+What settings define and track cross-scope access to applications?
+
+A. Access Controls
+
+B. Restricted Caller Access
+C. Access Restrictions
+
+D. Business Rules
+1 h 5 min 20 seconds
+
+%>%
+
+What determines which Knowledge bases, Knowledge articles, and Service
+Catalog Items an employee can view?
+
+A. Filters
+
+B. User Groups
+C. HR Criteria
+D. User Criteria
+1 h 5 min 40 seconds
+
+%>%
+
+The Template field referenced on the HR Service record is used to do what?
+
+A. Populate fields on the HR Case record
+
+B. Filter who can access the HR Service
+
+C. Create pre-configured responses HR professionals can use
+
+D. Make the HR Service accessible on the Employee Service Center
+1 h 6 min 10 seconds
+
+%>%
+
+When is the Record producer field needed on the HR Service record?
+
+A. When the HR professional will be creating Cases on behalf of the
+employee
+
+B. When you want the employee to request the HR Service from the
+Employee Service Center
+
+C. It is always a required field
+
+D. There is no Record producer held on the HR Service record
+1 h 6 min 50 seconds
+
+%>%
+
+What are the major HR Service Catalog components (Choose four.)
+
+A. HR Template
+
+B. Assignment Group
+C. HR Catalog Item
+D. Matching Rule
+
+E. Record Producer
+F. HR Service
+
+G. HR Profile
+1 h 7 min 30 seconds
+
+%>%
+
+How can HR Tasks be marked as optional?
+
+A. Set Optional to True on the HR Task Template
+B. Set Optional to True on the Activity Set
+
+C. Tasks cannot be optional
+
+D. Set Optional to True on the HR Case form
+1 h 8 min 0 seconds
+
+%>%
+
+What provides a graphical representation of other tables related to a specific
+table, either through class extension or reference?
+
+A. System Structure
+1 h 8 min 40 seconds
+
+%>%
+
+B. Table Map
+C. System Map
+D. Schema Map
+1 h 8 min 50 seconds
+
+%>%
+
+Scenario: An existing ITSM customer is now implementing HR Enterprise. As
+part of the implementation, the Scoped Application Restricted Caller Access
+[com.glide.scope.access.restricted_caller] plugin was automatically
+activated.
+
+By default, what is the Caller Access field set to?
+
+A. Caller Denial
+
+B. Caller Tracking
+C. Caller Restriction
+D. Caller Allowed
+1 h 9 min 10 seconds
+
+%>%
+
+Which of the following is the key factor in determining the implementation
+timeline?
+
+A. Configuration complexity
+B. Types of integrations
+
+C. Customer location
+
+D. Customer business type
+1 h 9 min 50 seconds
+
+%>%
+
+Beginning with the Orlando release, which module allows HR Administrators
+to define which groups may access the various COEs or HR Services
+without needing to edit or create new ACL records?
+
+A. COE Properties
+1 h 10 min 20 seconds
+
+%>%
+
+B. COE ACL Configuration
+C. Access Policies
+D. COE Policy groups
+1 h 10 min 40 seconds
+
+%>%
+
+Scenario: You have an existing ITSM customer who is now implementing HR
+Enterprise. In UAT, they discovered that a new button on the HR case,
+created using the Link Generator application, is not displaying the
+appropriate web page. Instead, they get a Page Not Found error. You have
+verified that the Link configuration and script are both accurate.
+
+What else must be done to allow the Link to work?
+
+A. The Status of the associated record on the Application Restricted Caller
+Access list must be set to
+
+Denied.
+
+B. You must create a custom ACL to allow the link to work.
+
+C. The Status of the associated record on the Application Restricted Caller
+Access list must be set to Allowed.
+1 h 11 min 0 seconds
+
+%>%
+
+ecenano. TOU Nave all CAISUNG Tho CUSLOME! WHO IS NOW HMPICMenung FN
+Enterprise. In UAT, they discovered that a new button on the HR case,
+created using the Link Generator application, is not displaying the
+appropriate web page. Instead, they get a Page Not Found error. You have
+verified that the Link configuration and script are both accurate.
+
+What else must be done to allow the Link to work?
+
+A. The Status of the associated record on the Application Restricted Caller
+Access list must be set to
+
+Denied.
+
+B. You must create a custom ACL to allow the link to work.
+
+C. The Status of the associated record on the Application Restricted Caller
+Access list must be set to Allowed.
+
+D. You must change Scope for the link to work.
+1 h 11 min 40 seconds
+
+%>%
+
+A customer using Lifecycle Events Enterprise has documented a large
+offboarding Lifecycle Event that includes many steps. Many of the steps,
+including approvals, must be completed in a specific order.
+
+Which of these is the best method to use to ensure the activities are
+triggered in the appropriate order?
+
+A. Create a new lifecycle event for each of the dependent items
+
+B. Create separate trigger conditions for each of the dependent activities
+C. Create activity containers for the dependent items
+
+D. Create separate activity sets for each of the dependent activities
+1 h 12 min 10 seconds
+
+%>%
+
+What kinds of records can be created using HR Service Activities? (Choose
+two.)
+
+A. Workflows
+
+B. Approvals
+
+C. HR Templates
+D. Tasks
+1 h 13 min 20 seconds
+
+%>%
+
+Which HR Integrations module is used to document the URL, basic
+integration properties, and inbound and outbound username and password
+information for a third-party application?
+
+A. HR Integration Service
+B. HR Schema Mapping
+C. Sources
+
+D. HR Webservices
+1 h 13 min 40 seconds
+
+%>%
+
+How can a PDF document on an active HR case be generated? (Choose
+two.)
+
+A. Autogenerated by system configuration
+B. By the Subject Person's manager
+
+C. By the employee
+
+D. By the Assigned to person
+1 h 14 min 20 seconds
+
+%>%
+
+After configuration on a Lifecycle Event is complete, what additional
+configuration is needed to initiate the LE process for an employee?
+
+A. None. The LE will automatically trigger based on its configuration
+B. An Event is needed to initiate the LE process
+
+C. A Scheduled Job is needed to initiate the LE process
+
+D. An HR Service is needed to initiate the LE process
+1 h 15 min 0 seconds
+
+%>%
+
+In Employee Document Management, which of the following statements is
+true for legal holds?
+
+A. Legal Holds are permanent and cannot be removed
+
+B. Legal Holds may be placed on a group of HR profiles
+
+C. Legal Holds may be placed on either a Document Type or an individual
+employee's HR Profile
+
+D. Legal Holds may be manually placed on individual employee documents
+1 h 15 min 40 seconds
+
+%>%
+
+Each HR service created in
+
+A. HR Transform Maps
+B. HR Integration Service
+C. HR Service Mapping
+D. HR Schema Mapping
+
+has a corresponding transform map job.
+1 h 16 min 30 seconds
+
+%>%
+
+If the Workflow editor is utilized for a Lifecycle Event, how does the system
+know when a task or approval should be triggered?
+
+A. Activities are manually triggered
+
+B. The activity set trigger condition determines when it is triggered
+C. Activities are automatically triggered on specific dates
+
+D. The Activity trigger condition determines when it is triggered
+1 h 17 min 0 seconds
+
+%>%
+
+What Primary Security aspects are focused on for the HR application?
+(Choose three.)
+
+A. Password Security
+B. ACL Security
+
+C. Contextual Security
+D. Physical Security
+E. Roles and Groups
+F. Platform Access
+1 h 17 min 50 seconds
+
+%>%
+
+A customer using Lifecycle Events Enterprise has configured their
+onboarding process. Now, management has tasked the HR Admin with
+creating a way to back out onboarding work in case the new employee
+decides not to join the company. Which of these is the best method to use to
+1 h 18 min 30 seconds
+
+%>%
+
+reverse work already performed as part of this Lifecycle Event?
+
+A. Check the "allow blackout" box on each of the activities
+
+B. Configure a new Lifecycle Event with the necessary activities
+C. Configure the rescind activity set with the necessary activities
+D. Check the "allow blackout" box on each of the activity sets
+1 h 18 min 50 seconds
+
+%>%
+
+The Enterprise Service Management Integrations framework contains
+common components to be used for integrating HR applications with
+third-party systems. Which capability does the Enterprise Service
+Management Integrations framework leverage to communicate with external
+instances and third-party systems?
+
+A. Integration designer
+B. Flow designer
+
+C. Design Hub
+
+D. Mobile designer
+1 h 19 min 30 seconds
+
+%>%
+
+Which of these is the recommended way to trigger activities in a Lifecycle
+even in a particular order?
+
+A. Create child lifecycle events that are triggered when the previous one is
+complete
+
+B. Create separate activity sets and set each to be triggered on a specific
+date
+
+C. Create activity containers and establish an order for each activity
+
+D. Create separate activity sets and set each to be triggered based on the
+closure of the previous activity set
+1 h 20 min 10 seconds
+
+%>%
+
+Scenario: the customer has purchased HR Core and now they want to add
+the Lifecycle Events application. For Lifecycle Events, they want to be able
+to assign tasks to groups outside of the HR organization. Which of the
+following items should they license?
+
+A. Human Resources: Core
+
+B. Human Resources: Employee Relations
+
+C. Human Resources Scoped App: Lifecycle enterprise
+D. Human Resources Scoped App: Lifecycle Events
+1 h 21 min 10 seconds
+
+%>%
+
+In a lifecycle event, which of these allows you to define relationships
+between fields in various table?
+
+A. HR Criteria
+
+B. Activity field mappings
+C. Activity conditions
+
+D. Source mappings
+1 h 21 min 50 seconds
+
+%>%
+
+Employee documents are categorized by which of the following; which may
+also include meta tags to make them easier to search for later?
+
+A. Security Policy
+B. Attachment Type
+C. Topic Detail
+
+D. Document Type
+1 h 22 min 20 seconds
+
+%>%
+
+What must be done to automatically move attachments from an HR case into
+the Document repository?
+1 h 22 min 50 seconds
+
+%>%
+
+A. Select the Automatically Move Attachment box on the Retention policy
+B. Select the Automatically Move Attachment box on the Document type
+C. Select the Automatically Move Attachment box on the HR Service
+
+D. There is no way to automatically move attachments into the repository
+1 h 23 min 10 seconds
+
+%>%
+
+Before a Campaign can be published, some items are required. The
+following must be added before publishing: a start time, an audience, and
+which of the following?
+
+A. At least one success goal
+
+B. At least two employee tasks
+C. At least one piece of content
+D. At least one video link
+1 h 23 min 40 seconds
+
+%>%
+
+Which of the following displays a rendering of campaign content to allow you
+to see how your campaign will be viewed by the employee?
+
+A. Schedule of content
+B. Campaign bundles
+C. Portal preview
+
+D. Overview
+1 h 24 min 30 seconds
+
+%>%
+
+tere pam O48 were 4 oe sey ayes ome eee te ep Ss 8 Sirgen,
+eget oer meng coer etme agi yer ate Frog yer ( ere pad, *
+
+A. There is no way to prevent employees from seeing their documents
+B. Deselect the Employee access box on the Document type form
+
+C. Deselect the Visible to employee box on the HR Service form
+
+D. Check the Employee access box on the Document type form
+1 h 25 min 0 seconds
+
+%>%
+
+How can HR prevent an employee document, for example, a disciplinary
+report, from being visible to the employee in their Employee Center profile?
+
+A. There is no way to prevent employees from seeing their documents
+B. Deselect the Employee access box on the Document type form
+
+C. Deselect the Visible to employee box on the HR Service form
+
+D. Check the Employee access box on the Document type form
+1 h 25 min 10 seconds
+
+%>%
+
+Scenario: Adam is a member of the HR Tier 1 group and has the HR Basic
+[sn_hr_core.basic] role He is going on vacation and wants to use Granular
+delegation to delegate his HR tasks. Which of the following users should be
+assigned the HR tasks in his absence?
+
+A. Anny - another user with the HR basic role
+
+B. Emily - a user with the System Administrator role
+C. He may only delegate to his direct manager
+
+D. Jake - a user with the ITIL role
+1 h 25 min 50 seconds
+
+%>%
+
+Which of the following modules allows HR administrators to restrict access
+to all cases on a COE or to specific HR Services without creating ACL
+records?
+
+A. COE ACL Configuration
+
+B. Client Rules
+
+C. Application Restricted Caller Access
+D. System Properties
+1 h 26 min 50 seconds
+
+%>%
+
+The base instance contains several pre-built HR integrations. When
+configuring a pre-built integration which of these should be completed first?
+
+A. Verify integration settings
+
+B. Create an HR service to call on the integration
+C. Perform dry runs
+
+D. Provide source credentials
+1 h 27 min 20 seconds
+
+%>%
+
+With an inbound integration, data is pulled from the third-party HR
+management system to the HR tables in ServiceNow. What starts the
+process for the integration to pull data into ServiceNow?
+
+A. Credentials
+
+B. Data mappings
+
+C. An event or schedule
+D. Data transformation
+1 h 28 min 0 seconds
+
+%>%
+
+If the customer wants to use the HR Integrations Framework to create
+custom Spokes for HR integrations, which of the following is required?
+
+A. Integration Hub Basic
+
+B. HR Core
+
+C. ITSM Enterprise
+
+D. Integration Hub Enterprise
+1 h 28 min 40 seconds
+
+%>%
+
+HR case management at Cloud Dimensions no longer requires sending
+emails back and forth or having multiple phone calls. Instead, they capture
+all information in one place for processing. What feature makes this
+possible?
+
+A. Knowledge article
+B. HR profile
+
+C. HR Case
+
+D. Employee Center
+1 h 29 min 10 seconds
+
+%>%
+
+Cloud Dimensions plans to leverage HRSD to deliver content to specific
+audiences at specific times. What feature makes this possible?
+1 h 29 min 40 seconds
+
+%>%
+
+What does ServiceNow call the requests and assistance an HR organization
+provides its employees?
+
+A. Campaigns
+
+B. HR integration
+
+C. HR service
+
+D. Center of Excellence
+1 h 30 min 10 seconds
+
+%>%
+
+When Wade was being onboarded, an HR profile was created for him and
+both the Employment start date and Employment type fields were filled in on
+the record. What kind of role did the system automatically grant him when
+these fields were completed?
+
+A. Worker
+B. Personnel
+C. Client
+
+D. User
+1 h 30 min 30 seconds
+
+%>%
+
+Emily is looking for housing in the UK prior to her relocation. She created a
+new HR case to obtain an employment verification letter for her housing
+application. Once she is notified the request is complete, where can she
+obtain the document?
+
+A. HR Case
+1 h 31 min 10 seconds
+
+%>%
+
+Warren, an HR generalist, has been assigned to Emily's employee
+verification case. While looking at the case, he notices that the Generate
+Document button is not yet visible. When will he be able to select the
+Generate Document action for the request?
+
+A. Once the case is in Work in Progress state
+B. Once he reviews the case
+
+C. Once the case is in Ready for Work state
+
+D. Once the PDF template has been converted
+1 h 31 min 40 seconds
+
+%>%
+
+Andrew needs to submit a request for direct deposit setup. What feature will
+he leverage from the Employee Center to submit the request?
+
+A. Knowledge article
+B. Service catalog
+C. To-Dos
+
+D. HR case
+1 h 32 min 20 seconds
+
+%>%
+
+Jessica wants to make all U.K team members aware of the details of an
+upcoming volunteer opportunity in December. How can she ensure the event
+is only presented to employees in the U.K?
+
+A. Create a User Criteria record for the U.K employees and add it to the
+event
+
+B. Create an Audience record for the U.K employees and add it to the event
+1 h 32 min 50 seconds
+
+%>%
+
+C. Add each U.K user individually to the event
+D. Create an access control record for the event
+1 h 33 min 20 seconds
