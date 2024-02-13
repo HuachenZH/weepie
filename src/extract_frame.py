@@ -1,3 +1,4 @@
+import cv2
 import av
 from exif import Image
 from tqdm import tqdm
@@ -65,8 +66,28 @@ def extract_frame_simple(path_input:str, path_output_dir:str, freq:int) -> None:
 
 
 
+def extract_frame_complex(path_input:str, path_output_dir:str) -> None:
+    if path_output_dir[-1] != "/": path_output_dir += "/"
+    container = av.open(path_input)
+    # take first video stream
+    stream = container.streams.video[0]
+    
+    # First iteration: find static frames
+    freq = 1.5 # check frames for each 1 seconds
+    for idx, frame in tqdm(enumerate(container.decode(stream))):
+        if frame.pts % (freq/float(frame.time_base)) != 0:
+            continue
+        num = int(frame.pts / (freq/float(frame.time_base)))
+        arr = frame.to_ndarray()
+        cv2.imwrite(f"../data/img/test_frame/item_{num}_arr.jpg", arr)
+        frame.to_image().save(f"../data/img/test_frame/item_{num}_img.jpg")
+        if num > 30: return
+    return
+
+
 if __name__ == "__main__":
-    fpath = "../data/video/csa.mp4"
-    out_dir = "../data/img/"
+    fpath = "../data/video/cad.mp4"
+    out_dir = "../data/img/cad/"
     freq = 10
-    extract_frame_simple(fpath, out_dir, freq)
+    #extract_frame_simple(fpath, out_dir, freq)
+    extract_frame_complex(fpath, out_dir)

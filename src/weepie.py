@@ -1,5 +1,6 @@
 import argparse
 from extract_frame import extract_frame_simple
+from extract_frame import extract_frame_complex
 from delete_duplicated_frames import delete_duplicated_frames
 from extract_text import write_doc
 
@@ -29,11 +30,11 @@ def get_args():
 def main():
     args = get_args()
 
-    # $ python3 weepie.py -i ../data/img/cad/ extractFrames ../data/video/cad.mp4  
     if args.cmd_name == "extractFrames":
         if args.scrolling:
-            extract_frame_scrolling()
+            extract_frame_complex(args.videoPath, args.imageDirPath)
         else:
+        # $ python3 weepie.py -i ../data/img/cad/ extractFrames ../data/video/cad.mp4  
             extract_frame_simple(args.videoPath, args.imageDirPath, args.frequency)
 
     # $ python3 weepie.py -i ../data/img/cad/ delDupFrames 
