@@ -11,6 +11,10 @@ It's a bit hard to extract frames from the video of CAD because the images are n
 __Solution__: iterate the video two times. The first time weepie will compare each frame with previous frames, if they are different, then it means it's scrolling. If it's stable for five or ten frames, then it's fixed. Note the frame pts.  
 THen iterate for the second time and extract noted frames.
 
+To resume:  
+Study the bottom part of arr image, it seems that when the image change, the bottom part of matrix will also changes.  
+To do so, you compare with numpy arrays directly.
+I need to learn the "frame" object of pyav
 
 
 
