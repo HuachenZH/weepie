@@ -23,7 +23,7 @@ def time_formatter(time_seconds:float) -> str:
 
 
 
-def extract_frame(path_input:str, path_output_dir:str, freq:int) -> None:
+def extract_frame_simple(path_input:str, path_output_dir:str, freq:int) -> None:
     """Extract frames of a video with a certain frequency.
 
             Parameters:
@@ -69,4 +69,4 @@ if __name__ == "__main__":
     fpath = "../data/video/csa.mp4"
     out_dir = "../data/img/"
     freq = 10
-    extract_frame(fpath, out_dir, freq)
+    extract_frame_simple(fpath, out_dir, freq)

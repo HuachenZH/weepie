@@ -1,5 +1,5 @@
 import argparse
-from extract_frame import extract_frame
+from extract_frame import extract_frame_simple
 from delete_duplicated_frames import delete_duplicated_frames
 from extract_text import write_doc
 
@@ -34,7 +34,7 @@ def main():
         if args.scrolling:
             extract_frame_scrolling()
         else:
-            extract_frame(args.videoPath, args.imageDirPath, args.frequency)
+            extract_frame_simple(args.videoPath, args.imageDirPath, args.frequency)
 
     # $ python3 weepie.py -i ../data/img/cad/ delDupFrames 
     if args.cmd_name == "delDupFrames":
