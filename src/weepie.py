@@ -31,10 +31,11 @@ def main():
     args = get_args()
 
     if args.cmd_name == "extractFrames":
+        # $ python3 weepie.py -i ../data/img/cad/ extractFrames ../data/video/cad.mp4  -s
         if args.scrolling:
             extract_frame_complex(args.videoPath, args.imageDirPath)
         else:
-        # $ python3 weepie.py -i ../data/img/cad/ extractFrames ../data/video/cad.mp4  
+        # $ python3 weepie.py -i ../data/img/csa/ extractFrames ../data/video/csa.mp4  
             extract_frame_simple(args.videoPath, args.imageDirPath, args.frequency)
 
     # $ python3 weepie.py -i ../data/img/cad/ delDupFrames 
