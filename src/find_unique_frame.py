@@ -12,7 +12,7 @@ def is_the_same(image1:np.ndarray, image2:np.ndarray) -> bool:
     return image1.shape == image2.shape and not(np.bitwise_xor(image1,image2).any())
 
 
-def mse(img1:np.ndarray, img2:np.ndarray) -> (float, np.ndarray):
+def mse(img1:np.ndarray, img2:np.ndarray) -> tuple[float, np.ndarray]:
     """Calculate the Mean Square Error between two images.
     The two images should be converted into greyscale beforehand.
 
