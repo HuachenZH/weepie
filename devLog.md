@@ -12,10 +12,12 @@ __Solution__: iterate the video two times. The first time weepie will compare ea
 THen iterate for the second time and extract noted frames.
 
 To resume:  
-Study the bottom part of arr image, it seems that when the image change, the bottom part of matrix will also changes.  
-To do so, you compare with numpy arrays directly.
-I need to learn the "frame" object of pyav
 
+
+## Encountered
+- cv2 error: cv2.error: OpenCV(4.9.0) /io/opencv/modules/core/src/arithm.cpp:672: error: (-5:Bad argument) When the input arrays in add/subtract/multiply/divide functions have different types, the output array type must be explicitly specified in function 'arithm_op'
+  - cause: `cv2.subtract(img1, img2)`, img1 and img2 are np.ndarray with diffrerent dtype
+  - solution: use np.npdarray.astype(int) to convert arrays to same data type before calling cv2.subtract()
 
 
 ## To improve / future work
@@ -31,7 +33,3 @@ I need to learn the "frame" object of pyav
 - in the folder `data/img/`, images should be named like "frame_1.jpg", "frame_100.jpg"
 
 
-
-to resume:  
-- extract_text.py, now i have the list, join it into text
-- in each question, add at which second it is appeared
