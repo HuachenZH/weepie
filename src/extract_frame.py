@@ -80,24 +80,26 @@ def extract_frame_complex(path_input:str, path_output_dir:str) -> None:
     # First iteration: find static frames
     freq = 2 # check frames for each 1 seconds
     num = 0
-    prev = np.zeros(5)
     list_tmp = []
-    breakpoint()
+    # Initialize a "zero" frame.
+    for frame in container.decode(stream):
+        prev = np.zeros(frame.to_ndarray().shape).astype(int)
+        break
+
     for idx, frame in tqdm(enumerate(container.decode(stream))):
+        # Skip the iteration if not at each x second. x is the frequency.
         if frame.pts % (freq/float(frame.time_base)) != 0:
             continue
-        #if idx == 0: continue
         num = int(frame.pts / (freq/float(frame.time_base))) # equals int(idx/freq/10)
-        arr = frame.to_ndarray()
-        if idx != 0:
-            #list_tmp.append((int(idx/freq/10), is_similar(prev, arr, 1)))
-            list_tmp.append((int(idx/freq/10), mse(prev, arr)[0]))
+        # num * freq = at which second of the video.
+        arr = frame.to_ndarray().astype(int)
+        #list_tmp.append((int(idx/freq/10), is_similar(prev, arr, 1)))
+        if mse(prev, arr)[0] > 3:
+            #cv2.imwrite(f"../data/img/test_frame/item_{num}_arr.jpg", arr)
+            frame.to_image().save(f"{path_output_dir}item_{num}_img.jpg")
+        #list_tmp.append((int(idx/freq/10), mse(prev, arr)[0]))
         prev = copy.deepcopy(arr)
-        #cv2.imwrite(f"../data/img/test_frame/item_{num}_arr.jpg", arr)
-        #frame.to_image().save(f"../data/img/test_frame/item_{num}_img.jpg")
-        if num > 50:
-            breakpoint()
-            return
+        
     return
 
 
