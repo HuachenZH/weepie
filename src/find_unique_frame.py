@@ -75,7 +75,7 @@ def get_filenames(path_dir:str) -> list:
 
 
 
-def sort_filenames(list_filenames:list):
+def sort_filenames(list_filenames:list) -> list:
     """Sort list of filenames by the number inside filename by ascending order.\n
     Before sort: frame_1.jpg  frame_100.jpg  frame_2.jpg
     After sort:  frame_1.jpg  frame_2.jpg    frame_100.jpg
@@ -115,7 +115,7 @@ def sort_filenames(list_filenames:list):
 
 
 
-def compare_frames_in_list(path_dir:str, sorted_filenames:list, threshold:float):
+def compare_frames_in_list(path_dir:str, sorted_filenames:list, threshold:float) -> list:
     """In the given sorted list, compare each frame to the frame after it.
     Return a list of unique frames.
 
@@ -147,7 +147,7 @@ def compare_frames_in_list(path_dir:str, sorted_filenames:list, threshold:float)
 
 
 
-def find_unique_frames(path_dir:str, threshold:float):
+def find_unique_frames(path_dir:str, threshold:float) -> list:
     list_filenames = get_filenames(path_dir)
     sorted_filenames = sort_filenames(list_filenames)
     list_uniq = compare_frames_in_list(path_dir, sorted_filenames, threshold)

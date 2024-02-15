@@ -27,7 +27,7 @@ def extract_text(image_path_filename:str) -> str:
 
 
 
-def build_doc(path_dir:str) -> (list, list):
+def build_doc(path_dir:str) -> tuple[list, list]:
     """Iterate through all images in the folder and extract text.
 
             Parameters:

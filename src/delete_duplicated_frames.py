@@ -10,7 +10,7 @@ from find_unique_frame import *
 
 
 
-def compare_frames_in_list_for_deletion(path_dir:str, sorted_filenames:list, threshold:float):
+def compare_frames_in_list_for_deletion(path_dir:str, sorted_filenames:list, threshold:float) -> list:
     """In the given sorted list, compare each frame to the frame after it.
     Return a list of duplicated frames.
 
