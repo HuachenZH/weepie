@@ -31,6 +31,7 @@ def time_formatter(time_seconds:float) -> str:
 
 def extract_frame_simple(path_input:str, path_output_dir:str, freq:int) -> None:
     """Extract frames of a video with a certain frequency.
+    Use case is simple: only static images in the video.
 
             Parameters:
                     path_input (str): Path to the input mp4 file.
@@ -72,16 +73,26 @@ def extract_frame_simple(path_input:str, path_output_dir:str, freq:int) -> None:
 
 
 def extract_frame_complex(path_input:str, path_output_dir:str) -> None:
+    """Extract frames of a video.
+    Use case is complex: scrolling in the video.
+
+            Parameters:
+                    path_input (str): Path to the input mp4 file.
+
+                    path_output_dir (str): Path to the output directory (not file).
+
+            Returns:
+                    None. Changes are written to disk directly.
+    """
     if path_output_dir[-1] != "/": path_output_dir += "/"
     container = av.open(path_input)
     # take first video stream
     stream = container.streams.video[0]
     
     # First iteration: find static frames
-    freq = 2 # check frames for each 1 seconds
+    freq = 2 # check frames for each 2 seconds
     num = 0
-    list_tmp = []
-    # Initialize a "zero" frame.
+    # Initialize a "zero" frame as the first "previous" frame
     for frame in container.decode(stream):
         prev = np.zeros(frame.to_ndarray().shape).astype(int)
         break
@@ -93,14 +104,13 @@ def extract_frame_complex(path_input:str, path_output_dir:str) -> None:
         num = int(frame.pts / (freq/float(frame.time_base))) # equals int(idx/freq/10)
         # num * freq = at which second of the video.
         arr = frame.to_ndarray().astype(int)
-        #list_tmp.append((int(idx/freq/10), is_similar(prev, arr, 1)))
+        # Save image to disk if the current frame is different from the previous frame
         if mse(prev, arr)[0] > 3:
             #cv2.imwrite(f"../data/img/test_frame/item_{num}_arr.jpg", arr)
-            frame.to_image().save(f"{path_output_dir}item_{num}_img.jpg")
+            frame.to_image().save(f"{path_output_dir}frame_{num}.jpg")
         #list_tmp.append((int(idx/freq/10), mse(prev, arr)[0]))
         prev = copy.deepcopy(arr)
-        
-    return
+
 
 
 if __name__ == "__main__":

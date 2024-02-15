@@ -26,8 +26,8 @@ To resume:
 - for unsure OCR, give at which time (min, sec) of the video
 - find a way to determine similar texts
 - hrsd: the answers are not written, they are shown in different color
-- cad: in the video, the presenter scrolls a pdt....
-
+- cad: in the video, the presenter scrolls a pdf....
+- `extract_frame_simple` can be deprecated, as the new function is much more powerful
 
 ## 自己挖的坑
 - in the folder `data/img/`, images should be named like "frame_1.jpg", "frame_100.jpg"
