@@ -2,6 +2,11 @@ import cv2
 import av
 from exif import Image
 from tqdm import tqdm
+import numpy as np
+import copy
+
+from find_unique_frame import is_similar
+from find_unique_frame import mse
 
 import pdb
 
@@ -73,15 +78,26 @@ def extract_frame_complex(path_input:str, path_output_dir:str) -> None:
     stream = container.streams.video[0]
     
     # First iteration: find static frames
-    freq = 1.5 # check frames for each 1 seconds
+    freq = 2 # check frames for each 1 seconds
+    num = 0
+    prev = np.zeros(5)
+    list_tmp = []
+    breakpoint()
     for idx, frame in tqdm(enumerate(container.decode(stream))):
         if frame.pts % (freq/float(frame.time_base)) != 0:
             continue
-        num = int(frame.pts / (freq/float(frame.time_base)))
+        #if idx == 0: continue
+        num = int(frame.pts / (freq/float(frame.time_base))) # equals int(idx/freq/10)
         arr = frame.to_ndarray()
-        cv2.imwrite(f"../data/img/test_frame/item_{num}_arr.jpg", arr)
-        frame.to_image().save(f"../data/img/test_frame/item_{num}_img.jpg")
-        if num > 30: return
+        if idx != 0:
+            #list_tmp.append((int(idx/freq/10), is_similar(prev, arr, 1)))
+            list_tmp.append((int(idx/freq/10), mse(prev, arr)[0]))
+        prev = copy.deepcopy(arr)
+        #cv2.imwrite(f"../data/img/test_frame/item_{num}_arr.jpg", arr)
+        #frame.to_image().save(f"../data/img/test_frame/item_{num}_img.jpg")
+        if num > 50:
+            breakpoint()
+            return
     return
 
 
