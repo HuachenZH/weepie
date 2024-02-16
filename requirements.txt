@@ -1,5 +1,9 @@
+av==11.0.0
+exif==1.6.0
 numpy==1.26.3
 opencv-python==4.9.0.80
 packaging==23.2
 pillow==10.2.0
+plum-py==0.8.7
 pytesseract==0.3.10
+tqdm==4.66.1
