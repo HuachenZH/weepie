@@ -87,6 +87,6 @@ def write_doc(path_dir:str, out_path:str) -> None:
 
 
 if __name__ == "__main__":
-    path_dir = "../data/img/"
-    out_path = "../data/doc_csa.txt"
+    path_dir = "../data/img/cad/"
+    out_path = "../out/doc_cad.txt"
     write_doc(path_dir, out_path)

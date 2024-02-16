@@ -41,7 +41,7 @@ def modify_exif(path_output_dir:str, filename:str, pts:int, time_base) -> None:
                     pts (int): the presentation timestamp.
  
                     time_base (fractions.Fraction): the unit of time in which timestamps are expressed.
- 
+  
             Returns:
                     None. Images are written to disk directly.
     """
@@ -130,10 +130,8 @@ def extract_frame_complex(path_input:str, path_output_dir:str) -> None:
             #cv2.imwrite(f"../data/img/test_frame/item_{num}_arr.jpg", arr)
             filename = f"frame_{num}.jpg"
             frame.to_image().save(path_output_dir + filename)
-        #list_tmp.append((int(idx/freq/10), mse(prev, arr)[0]))
+            modify_exif(path_output_dir, filename, frame.pts, frame.time_base)
         prev = copy.deepcopy(arr)
-        breakpoint()
-        modify_exif(path_output_dir, filename, frame.pts, frame.time_base)
 
 
 
