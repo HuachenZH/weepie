@@ -31,5 +31,6 @@ To resume:
 
 ## 自己挖的坑
 - in the folder `data/img/`, images should be named like "frame_1.jpg", "frame_100.jpg"
+- in `extract_text.py`, input image must have exif info, if not, error.
 
 
