@@ -30,6 +30,21 @@ def time_formatter(time_seconds:float) -> str:
 
 
 def modify_exif(path_output_dir:str, filename:str, pts:int, time_base) -> None:
+    """Modify the exif of an image. Add the timestamp (image appeared at which second of the video)
+    to the 'datatime' field of the exif.
+ 
+            Parameters:
+                    path_output_dir (str): path to the directory of output images.
+ 
+                    filename (str): file name of the output image.
+ 
+                    pts (int): the presentation timestamp.
+ 
+                    time_base (fractions.Fraction): the unit of time in which timestamps are expressed.
+ 
+            Returns:
+                    None. Images are written to disk directly.
+    """
     with open(path_output_dir + filename, "rb") as f:
         my_image = Image(f)
         str_time = time_formatter(pts * float(time_base))
