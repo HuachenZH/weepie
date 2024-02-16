@@ -107,9 +107,18 @@ def extract_frame_complex(path_input:str, path_output_dir:str) -> None:
         # Save image to disk if the current frame is different from the previous frame
         if mse(prev, arr)[0] > 3:
             #cv2.imwrite(f"../data/img/test_frame/item_{num}_arr.jpg", arr)
-            frame.to_image().save(f"{path_output_dir}frame_{num}.jpg")
+            filename = f"frame_{num}.jpg"
+            frame.to_image().save(path_output_dir + filename)
         #list_tmp.append((int(idx/freq/10), mse(prev, arr)[0]))
         prev = copy.deepcopy(arr)
+
+        # Re-read the image to modify its exif
+        with open(path_output_dir + filename, "rb") as f:
+            my_image = Image(f)
+        str_time = time_formatter(frame.pts * float(frame.time_base))
+        my_image.set("datetime", str_time)
+        with open(path_output_dir + filename, "wb") as new_f:
+            new_f.write(my_image.get_file())
 
 
 
