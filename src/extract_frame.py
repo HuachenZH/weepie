@@ -29,6 +29,17 @@ def time_formatter(time_seconds:float) -> str:
 
 
 
+def modify_exif(path_output_dir:str, filename:str, pts:int, time_base) -> None:
+    with open(path_output_dir + filename, "rb") as f:
+        my_image = Image(f)
+        str_time = time_formatter(pts * float(time_base))
+        my_image.set("datetime", str_time)
+        with open(path_output_dir + filename, "wb") as new_f:
+            new_f.write(my_image.get_file())
+    return
+
+
+
 def extract_frame_simple(path_input:str, path_output_dir:str, freq:int) -> None:
     """Extract frames of a video with a certain frequency.
     Use case is simple: only static images in the video.
@@ -60,12 +71,7 @@ def extract_frame_simple(path_input:str, path_output_dir:str, freq:int) -> None:
         filename = f"frame_{count}.jpg"
         frame.to_image().save(path_output_dir + filename)
         # Re-read the image to modify its exif
-        with open(path_output_dir + filename, "rb") as f:
-            my_image = Image(f)
-        str_time = time_formatter(frame.pts * float(frame.time_base))
-        my_image.set("datetime", str_time)
-        with open(path_output_dir + filename, "wb") as new_f:
-            new_f.write(my_image.get_file())
+        modify_exif(path_output_dir, filename, frame.pts, frame.time_base)
 
     print(f"{count} images are written to disk.")
     container.close()
@@ -111,14 +117,8 @@ def extract_frame_complex(path_input:str, path_output_dir:str) -> None:
             frame.to_image().save(path_output_dir + filename)
         #list_tmp.append((int(idx/freq/10), mse(prev, arr)[0]))
         prev = copy.deepcopy(arr)
-
-        # Re-read the image to modify its exif
-        with open(path_output_dir + filename, "rb") as f:
-            my_image = Image(f)
-        str_time = time_formatter(frame.pts * float(frame.time_base))
-        my_image.set("datetime", str_time)
-        with open(path_output_dir + filename, "wb") as new_f:
-            new_f.write(my_image.get_file())
+        breakpoint()
+        modify_exif(path_output_dir, filename, frame.pts, frame.time_base)
 
 
 
