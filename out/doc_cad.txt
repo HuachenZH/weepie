@@ -1,0 +1,4327 @@
+ServiceNow CAD
+0 min 2 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+What isthe purpose of the Application Picker?
+
+A. Select an application to run
+
+B. Select an application as a favorite in the Application Navigator
+
+©. Choose an application to edit and set the Application Scope Most Voted
+D. Choose an application to download and install
+0 min 34 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+What isthe purpose of the Application Picker?
+
+A. Select an application to run
+
+B. Select an application as a favorite in the Application Navigator
+
+C. Choose an application to edit and set the Application Scope Most Voted
+D. Choose an application to download and install
+1 min 4 seconds
+
+%>%
+
+CORRECT ANSWER IS :- C
+1 min 6 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+What are Application Files in a ServiceNow application?
+
+‘A. An XML export of an application's table records.
+
+B. CSV files containing data imported into an application
+
+C. ServiceNow artifacts comprising an application Most Voted
+D. XML exports of an application's Update Set
+
+ 
+1 min 10 seconds
+
+%>%
+
+CORRECT ANSWER IS :- C
+1 min 52 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which one of the following is NOT true for Modules?
+
++ A. Modules open content pages
++B. Access to Modules is controlled with roles
++ C. Every Module must be part of an Application Menu
+
+: D. Every Module must be associated with a table
+1 min 56 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which one of the following is NOT true for Modules?
+
+‘A. Modules open content pages
+
+B. Access to Modules is controlled with roles
+
+C. Every Module must be part of an Application Menu
+D. Every Module must be associated with a table
+2 min 32 seconds
+
+%>%
+
+D. Every Module must be associated with a table
+
+CORRECT ANSWER IS :- D
+2 min 34 seconds
+
+%>%
+
+2 min 38 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+A graphical view of relationships among tables is a <blank>.
+
+‘A. Schema map
+
+B. Dependency view
+
+C. Graphical User Interface
+D. Map source report
+2 min 40 seconds
+
+%>%
+
+A graphical view of relationships among tables is a <blank>.
+
++” A.Schema map
++B. Dependency view
++ C. Graphical User Interface
+
++ D.Map source report
+3 min 4 seconds
+
+%>%
+
+CORRECT ANSWER IS :- A
+3 min 6 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which one of the following is true for the Application Picker?
+
+ 
+
++ A.Allcustom application scope and the Global scope appear in the Application Picker
+¥ B. All applications in ServiceNow, including baseline applications like Incident, appear in the
+Application Picker
+
++ C.Only custom applications appear in the Application Picker
+
+: D. Only downloaded applications appear in the Application Picker
+3 min 10 seconds
+
+%>%
+
+D. Only downloaded applications appear in the Application Picker
+4 min 2 seconds
+
+%>%
+
+CORRECT ANSWER IS :- A
+4 min 4 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+When creating an application through the Guided Application Creator, which of the following is a user
+experience option?
+
++ A.Portal
+: B. Mobile
+: C. Self-service
+
+D. Workspace
+4 min 16 seconds
+
+%>%
+
+CORRECT ANSWER |S :- B
+4 min 48 seconds
+
+%>%
+
+CORRECT ANSWER IS :- B
+4 min 54 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+When writing a Client Script to provide feedback targeted at a specific field, which method should be
+used?
++ A.g.form.showinfoMessage()
++ B.g form.showFieldMsg()
+
++ C.g-form.addinfoMessage()
+
++ D.g-form.addFieldMsg()
+4 min 56 seconds
+
+%>%
+
+CORRECT ANSWER |S :- B
+5 min 28 seconds
+
+%>%
+
+CORRECT ANSWER IS :- B
+5 min 32 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which actions can a Business Rule take without scripting?
+5 min 34 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which actions can a Business Rule take without scripting?
+
++ A.Set field values and write to the system log
++ B.Set field values and generate an event
++ C.Set field values and add message
+
+: D. Set field values and query the database
+5 min 40 seconds
+
+%>%
+
+TR BOUTS CSS BUSES HS ORS IU Sen.
+
++ A.Set field values and write to the system log
++ B.Set field values and generate an event
++ C.Set field values and add message
+
+. D. Set field values and query the database
+6 min 20 seconds
+
+%>%
+
+D. Set field values and query the database
+
+CORRECT ANSWER IS :- C
+6 min 22 seconds
+
+%>%
+
+CORRECT ANSWER IS :- C
+6 min 26 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which server-side object provides methods for working with dates when writing a script in a privately
+scoped application?
+
++" A.GlideDateTime
++B GlideRecord
+
++ C.Glidesystem
+
++ D.current
+6 min 28 seconds
+
+%>%
+
+7 min 18 seconds
+
+%>%
+
+CORRECT ANSWER IS :- A
+7 min 20 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Application developers can specify which ServiceNow page a user sees after submitting a new record
+using the Record Producer UI. How is the page specified?
+
++ A.Create an application property to store the URL
+
++B. Configure the page in the Module that opens the Record Producer UI
+
++ C. Write an after Business Rule script for the Record Producer's table: window redirect =
+"<URL>";
+
+ 
+
+: D. Write a script in the Record Producer's Script field: producer.redirect
+
+ 
+
+"<URL>";
+7 min 22 seconds
+
+%>%
+
+  
+
+a a tat
+
+CORRECT ANSWER IS :- D
+8 min 6 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+\dentfy characteristi(s) of a Record Producer. (Choose three)
+
+A. All records created using this strategy are inserted into the Requested Item [sc_req_item]
+table
+: B. Each field prompts the user with a question rather than a field label. Most Voted
+: C. They must be scripted.
+
+* D. You can script behaviors of fields in the user interface. Most Voted
+8 min 10 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Identify characteristic(s) of a Record Producer. (Choose three.)
+
+‘A. All records created using this strategy are inserted into the Requested Item [sc_req_item]
+table
++B. Each field prompts the user with a question rather than a field label. Most Voted
++ C. They must be scripted.
+
++ D. Youcan script behaviors of fields in the user interface. Most Voted
++ E.Graphics can be included on the user interface. Most Voted
+8 min 12 seconds
+
+%>%
+
+CORRECT ANSWER IS :- B
+9 min 8 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which script types execute on the server? (Choose three.)
+‘A. Business Rule Most Voted
+
+B. Client Scripts
+
+C. UI Policies
+
+D. Script Actions Most Voted
+
+E, Scheduled Jobs Most Voted
+
+  
+9 min 14 seconds
+
+%>%
+
+9 min 42 seconds
+
+%>%
+
+CORRECT ANSWER IS :- A
+9 min 44 seconds
+
+%>%
+
+ServiceNow CAD
+9 min 48 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+When creating a table in a privately-scoped application, which four Access Controls are created for the
+table?
+
++ A.lnsert, Delete, Query, Write
+
++B. Create, Delete, Read, Write Most Voted
+
++ C.Create, Delete, Read, Update
+
++ D.Insert, Delete, Query, Update
+10 min 20 seconds
+
+%>%
+
+ 
+
++ D.Insert, Delete, Query, Update
+
+CORRECT ANSWER IS :- B
+11 min 18 seconds
+
+%>%
+
+CORRECT ANSWER IS :- B
+11 min 24 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which one of the following is true for this script fragment?
+g.user hasRole(‘xmy_app_user);
++A. There is no g_userhasRole() method
+
++B. The method returns false only if the currently logged in user has the x.my_app_user role
++ C. The method returns true only ifthe currently logged in user has the x.my_app_user role
++ D. The method returns true if the currently logged in user has the x.my_app_user role or the
+
+admin role
+11 min 26 seconds
+
+%>%
+
+*  __B he method rexuns rue It the Cumrently fogged #) user has the X_ny_App_User rove OF ne
+admin role
+
+CORRECT ANSWER IS :- D
+12 min 18 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which one of the following database operations cannot be controlled with Application Access?
++ AQuery
+12 min 24 seconds
+
+%>%
+
+Which one of the following database operations cannot be controlled with Application Access?
++ AQuery
+
++ B.Update
++ C.Create
++ D.Delete
+12 min 32 seconds
+
+%>%
+
+ 
+
+CORRECT ANSWER IS :- A
+12 min 54 seconds
+
+%>%
+
+CORRECT ANSWER IS :- A
+12 min 58 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+For Application Access there is a configuration option called Allow access to this table via web
+services. Which one of the following statements is true when this option is selected?
+
++ A. This option restricts the ability to delete records via web services but records can always be
+read
+
++B. Even when not selected, users with the correct permissions can use web services to access
+the table's records
+
++ C. This option restricts access only to SOAP web services but does not apply to REST
+
++ _D. The user performing the query via web services must have the correct permissions to
+
+access the table's records Most Voted
+13 min 0 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+For Application Access there is a configuration option called Allow access to this table via web
+services. Which one of the following statements is true when this option is selected?
+
+ 
+
++ A This option restricts the ability to delete records via web services but records can always be
+read
+
++B. Even when not selected, users with the correct permissions can use web services to access
+the table's records
+
++ C. This option restricts access only to SOAP web services but does not apply to REST
+
++ D. The user performing the query via web services must have the correct permissions to
+
+access the table's records Most Voted
+13 min 54 seconds
+
+%>%
+
+CORRECT ANSWER IS :- D
+13 min 56 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which of the following statements must evaluate to true for a user to pass an Access Control?
+
+(Choose three.)
++ A The user has one of the roles specified in the Required roles related list. Most Voted.
++B Scripts configured in the Access Control must evaluate to true. Most Voted
+
+© ther matehing-Aanese Gantale ar the sananda-aualuaie 1240
+13 min 58 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which of the following statements must evaluate to true for a user to pass an Access Control?
+(Choose three.)
+
+‘A. The user has one of the roles specified in the Required roles related list, Most Voted
+B. Scripts configured in the Access Control must evaluate to true. Most Voted
+
+C. Other matching Access Controls for the records evaluate to true.
+
+D. Conditions configured in the Access Control must evaluate to true. Most Voted
+
+E. The user must be granted access through a business rule.
+14 min 0 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which of the following statements must evaluate to true for a user to pass an Access Control?
+(Choose three.)
+
+‘A. The user has one of the roles specified in the Required roles related list. Most Voted
+B. Scripts configured in the Access Control must evaluate to true. Most Voted
+
+C. Other matching Access Controls for the records evaluate to true.
+
+D. Conditions configured in the Access Control must evaluate to true. Most Voted
+
+E. The user must be granted access through a business rule.
+14 min 38 seconds
+
+%>%
+
+CORRECT ANSWER IS :- A
+14 min 50 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which server-side object provides methods for working with dates when writing a script in a privately
+scoped application?
+
++ "A GlideDateTime
+
++ B.GlideRecord
+
++ C.Glidesystem
+
++ D.current
+14 min 54 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which server-side object provides methods for working with dates when writing a script in a privately
+scoped application?
+
++ A GlideDateTime
+
++ B.GlideRecord
+
++ C.Glidesystem
+
++ D.current
+14 min 56 seconds
+
+%>%
+
+CORRECT ANSWER IS :- A
+15 min 22 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which one of the following is NOT an example of when an application might use a Scheduled Script
+Execution (Scheduled Job)?
+
++ A. The application needs to send weekly email reminders to requestors for all records on a
+table
+
+: B. The application needs to run a clean up script on the last day of every month
+
+: C. The application needs to query the database every day to look for unassigned records
+
++ D. The application needs to run a client-side script at the same time every day Most Voted
+15 min 28 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which one of the following is NOT an example of when an application might use a Scheduled Script
+Execution (Scheduled Job)?
+
++ A. The application needs to send weekly email reminders to requestors for all records on a
+table
++B. The application needs to run a clean up script on the last day of every month
+
+ 
+
++ C. The application needs to query the database every day to look for unassigned records
++ D. The application needs to run a client-side script at the same time every day Most Voted
+15 min 30 seconds
+
+%>%
+
+A. The application needs to send weekly email reminders to requestors for all records on a
+
+B. The application needs to run a clean up script on the last day of every month
+C. The application needs to query the database every day to look for unassigned records
+D. The application needs to run a client-side script at the same time every day Most Voted
+
+ 
+16 min 14 seconds
+
+%>%
+
+CORRECT ANSWER IS :- D
+16 min 16 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which one of the following objects CANNOT be used in a Script Action script?
+‘A. previous Most Voted
+
+B. GlideRecord
+
+C. event
+
+D. current
+16 min 18 seconds
+
+%>%
+
+CORRECT ANSWER IS :- A
+16 min 40 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+How does ServiceNow match inbound email to existing records?
++ A Watermark Most Voted
+
++B. Record link
+
++ C. Subject line
+
++ D.sys.id
+16 min 44 seconds
+
+%>%
+
+CORRECT ANSWER IS :- A
+17 min 6 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+When debugging Email Notifications, what must you check on a user record? (Choose three.)
++ A Active must be true. Most Voted
+
++B. The First name and Last name fields must have values.
+
++ ©. The value in the Notification field must be set to enabled. Most Voted
+17 min 10 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+When debugging Email Notifications, what must you check on a user record? (Choose three.)
++ A Active must be true. Most Voted
+
++B. The First name and Last name fields must have values.
+
++ C. The value in the Notification field must be set to enabled. Most Voted
+17 min 12 seconds
+
+%>%
+
+When debugging Email Notifications, what must you check on a user record? (Choose three.)
++ A Active must be true. Most Voted
+
+: B. The First name and Last name fields must have values.
+: C. The value in the Notification field must be set to enabled. Most Voted
+: D. The user must not be locked out.
+
+: E. The Email field must have a value. Most Voted
+17 min 34 seconds
+
+%>%
+
+E. The Email field must have a value. Most Voted
+
+CORRECT ANSWER IS :- A
+17 min 46 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which of the following methods is NOT part of the ServiceNow REST API?
++ A.COPY
+
+: 8.GET
+
++ C.DELETE
+
+: D. POST
+17 min 50 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which of the following methods is NOT part of the ServiceNow REST API?
++ A.COPY
+
+: B.GET
+
++ C. DELETE
+
+: D. POST
+17 min 52 seconds
+
+%>%
+
+CORRECT ANSWER IS :- A
+18 min 14 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+You are developing the MyApp application that has a table, Table A. When the MyApp application is
+installed on an instance, you want Table As records to be installed as part of the application
+Table As records will be installed when:
+
++ A Table A is active and extends the Task table
+
++B. Table A's records are added to the application record using the Create Application Files
+context menu item Most Voted
+
++ C. Table A has an automatic number counter for new records
+
+: D. Table A is not included in the System Clone > Exclude Tables list
+18 min 18 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+You are developing the MyApp application that has a table, Table A. When the MyApp application is
+installed on an instance, you want Table As records to be installed as part of the application.
+Table As records will be installed when:
+
++ A Table A is active and extends the Task table
+
++B. Table A's records are added to the application record using the Create Application Files
+context menu item Most Voted
+
++ C. Table A has an automatic number counter for new records
+
+: D. Table A is not included in the System Clone > Exclude Tables list
+18 min 20 seconds
+
+%>%
+
+= B. Table A's records are added to the application record using the Create Applicati
+context menu item Most Voted
+
++ C. Table Ahas an automatic number counter for new records
+
+: D. Table A is not included in the System Clone > Exclude Tables list
+
+ 
+
+CGRRECT ANSWER ISB
+19 min 10 seconds
+
+%>%
+
+CORRECT ANSWER IS :- B
+19 min 12 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+How can an application link to a repository behind a firewall?
+
++ A. This option is not supported.
+
++ B.Link an application to source control through a MID Server.
+
+* _ @ Linkan application to source control through an access token.
+19 min 14 seconds
+
+%>%
+
+How can an application link to a repository behind a firewall?
+
+‘A. This option is not supported.
+B. Link an application to source control through a MID Server.
+
+C. Link an application to source control through an access token,
+
+D. Link an application to source control with multifactor authentication.
+19 min 16 seconds
+
+%>%
+
+CORRECT ANSWER IS :- B
+19 min 48 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+What is the ServiceNow store?
++ A Downloadable content ServiceNow script archive
+19 min 52 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+What is the ServiceNow store?
+
++ A Downloadable content ServiceNow script archive
++ B.Alternate name for the ServiceNow Developer Share site
++ C. The source for ServiceNow Community created developer content
+
+D. Marketplace for free and paid certified ServiceNow applications and integrations
+19 min 54 seconds
+
+%>%
+
+CORRECT ANSWER IS :- D
+20 min 28 seconds
+
+%>%
+
+CORRECT ANSWER |S :- D
+20 min 30 seconds
+
+%>%
+
+ServiceNow CAD
+20 min 34 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which of the following objects does a Display Business Rule NOT have access to?
++ A.previous
+
++ B.Glidesystem
+
++ C.g-scratchpad
+
++ Dicurrent
+21 min 4 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which of the following objects does a Display Business Rule NOT have access to?
++ A previous
+
++ B.GlideSystem
+
++ C.g-scratchpad
+
++ D.current
+21 min 26 seconds
+
+%>%
+
+ony St Re eg TT NET eT eR RE TT REN Te PTE NC NTA ire TEN ERAT
+‘A. previous
+B. GlideSystem
+C. g_scratchpad
+
++ D.current
+
+    
+
+CORRECT ANSWER IS :- A
+21 min 28 seconds
+
+%>%
+
+CORRECT ANSWER IS :- A
+21 min 30 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+When creating an application through the Guided Application Creator, which of the following is NOT an
+option for creating a table?
+
++ A Create table from template Most Voted
+: B. Create table from scratch
+. C. Extend a table
+
+D. Upload spreadsheet
+21 min 34 seconds
+
+%>%
+
+When creating an application through the Guided Application Creator, which of the following is NOT an
+option for creating a table?
+
++A Create table from template Most Voted
+
++ B.Create table from scratch
+
++ C. Extenda table
+
++ D.Upload spreadsheet
+22 min 2 seconds
+
+%>%
+
+CORRECT ANSWER IS :- A
+22 min 4 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Server-side scripts manage what?
+‘A. Database and backend Most Voted
+B. Playbook access
+©. User access
+D. Forms and Fields
+22 min 8 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Server-side scripts manage what?
++ A Database and backend Most Voted
++B. Playbook access
+
++ C.User access
+
++ D. Forms and Fields
+22 min 36 seconds
+
+%>%
+
+CORRECT ANSWER IS :- A
+22 min 38 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+What intuitive development interface guides users through the initial application development
+process?
+
++ A. Guided Tour Designer
+
++ B. Guided Application Creator
+
++ C.ServiceNow Studio
+
++ D.Flow Designer
+22 min 42 seconds
+
+%>%
+
+A. Guided Tour Designer
+
+B. Guided Application Creator
+C. ServiceNow Studio
+
+D. Flow Designer
+
+CORRECT ANSWER IS :- B
+23 min 12 seconds
+
+%>%
+
+CORRECT ANSWER IS :- B
+23 min 14 seconds
+
+%>%
+
+ 
+
+NEXT QUESTION IS :-
+23 min 16 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+What are some benefits of developing private, scoped applications? (Choose two.)
++ A To avoid using a code repository like GitHub or GitLab
+
++B. Toreduce risk at code collisions
+
++ C.Toenable installation and uninstallation of an application
+
++ D. To replicate ServiceNow functions a private scope
+23 min 18 seconds
+
+%>%
+
+   
+
+ 
+
+‘A. To avoid using a code repository like GitHub or GitLab
+
++B. Toreduce risk at code collisions
+
++ C. Toenable installation and uninstallation of an application
+D. To replicate ServiceNow functions a private scope
+
+   
+
+ 
+23 min 52 seconds
+
+%>%
+
+CORRECT ANSWER IS :- B
+23 min 54 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+What records are used to track cross-scope applications or scripts that request access to an
+application, application resource, or event?
+
++ A Restricted caller access records Most Voted
+: B. Caller tracking records
++ C. Access control level records
+
+. D. Cross-scope access records
+23 min 58 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+What records are used to track cross-scope applications or scripts that request access to an
+application, application resource, or event?
+
+ 
+
++ A Restricted caller access records Most Voted
+: B. Caller tracking records
++ C. Access control level records.
+
+: D. Cross-scope access records
+24 min 0 seconds
+
+%>%
+
+C. Access control level records
+D. Cross-scope access records
+
+CORRECT ANSWER IS :- A
+24 min 30 seconds
+
+%>%
+
+CORRECT ANSWER IS :- A
+24 min 32 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which ATF Test step allows you to create a user with speeded roles and groups for the test?
+A. Create a group
+
+B. Impersonation
+
+©. Create a user
+
+D. Create a role
+24 min 36 seconds
+
+%>%
+
+B. Impersonation
+C. Create a user
+D. Create a role
+25 min 4 seconds
+
+%>%
+
+CORRECT ANSWER IS :- C
+25 min 6 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+What plugin enables the Guided Application Creator?
++ A-com.glide.sn-guided-app-creator
+
+B. com glide.service_creator
+
+C. com.glide.sne.apps_creator
+
+D. com.sne.apps_creator_template
+25 min 10 seconds
+
+%>%
+
+CORRECT ANSWER IS :- A
+25 min 24 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which of the following can be an external data source for a ServiceNow application?
+‘A. Microsoft Excel File
+
+B. Data provided by a public web service using SOAP or REST
+
+C. CSV file
+
+D. All of the above
+25 min 28 seconds
+
+%>%
+
+B. Data provided by a public web service using SOAP or REST
+C. CSV file
+D. All of the above
+
+CORRECT ANSWER IS :- D
+25 min 56 seconds
+
+%>%
+
+CORRECT ANSWER IS :- D
+25 min 58 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which one of the following is true for the Application Picker and Application Scope?
++ A Global is a reserved application which does not appear in the Application Picker
+. B. Selecting an application from the Application Picker does not set the Application Scope
+
+ 
+26 min 0 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which one of the following is true for the Application Picker and Application Scope?
+
++ A Global is a reserved application which does not appear in the Application Picker
++ B.Selecting an application from the Application Picker does not set the Application Scope
++ C.Selecting an application from the Application Picker sets the Application Scope
+
+D. Selecting Global in the Application Picker sets the Application Scope to Incident
+26 min 2 seconds
+
+%>%
+
+ 
+
+C. Selecting an application from the Application Picker sets the Application Scope
+D. Selecting Global in the Application Picker sets the Application Scope to Incident
+26 min 40 seconds
+
+%>%
+
+CORRECT ANSWER IS :- C
+26 min 42 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+26 min 44 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which of the following is an available feature in Studio? (Choose two.)
+‘A. Push to update set
+
+B. Merge branches
+
+C. Search code Most Voted
+
+D. Push to external source control Most Voted
+26 min 46 seconds
+
+%>%
+
+27 min 10 seconds
+
+%>%
+
+CORRECT ANSWER IS :- C
+27 min 12 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Why would you build a custom app? (Choose two.)
++ A Toavoid using a code repository like GitHub or GitLab
+* B. To replace ServiceNow base tables
+
++ C.To fulfil a specific use case on internal processes
+
+. D. To create a custom integration for a 3rd party system
+27 min 14 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Why would you build a custom app? (Choose tw<
+‘A. To avoid using a code repository like GitHub or GitLab
+B. To replace ServiceNow base tables
+
+C. To fulfil a specific use case on internal processes
+
+D. To create a custom integration for a 3rd party system
+
+ 
+27 min 16 seconds
+
+%>%
+
+CORRECT ANSWER IS :- C
+27 min 48 seconds
+
+%>%
+
+27 min 52 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which one of the following is NOT part of the Form Designer?
+‘A. Page header
+
++ B.Schema map
+
++ C.Field navigator
+D. Form layout
+27 min 54 seconds
+
+%>%
+
+B. Schema map
+C. Field navigator
+D. Form layout
+
+CORRECT ANSWER IS :- B
+28 min 16 seconds
+
+%>%
+
+CORRECT ANSWER IS :- B
+28 min 20 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which one of the following is true for a Script Include with a Protection Policy value of Protected?
++ A Any user with the protected_edit role can see and edit the Script Include
++B. The Protection policy option can only be enabled by a user with the admin role
+28 min 22 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which one of the following is true for a Script Include with a Protection Policy value of Protected?
++ A-Any user with the protected_edit role can see and edit the Script Include
++B. The Protection policy option can only be enabled by a user with the admin role
+
+ 
+
+applied only if the alide.app.apply_ protection system property value
+28 min 24 seconds
+
+%>%
+
+TE! VES PIUEe So
+
+Which one of the following is true for a Script Include with a Protection Policy value of Protected?
++ A Any user with the protected_edit role can see and edit the Script Include
++B. The Protection policy option can only be enabled by a user with the admin role
+
++ C. The Protection Policy is applied only if the glide.app. apply_protection system property value
+is true
+
++ __D. The Protection Policy is applied only if the application is downloaded from the ServiceNow
+App Store Most Voted
+
+ 
+28 min 30 seconds
+
+%>%
+
+. A. Any user with the protected_edit role can see and edit the Script Include
++B. The Protection policy option can only be enabled by a user with the admin role
+
++ C. The Protection Policy is applied only if the glide.app. apply_protection system property value
+true
+
++ __D. The Protection Policy is applied only if the application is downloaded from the ServiceNow
+App Store Most Voted
+
+ 
+28 min 46 seconds
+
+%>%
+
+CORRECT ANSWER IS :- D
+29 min 10 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+When designing and creating a form what do you create to organize fields on a form?
++ A.Buttons
+
+. B. Tabs
+
++ C.Sections
+
+: D. Related lists
+29 min 14 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+When designing and creating a form what do you create to organize fields on a form?
++ AButtons
+
+. B. Tabs
+
++ C.Sections
+
+: D. Related lists
+29 min 38 seconds
+
+%>%
+
+NESS NOS
+
+CORRECT ANSWER IS :- C
+29 min 40 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which one of the following is a good practice for adding instructions to a form?
++ A Related links to wiki pages
+
+ 
+29 min 44 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+ 
+
+Which one of the following is a good practice for adding instructions to a form?
++ A.Related links to wiki pages
++ B.AContext Menu UI Action
++ C. Annotations Most Voted
+
+D. A populated read-only field
+
+ 
+29 min 46 seconds
+
+%>%
+
+CORRECT ANSWER IS :- C
+30 min 12 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+ 
+
+ 
+30 min 16 seconds
+
+%>%
+
+Which of the following GlideRecord methods run a query against a database table? (Choose three.)
+A._get()
+
+B. runQuery()
+
+C. query()
+
+D. _query()
+
+E. get(
+30 min 18 seconds
+
+%>%
+
+CORRECT ANSWER IS :- C
+30 min 46 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Ina Business Rule, which one of the following returns the sys-id of the currently logged in user?
+A. g_form.getUserID()
+B. gs.getUserSysiD(Q)
+
++ C.gs.getUseriD() Most Voted
+
++ D.g-form.getUsersysiD0,
+30 min 52 seconds
+
+%>%
+
+Ina Business Rule, which one of the following returns the sys_id of the currently logged in user?
++ A.g-form.getUserIDQ)
+
++ B.gs.getUserSysiD0
+
++ C.gs.getUseriD() Most Voted
+
++ D.g-form.getUsersysiD0,
+
+ 
+31 min 22 seconds
+
+%>%
+
+CORRECT ANSWER IS :- C
+31 min 24 seconds
+
+%>%
+
+ServiceNow CAD
+31 min 32 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+‘Access Control debug information identifies whether each element of an Access Control granted or
+denied access. The elements appear in the debug information in the order of evaluation In which’
+order are the elements of an Access Control evaluated?
+
++ A.Conditions, Roles, Script
+
++ B.Conditions, Script, Roles
+
++ C.Roles, Conditions, Script Most Voted
+
++ D. Script, Conditions, Roles
+
+ 
+32 min 6 seconds
+
+%>%
+
+* A. Conditions, Roles, Script
+
+. B. Conditions, Script, Roles
++ C.Roles, Conditions, Script Most Voted
+: D. Script, Conditions, Roles
+
+CORRECT ANSWER IS :- C
+32 min 52 seconds
+
+%>%
+
+CORRECT ANSWER IS :- C
+32 min 54 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Assume a table called table exists and contains 3 fields: field1, field2, field3. Examine the Access
+Control list for table:
+
+table None read Access Control for users withthe admin and tl roles
+
+table.* read Access Control for users with the admin role
+32 min 56 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Assume a table called table exists and contains 3 fields: field1, field2, field3. Examine the Access
+Control list for table:
+
+table None read Access Control for users wth the admin and ti roles
+table * read Access Control for users with the admin role
+
+table field3 read Access Control for users with the it role
+
+ 
+32 min 58 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Assume a table called table exists and contains 3 fields:
+Control list for table:
+
+  
+
+ield1, field2, field3. Examine the Access
+
+table None read Access Control for users wth the admin and itt roles
+table.* read Access Control for users with the admin role
+
+table.field3 read Access Control for users wth thei role
+
+Which field or fields can a user with the itil role read?
++ AAllfields except field3
+
+: B.fieldi, field2, and field3
+
++ G field? and field3
+33 min 10 seconds
+
+%>%
+
+Assume a table called table exists and contains 3 fields: field1, field2, field3. Examine the Access
+Control list for table:
+
+table None read Access Control for users with the admin and it roles
+table * read Access Control for users with the admin role
+
+table field3 read Access Control for users with the it role
+
+Which field or fields can a user with the itl role read?
+A Allfields except field3
+
+B. field, field2, and field3
+
+field] and field3
+
+D. field3 only
+33 min 24 seconds
+
+%>%
+
+table fielg3 read Access Control for users withthe iti rola
+
+Which field or fields can a user with the itil role read?
++ A Allfields except field3
+
++ B.field1, field2, and field3
+
++ C.field1 and field
+
++ D-field3 only
+33 min 42 seconds
+
+%>%
+
+CORRECT ANSWER IS :- D
+33 min 44 seconds
+
+%>%
+
+Assume a table called table exists and contains 3 fields: field1, field2, field3. Examine the Access
+Control list for table:
+
+ 
+
+le.None read Access Control for users with the admin and iti roles
+
+table.eld3 read Access Control for users with the admin role
+
+Which field or fields can a user with the itil role read?
++ A field3 only
+33 min 48 seconds
+
+%>%
+
+Assume a table called table exists and contains 3 fields: field1, field2, field3. Examine the Access
+Control list for table:
+
+table None read Access Control for users wih the admin and itt roles
+
+table.el63 read Access Control for users with the admin role
+
+Which field or fields can a user with the itil role read?
++ A.field3 only
+
++ Bifiled? and fields
+
+. C. All fields
+
++ D.Allfields except field3 Most Voted
+34 min 0 seconds
+
+%>%
+
+CORRECT ANSWER IS :- D
+34 min 32 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which of the following is NOT a caller access field option?
++ A Caller Tracking
+
++ B Caller Restriction
+
++ C.None
+
++ D.Caller Permission Most Voted
+34 min 36 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which of the following is NOT a caller access field option?
+‘A. Caller Tracking
+
+B. Caller Restriction
+
+C. None
+
+D. Caller Permission Most Voted
+34 min 38 seconds
+
+%>%
+
+CORRECT ANSWER IS :- D
+35 min 0 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which method is used to retrieve Application Property values in a script?
+
+A. gs.getProperty() Most Voted
+B. g_form.getAppProperty()
+
+©. g_form.getProperty()
+
+D. gs.getAppProperty()
+35 min 4 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which method is used to retrieve Application Property values in a script?
++ A gs.getProperty() Most Voted
+
++ B.g_form.getAppProperty()
+
++ C.g-form.getProperty()
+
++ D.gs.getAppProperty()
+35 min 6 seconds
+
+%>%
+
+ear eee en oe ee ee
+D. gs.getAppProperty()
+
+CORRECT ANSWER IS :- A
+35 min 34 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+‘What Module Link type is used to access an Application Properties page?
+A Single Record
+B. HTML (from Arguments)
+
++ CLURL (from Arguments)
+D. Script (from Arguments)
+35 min 38 seconds
+
+%>%
+
+CORRECT ANSWER IS :- C
+36 min 6 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+36 min 8 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Identify the way(s) an application can respond to an Event generated by the gs.eventQueue() method.
+
+a. Script Action
+b. Scheduled Script Execution (Scheduled Job)
+c. UI Policy
+
+d. Email Notification
+
++ Abande
+
++ Be
+36 min 10 seconds
+
+%>%
+
+OT BS SAS) Sl Bp PCS GON! CORE ESOT 80 Gi EVGIN QO etee Oy Mie 9e-Cremvouey eu.
+
+a. Script Action
+b. Scheduled Script Execution (Scheduled Job)
+. UI Policy
+
+d. Email Notification
+
++ Abande
+
++ Be
+
++ C.aand d Most Voted
+: D.aandc
+36 min 44 seconds
+
+%>%
+
+C. aand d Most Voted
+D.aandc
+
+CORRECT ANSWER IS :- C
+37 min 2 seconds
+
+%>%
+
+C. aandd Most Voted
+D.aande
+
+CORRECT ANSWER IS :- C
+37 min 4 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+‘When troubleshooting and debugging notifications, where do you navigate to see if an email was sent
+m response to an event?
+
++ A. System Logs > Events
+
++B. System Logs > Emails
+
++ €. System Logs > Push Notifications.
+
++ __D. System Logs > ICE Logs
+37 min 6 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+‘When troubleshooting and debugging notifications, where do you navigate to see if an email was sent
+m response to an event?
+
++ "A System Logs > Events
+
++B. System Logs > Emails
+
++ C. System Logs > Push Notifications
+
++ __D. System Logs > ICE Logs
+37 min 8 seconds
+
+%>%
+
+ee eee ee
+D. System Logs > ICE Logs
+
+CORRECT ANSWER IS :- B
+37 min 36 seconds
+
+%>%
+
+CORRECT ANSWER IS :- B
+37 min 38 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+What are the benefits of storing the majority of an Application’s server-side script logic in a Script
+Include?
+
+a. This makes execution faster.
+. Only run when called from a script.
+
+ 
+
+ 
+37 min 40 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+What are the benefits of storing the majority of an Application’s server-side script logic in a Script
+Include?
+
+a. This makes execution faster.
+
+b. Only run when called from a script.
+
+c. The script logic can be hidden when the Application is installed from the ServiceNow Store. d. For
+some changes to application logic there is only one place to make edits.
+
++ Aa,bandd
+
++ Bab.c,andd
+
++ C.b,c, and d Most Voted
+
++ Dabandc
+37 min 42 seconds
+
+%>%
+
+‘What are the benefits of storing the majority of an Application’s server-side script logic in a Script
+Include?
+
+a. This makes execution faster.
+
+b. Only run when called from a script.
+
+¢. The script logic can be hidden when the Application is installed from the ServiceNow Store. d. For
+some changes to application logic there is only one place to make edits.
+
++ Aa,bandd
+
++ Ba,b,c,andd
+
++ C.b,¢, and d Most Voted
+
++ Dajbiande
+38 min 14 seconds
+
+%>%
+
+C.b,c, and d Most Voted
+D.a,b,andc
+
+CORRECT ANSWER IS :- C
+38 min 30 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which of the following is NOT a Flow Designer feature?
+
++ A. Runa flow from a Catalog item
++ B.Calla flow from another flow or subflow Most Voted
++ C.Add stages to a flow
+
+D. Test a flow using the “Run as" feature
+38 min 34 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which of the following is NOT a Flow Designer feature?
+
++ A Runa flow from a Catalog item
+
++ B.Calla flow from another flow or subflow Most Voted
++ C.Add stages to a flow
+
++. Test a flow using the “Run as" feature
+38 min 36 seconds
+
+%>%
+
+CORRECT ANSWER IS :- B
+39 min 2 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+What is the purpose of the coalesce field when importing data?
+
+ 
+
++ Alf amatch is not found, the existing record is updated
++B. Todetermine if a record matches an existing record or is a new record
++ C. Toidentify and merge duplicate records
+
+: D. When a match is found, a new record is inserted
+39 min 6 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+What is the purpose of the coalesce field when importing data?
++ A.lfamatch is not found, the existing record is updated
+
+B. To determine if a record matches an existing record or is a new record
+C. To identify and merge duplicate records
+
+D. When a match is found, a new record is inserted
+
+ 
+39 min 8 seconds
+
+%>%
+
+CORRECT ANSWER IS :-B
+39 min 38 seconds
+
+%>%
+
+ 
+
+B. ${variable_name}
+C. < variable name >.do?WSDL
+D.< variable_name >
+
+CORRECT ANSWER IS :- B
+39 min 40 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+If you create a SOAP Message what syntax indicates a variable to pass when the function is called?
++ Acurrent.variable name
+
++B. S(variable name}
+
++ C.<variable_name >.do?WSDL
+
++ D.< variable name >
+39 min 42 seconds
+
+%>%
+
+CORRECT ANSWER IS :- B
+39 min 56 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which of the following is NOT a way to install an application on a ServiceNow instance?
++ A Install an application from the Application Repository
+
++ B.Select the Copy button on the application record Most Voted
+
+BR TRarmnmntened a 8 hecilll am sneerailinet ikem Sorarr:ca Piarsitniiaians'#iuaee wanain ido:
+40 min 0 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which of the following is NOT a way to install an application on a ServiceNow instance?
++ A Install an application from the Application Repository
+
++B Select the Copy button on the application record Most Voted
+
++ C. Download and install an application from the ServiceNow Share web site
+
++ D. Download and install a third-party application from the ServiceNow Store
+40 min 2 seconds
+
+%>%
+
+D. Download and instal
+
+party application from the Servi
+
+ 
+
+Now Store
+
+   
+
+CORRECT ANSWER IS :- B
+40 min 36 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Using Custom U! test step in Automated Test Framework, which of the following is NOT a testable
+Page component?
+
++ A Buttons
+
++ B.Ulcontrols
+
++ C.Utpages
+
++ D. Form field values
+40 min 38 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Using Custom UI test step in Automated Test Framework, which of the following is NOT a testable
+Page component?
+
++ A Buttons
+
+@ B. Ul controls.
+
++ C.Ulpages
+
+. D. Form field values
+40 min 40 seconds
+
+%>%
+
+CORRECT ANSWER IS :- D
+41 min 4 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Flow Designer supports variable data types to store record data and complex data. Which of the
+following are supported variable data types? (Choose three.)
+
++ A Choice data type Most Voted
+
+B. Array.Reference data type
+
+C. Integer data type Most Voted
+
+D. Freedom data type
+
+E. Array.Boolean data type Most Voted
+
+F. Label data type
+41 min 8 seconds
+
+%>%
+
+CORRECT ANSWER IS :- A, C and E
+41 min 44 seconds
+
+%>%
+
+41 min 48 seconds
+
+%>%
+
+CORRECT ANSWER IS :- A, C and E
+41 min 58 seconds
+
+%>%
+
+ServiceNow CAD
+42 min 10 seconds
+
+%>%
+
+Which of the following statements is true for the Form Designer? a) To add a field to the form layout,
+drag the field from the Fields tab to the desired destination on the form. b) To create a new field on a
+form's table, drag the appropriate data type from the Field Types tab to the form and then configure
+the new field. c) To remove a field from the form layout, hover over the field to enable the Action
+
+buttons, and select the Delete (X) button. d) To add a section to the form layout, drag it from the Field
+Types tab to the desired destination on the form.
+
++ Aa,b,c,andd
+
++ B.b,c,andd
+
++ Cab,andd
+42 min 48 seconds
+
+%>%
+
+NEXT QUESTION IS :
+
+Which of the following statements is true for the Form Designer? a) To add a field to the form layout,
+drag the field from the Fields tab to the desired destination on the form. b) To create a new field on a
+form's table, drag the appropriate data type from the Field Types tab to the form and then configure
+‘the new field. c) To remove a field from the form layout, hover over the field to enable the Action
+
+buttons, and select the Delete (X) button. d) To add a section to the form layout, drag it from the Field
+
+ 
+
+ 
+42 min 50 seconds
+
+%>%
+
+ 
+
+fame
+the new field. c) To remove a field from the form layout, hover over the field to enable the Action
+
+buttons, and select the Delete (X) button. d) To add a section to the form layout, drag it from the Field
+Types tabto the desired destination onthe form.
+‘Aab,c,andd
+. B.b,c,andd
+s C.a,b,andd
++ Dabande
+43 min 26 seconds
+
+%>%
+
+D.a,b,andc
+
+CORRECT ANSWER IS :- D
+44 min 2 seconds
+
+%>%
+
+NEXT QUESTION IS :
+
+Which of the following are configured in an Email Notification? a) Who will receive the notification. b)
+
+ee ee ete a ee ae gk eee ne
+
+ 
+44 min 4 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which of the following are configured in an Email Notification? a) Who will receive the notification. b)
+What content will be in the notification. c) When to send the notification. d) How to send the
+notification.
+
++ Aabande
+
++ Ba,b,andd
+
++ C.bcandd
+
++ Diacandd
+44 min 6 seconds
+
+%>%
+
+CORRECT ANSWER IS :- A
+44 min 44 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+To see what scripts, reports, and other application artifacts will be in a published application:
+
++ A.Enter the name of the Application in the Global search field
+: B. Open the list of Update Sets for the instance
+. C. Examine the Application Files Related List in the application to be published Most Voted
+
+D. Open the artifact records individually to verify the value in the Application field
+44 min 50 seconds
+
+%>%
+
+NEXT QUESTION IS
+
+To see what scripts, reports, and other application artifacts will be in a published application:
+
+ 
+
+ 
+
++ A.Enter the name of the Application in the Global search field
++B. Open the list of Update Sets for the instance
++ C. Examine the Application Files Related List in the application to be published Most. Voted
+
+ 
+
+D. Open the artifact records individually to verify the value in the Application field
+45 min 4 seconds
+
+%>%
+
+ 
+
+NEXT QUESTION IS :
+
+To see what scripts, reports, and other application artifacts will be in a published application:
+
++ AEnter the name of the Application in the Global search field
++B. Open the list of Update Sets for the instance
++ C. Examine the Application Files Related List in the application to be published Most Voted
+
+: D. Open the artifact records individually to verify the value in the Application field
+45 min 6 seconds
+
+%>%
+
+CORRECT ANSWER IS :- C
+45 min 32 seconds
+
+%>%
+
+NEXT QUESTION IS :
+
+Which one of the following is NOT a debugging strategy for client-side scripts?
+. A. g_form.addinfoMessage()
+
++B Field Watcher
+
++ C.jstog0
+
++ D.gs.log()
+45 min 36 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which one of the following is NOT a debugging strategy for client-side scripts?
++ Ag-form.addinfoMessage()
++B Field Watcher
+C. jslog)
++ D.gsiog),
+45 min 38 seconds
+
+%>%
+
+    
+ 
+
++ A.g-form.addinfoMessage()
+
++ B.Field Watcher
++ C.jsloa0
++ D.gs.og()
+
+CORRECT ANSWER IS :- D
+46 min 16 seconds
+
+%>%
+
+MOS
+
+CORRECT ANSWER IS :- D
+46 min 18 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which Application Access configuration field(s) are NOT available if the Can read configuration field is
+NOT selected?
+
++ A Allaccess to this table via web services
++ B.Can create, Can update, and Can delete Most Voted
++ C.Can read does not affect the availability of other Application Access fields
+
+D. Allow configuration
+46 min 20 seconds
+
+%>%
+
+CORRECT ANSWER IS :- B
+46 min 58 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which of the following is NOT a trigger type in Flow Designer?
++ A Outbound Email
+
++B. Application
+
++ C.Record
+
++ D. Schedule
+47 min 2 seconds
+
+%>%
+
+CORRECT ANSWER IS :- A
+47 min 28 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+When creat
+
+ 
+
+new application files in a scoped application, cross scope access is turned on by
+
+  
+
+default in which of the following?
++ A.REST messages
+
++ B.Table
+
++ C.Script include
+
++ D. Workflow
+47 min 32 seconds
+
+%>%
+
+NEXT QUESTION IS
+
+When creating new application files in a scoped application, cross scope access is turned on by
+default in which of the following?
+
+. A. REST messages
+
+. B. Table
+
++ GC. Script Include
+
+. D. Workflow
+
+ 
+
+  
+47 min 58 seconds
+
+%>%
+
+CORRECT ANSWER IS :- B
+48 min 0 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+In an Email Notification, which one of the following is NOT true for the Weight field?
+
++ A Only Notifications with the highest weight for the same record and recipients are sent
+
++ B.A Weight value of zero means that no email should be sent Most Voted
+
++ C. The Weight value defaults to zero
+
++ _D.AWeight value of zero means the Notification is always sent when the Notification's When
+
+to send criteria is met
+48 min 4 seconds
+
+%>%
+
+ 
+
+NEXT QUESTION IS :
+
+In an Email Notification, which one of the following is NOT true for the Weight field?
+
++ A Only Notifications with the highest weight for the same record and recipients are sent
+
+: B. A Weight value of zero means that no email should be sent Most Voted
+
+: C. The Weight value defaults to zero
+
+: D. A Weight value of zero means the Notification is always sent when the Notification’s When
+
+to send criteria is met
+48 min 42 seconds
+
+%>%
+
+CORRECT ANSWER IS :-B
+48 min 44 seconds
+
+%>%
+
+CORRECT ANSWER IS :- B
+48 min 46 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which of the following objects does a Display Business Rule NOT have access to?
+
++ A previous
++ B.Glidesystem
++ C.g.scratchpad
++ D.current
+48 min 48 seconds
+
+%>%
+
+NEXT QUESTION IS
+
+Which of the following objects does a Display Business Rule NOT have access to?
+‘A. previous
+
+B. GlideSystem
+
+©. g_scratchpad
+
+D. current
+
+ 
+48 min 50 seconds
+
+%>%
+
+A. previous
+
+B. GlideSystem
++ C.g.scratchpad
++ D.current
+
+CORRECT ANSWER IS :- A
+49 min 14 seconds
+
+%>%
+
+CORRECT ANSWER IS :- A
+49 min 16 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which of the following features are available to Global applications? (Choose two.)
++ A Automated Test Framework
+
++B. Source Control
+
++ C. Delegated Development
+
++ D.Flow Designer
+49 min 18 seconds
+
+%>%
+
+CORRECT ANSWER IS :- A and D
+49 min 46 seconds
+
+%>%
+
+49 min 50 seconds
+
+%>%
+
+ 
+
+NEXT QUESTION IS :
+Which one of the following is NOT a UI Action type?
++ Allist choice
+
++ B.Form button
+
++ C.List banner button
+
++ _D.Form choice
+49 min 52 seconds
+
+%>%
+
+NEXT QUESTION IS :
+
+Which one of the following is NOT a UI Action type?
++ Allist choice
+
++ B.Form button
+
++ C.List banner button
+
++ D.Form choice
+50 min 14 seconds
+
+%>%
+
+ 
+
+CORRECT ANSWER IS :- D
+50 min 16 seconds
+
+%>%
+
+NEXT QUESTION IS
+
+ 
+
+Which of the following is NOT supported by Flow Designer?
++ A Calla subflow from a flow
+
++B. Testa flow with rollback
+
++ C.Use Delegated Developer
+
+ 
+50 min 20 seconds
+
+%>%
+
+D. Run a flow from a MetricBase Trigger
+50 min 50 seconds
+
+%>%
+
+CORRECT ANSWER IS :- B
+50 min 52 seconds
+
+%>%
+
+NEXT QUESTION IS :
+
+Which of the following are true for reports in ServiceNow? (Choose three.)
+
+‘A. Any user can see any report shared with them.
+
+B. Can be a graphical representation of data. Most Voted
+
+C. All users can generate reports on any table.
+
+D. Can be run on demand by authorized users. Most Voted
+
+E. Can be scheduled to be run and distributed by email. Most Voted
+50 min 54 seconds
+
+%>%
+
+NEXT QUESTION IS :
+
+Which of the following are true for reports in ServiceNow? (Choose three.)
+
+‘A. Any user can see any report shared with them.
+
+B. Can be a graphical representation of data. Most Voted
+
+C. All users can generate reports on any table.
+
+. Can be run on demand by authorized users. Most Voted
+
+E.Can be scheduled to be run and distributed by email. Most Voted
+50 min 56 seconds
+
+%>%
+
+Which of the following are true for reports in ServiceNow? (Choose three.)
+
++ A Any user can see any report shared with them.
++B. Can bea graphical representation of data. Most Voted
++ C.Alllusers can generate reports on any table.
+
++ D. Can be run on demand by authorized users. Most Voted
+
+. E. Can be scheduled to be run and distributed by email. Most Voted
+51 min 38 seconds
+
+%>%
+
+& Mee ee ey ES CU ETON eae et
+
+ 
+
++ C.Alllusers can generate reports on any table,
++ D. Can be run on demand by authorized users. Most Voted
++E, Can be scheduled to be run and distributed by email. Most Voted
+
+CORRECT ANSWER IS :- B,D and E
+51 min 40 seconds
+
+%>%
+
+NEXT QUESTION IS :
+
+Modules must have a Link type. Which one of the following is a list of Link types?
++ A. List of Records, Separator, Catalog Type, Roles
+
++B. Assessment, List of Records, Separator, Timeline Page
+
++ C.List of Records, Content Page, Order, URL (from arguments’)
+
++ D. Assessment, List of Records, Content Page, Roles
+51 min 44 seconds
+
+%>%
+
+ 
+
+NEXT QUESTION IS :
+
+Modules must have a Link type. Which one of the following is alist of Link types?
++ ALList of Records, Separator, Catalog Type, Roles
+
++ B.Assessment, List of Records, Separator, Timeline Page
+
++ C.List of Records, Content Page, Order, URL (from arguments:)
+
++ D. Assessment, List of Records, Content Page, Roles
+51 min 46 seconds
+
+%>%
+
+U. Assessment, List OF Records, Content Page, Roles
+
+CORRECT ANSWER IS :- B
+52 min 30 seconds
+
+%>%
+
+NEXT QUESTION IS
+
+ 
+
+When working in the Form Designer, configuring the label of a field in a child table changes the label
+on which table(s)?
+
++ A.base table
+
++ B.child table
+
++ C. parent table
+
++ Dialltables
+52 min 34 seconds
+
+%>%
+
+53 min 2 seconds
+
+%>%
+
+CORRECT ANSWER IS :- B
+53 min 4 seconds
+
+%>%
+
+ServiceNow CAD
+53 min 10 seconds
+
+%>%
+
+ 
+
+NEXT QUESTION IS
+
+Which one of the following is true?
+‘A.AUIPolicy’s Actions execute before the UI Policy's Scripts Most Voted
+
+B. The execution order for a UI Policy's Scripts and Actions is determined/at runtime:
+
+C. AUI Policy's Scripts execute before the UI Policy's Actions
+
+D. AUI Policy's Actions and Scripts execute at the same time
+53 min 42 seconds
+
+%>%
+
+ne
+
+CORRECT ANSWER IS :- A
+54 min 24 seconds
+
+%>%
+
+NEXT QUESTION IS
+
+Here is the Business Rule script template:
+(function executeRule (current, previous */null when async*/) {
+
+ 
+54 min 28 seconds
+
+%>%
+
+NEXT QUESTION IS :
+
+Here is the Business Rule script template:
+(function executeRule (current, previous */null when async*/) {
+
+)) (current, previous);
+
+This type of JavaScript function is known as:
++ A.Constructor
+
++ B.Scoped
+
++ C. Anonymous
+
++ D. Self-invoking Most Voted
+54 min 30 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Here is the Business Rule script template:
+(function executeRule (current, previous */null when async*/) {
+
+}) (current, previous);
+
+This type of JavaScript function is known as:
++ A.Constructor
+
++ B.Scoped
+
++ C. Anonymous
+
++ D.Self-invoking Most Voted
+54 min 38 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Here is the Business Rule script template:
+(function executeRule (current, previous */null when async*/) (
+
+}) (current, previous);
+
+This type of JavaScript function is known as:
+
++ A.Constructor
++ B.Scoped
++ C.Anonymous
+
+. D. Self-invoking Most Voted
+54 min 40 seconds
+
+%>%
+
+CORRECT ANSWER IS :- D
+55 min 2 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which method call returns true only if the currently logged in user has the catalog_admin role and in
+no other case?
+
++ A.g.userhasRole(catalog_admin)
+: B. g_userhasRoleExactly(catalog_admin) Most Voted
+. C. g_userhasRoleOnly(catalog_admin)
+
+D. g_userhasRoleFromList(catalog_admin)
+55 min 6 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which method call returns true only if the currently logged in user has the catalog_admin role and in
+no other case?
+
++ A.guserhasRole(catalog_admin)
++ B.guserhasRoleExactly(catalog_admin)) Most Voted
++ C.g.userhasRoleOnly(‘catalog_admin’)
+
+D. g_user.hasRoleFromList(catalog_admin)
+55 min 8 seconds
+
+%>%
+
+NEXT QUESTION IS
+
+Which method call returns true only if the currently logged in user has the catalog_admin role and in
+no other case?
+
+ 
+
++ A.guserhasRole(catalog_admin))
++ B.g_userhasRoleExactly(catalog_admin’) Most Voted
++ C.g_userhasRoleOniy(‘catalog_admin’)
+
++ D.g-userhasRoleFromList(catalog_admin))
+55 min 42 seconds
+
+%>%
+
+no other case?
+
++ A.g_userhasRole(catalog_admin)
++ B.g-userhasRoleExactly(catalog_admin)) Most Voted
++ C.g.userhasRoleOnly(‘catalog_admin’)
+
+: D. g_userhasRoleFromList(catalog_admin)
+55 min 44 seconds
+
+%>%
+
+CORRECT ANSWER IS :- B
+55 min 46 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+‘There is a basic strategy when creating a Utils Script Include. Identify the step that does not belong,
++ A.ldentify the table
+
++B. Script the function(s)
+
+. C. Create a class
+
++ D. Create a prototype object from the new class
+55 min 50 seconds
+
+%>%
+
+CORRECT ANSWER IS :- A
+56 min 20 seconds
+
+%>%
+
+NEXT QUESTION I:
+
+Which roles grant access to source control repository operations such as importing applications from
+source control, or
+pe ES
+
+ 
+
+ 
+56 min 24 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+  
+
+‘ontrol repository operations such as importing applications from
+source control, or linking an application to source control?
+
+(Choose two.)
+
+‘A. source_control
++B. source_control_admin
++ C.admin
+
++ Digitadmin
+56 min 26 seconds
+
+%>%
+
+NEXT QUESTION IS :
+
+Which roles grant access to source control repository operations such as importing applications from
+source control, or linking an application to source control?
+
+(Choose two.)
+
+‘A. sourcecontrol
++B. source_controladmin
++ C.admin
+
++ D.gitadmin
+56 min 58 seconds
+
+%>%
+
+ee
+
+CORRECT ANSWER IS :- A and C
+57 min 0 seconds
+
+%>%
+
+NEXT QUESTION I:
+
+ 
+
+When configuring the content of an Email Notification, which syntax should be used to reference the
+properties of an event triggering the Notification?
+‘A Slevent.<property name>} Most Voted
+- B. S{current.<property name>}
++ C.${<property name> getDisplayValueQ))
++ D.S{gs.<property name>)
+57 min 4 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+When configuring the content of an Email Notification, which syntax should be used to reference the
+properties of an event triggering the Notification?
+‘A Slevent.<property name>} Most Voted
++ B.S{current.<property name>)
++ C.${<property name>.getDisplayValueQ)}
+. D. S{gs.<property name>}
+57 min 6 seconds
+
+%>%
+
+57 min 24 seconds
+
+%>%
+
+CORRECT ANSWER IS :- A
+57 min 26 seconds
+
+%>%
+
+NEXT QUESTION IS :
+
+Which one of the following is true for a Script Include with a Protection Policy value of Protected?
++ A-Any user with the protected_edit role can see and edit the Script Include
+
+      
+57 min 28 seconds
+
+%>%
+
+NEXT QUESTION IS
+
+Which one of the following is true for a Script Include with a Protection Policy value of Protected?
++ A-Any user with the protected_edit role can see and edit the Script include
+
+ 
+
++B. The Protection policy option can only be enabled by a user with the admin role
++ C. The Protection Policy is applied only if the glide.app. apply_protection system property value
+istrue
+
++ D. The Protection Policy is applied only if the application is downloaded from the ServiceNow
+
+App Store Most Voted
+57 min 30 seconds
+
+%>%
+
+CORRECT ANSWER IS :- D
+58 min 16 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which one of the following is true for GlideUser (g_user) methods?
++ A.Can be used in Client Scripts and UI Policies only
+
++ B.Can be used in Business Rules only
+
++ C.Can be used in Client Scripts, UI Policies, and UI Actions
++ D. Can be used in Business Rules, and Scripts Includes
+58 min 20 seconds
+
+%>%
+
+C. Can be used in Client Scripts, UI Policies, and UI Actions
+D. Can be used in Business Rules, and Scripts Includes
+
+CORRECT ANSWER IS :- C
+58 min 52 seconds
+
+%>%
+
+CORRECT ANSWER IS :- C
+58 min 54 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+When configuring a module, what does the Override application menu roles configuration option do?
++ A.Users with the module role but without access to the application menu access the module
+Most Voted
+
++B Self-Service users can access the module even though they do not have roles
+58 min 56 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+When configuring a module, what does the Override application menu roles configuration option do?
+
++ A.Users with the module role but without access to the application menu access the module
+Most Voted
+
+: B. Self-Service users can access the module even though they do not have roles
+
+: C. Admin is given access to the module even if Access Controls would ordinarily prevent
+
+‘access
+59 min 18 seconds
+
+%>%
+
+When configuring a module, what does the Override application menu roles configuration option do?
+
++ A.Users with the module role but without access to the application menu access the module
+Most Voted
+
++B Self-Service users can access the module even though they do not have roles
+
++ C. Admin is given access to the module even if Access Controls would ordinarily prevent
+access
+
++ D.Users with access to the application menu can see the module even if they don't have the
+
+module role
+59 min 20 seconds
+
+%>%
+
+B. Self-Service users can access the module even though they do not have roles.
+
+ 
+
+access
+
+C. Admin is given access to the module even if Access Controls would ordinarily prevent
+
+D. Users with access to the application menu can see the module even if they don't have the
+module role
+59 min 24 seconds
+
+%>%
+
++ C. Adminis given access to the module even if Access Controls would ordinarily prevent
+access
+
++ D. Users with access to the application menu can see the module even if they don't have the
+module role
+59 min 40 seconds
+
+%>%
+
+CORRECT ANSWER IS :- A
+59 min 42 seconds
+
+%>%
+
+NEXT QUESTION IS
+
+ 
+
+Which platform feature can be used to determine the relationships between field in an Import Set table
+to field in an existing ServiceNow table?
+
++ A Business Service Management Map
++ B.Data Sources
++ C. Transform Map
+
+D. Cl Relationship Builder
+59 min 46 seconds
+
+%>%
+
+CORRECT ANSWER IS :- C
+1 h 0 min 18 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+When configuring a REST Message, the Endpoint is:
+
++ A. The commands to the REST script to stop execution
+: B. The URI of the data to be accessed, queried, or modified
+: C. Information about the format of the returned data
+
+. D. The response from the provider indicating there is no data to send back
+1 h 0 min 22 seconds
+
+%>%
+
+NEXT QUESTION IS
+
+ 
+
+ 
+
+When configuring a REST Message, the Endpoint is:
+‘A. The commands to the REST script to stop execution
+
+B. The URI of the data to be accessed, queried, or modified
+
+C. Information about the format of the returned data
+
+D. The response from the provider indicating there is no data to send back
+
+ 
+1 h 0 min 24 seconds
+
+%>%
+
+   
+
+ 
+
+‘A. The commands to the REST script to stop execution
+
+B. The URI of the data to be accessed, queried, or modified
+C. Information about the format of the returned data
+
+D. The response from the provider indicating there is no data to send back
+
+ 
+
+CORRECT ANSWER IS :- B
+1 h 0 min 56 seconds
+
+%>%
+
+CORRECT ANSWER IS :- B
+1 h 0 min 58 seconds
+
+%>%
+
+When evaluating Access Controls, ServiceNow searches and evaluates:
+
++ A Only for matches on the current table
++B. Only for matches on the current field
++ C. From the most specific match to the most generic match Most Voted
+
++ __D.From the most generic match to the most specific match
+1 h 1 min 2 seconds
+
+%>%
+
+- een eee ee te eee nee eee ert ee ee Lee eee eee
+. D. From the most generic match to the most specific match
+
+CORRECT ANSWER IS :- C
+1 h 1 min 34 seconds
+
+%>%
+
+CORRECT ANSWER IS :- C
+1 h 1 min 36 seconds
+
+%>%
+
+ 
+
+NEXT QUESTION IS :-
+1 h 1 min 38 seconds
+
+%>%
+
+NEXT QUESTION I:
+
+ 
+
+Ina Business Rule, which one of the following returns true if the currently logged in user has the admin
+role?
+
++ A.g-form.hasRoleExactiy(admin)
+
++B. gs.hasRole(‘admin’) Most Voted
+
++ C.g-form.hasRole(‘admin’)
+
++ D.gs.hasRoleExactly(‘admin))
+1 h 1 min 40 seconds
+
+%>%
+
+CORRECT ANSWER IS :- B
+1 h 1 min 56 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+From the list below, identify one reason an application might NOT be a good fit with ServiceNow.
+The application:
+
++ A. Needs workflow to manage processes
+. B. Requires a€as-isx€ use of low-level programming libraries
+: C. Requires reporting capabilities
+
+D. Uses forms extensively to interact with data
+1 h 2 min 0 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+From the list below, identify one reason an application might NOT be a good fit with ServiceNow.
+The application:
+
++ ‘A.Needs workflow to manage processes
++B. Requires a€as-isa€ use of low-level programming libraries
++ C. Requires reporting capabilities
+
+D. Uses forms extensively to interact with data
+1 h 2 min 2 seconds
+
+%>%
+
+CORRECT ANSWER IS :- B
+1 h 2 min 38 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Identify the incorrect statement about Delegated Development in ServiceNow.
+
++ A Administrators can grant non-admin users the ability to develop global applications. Most
+Voted
+
++B. Administrators can specify which application file types the developer can access.
+
++ C. Administrators can grant the developer access to script fields.
+
++ D.Administrators can grant the developer access to security records.
+1 h 2 min 42 seconds
+
+%>%
+
+CORRECT ANSWER IS :- A
+1 h 3 min 24 seconds
+
+%>%
+
+ 
+
+NEXT QUESTION IS :
+
+One of the uses of the ServiceNow REST API Explorer is:
+
++ A. Practice using REST to interact with public data providers
+
+. B. Find resources on the web for learning about REST
+
++ ©. Convert SOAP Message functions to REST methods
+
+: D. Create sample code for sending REST requests to ServiceNow
+
+Hide Solution Discussion
+1 h 3 min 28 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+One of the uses of the ServiceNow REST API Explorer is:
++ A. Practice using REST to interact with public data providers
+
+. B. Find resources on the web for learning about REST
+: C. Convert SOAP Message functions to REST methods
+: D. Create sample code for sending REST requests to ServiceNow
+
+Hide Solution Discussion
+1 h 4 min 0 seconds
+
+%>%
+
+CORRECT ANSWER IS :- D
+1 h 4 min 2 seconds
+
+%>%
+
+ServiceNow CAD
+1 h 4 min 6 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which one of the following is true regarding Application Scope?
++ A Alllapplications are automatically part of the Global scope
+
++B. Applications downloaded from 3 party ServiceNow application developers cannot have
+naming conflicts rd Most Voted
+
++ C.Any developer can edit any application
+
++ D. Developers can choose the prefix for a scope's namespace
+
+ 
+1 h 4 min 36 seconds
+
+%>%
+
+ileal alate iii geal ear pc nan, cali Alaphs es i oe ee
++ A.Allapplications are automatically part of the Global scope
+
++B Applications downloaded from 3 party ServiceNow application developers cannot have!
+naming conflicts rd Most Voted
+
++ C. Any developer can edit any application
+
++ _D. Developers can choose the prefix for a scope's namespace
+
+cas ae aes
+1 h 5 min 12 seconds
+
+%>%
+
+* ©. Any developer can edit any application
++ D. Developers can choose the prefix for a scope's namespace
+
+CORRECT ANSWER IS :-B
+1 h 5 min 14 seconds
+
+%>%
+
+PUREE PCO TUES US 6”
+1 h 5 min 16 seconds
+
+%>%
+
+NEXT QUESTION IS
+
+Which one of the following is the baseline behavior of a table in a privately-scoped application?
+
+ 
+
++ A The table and its data are not accessible using web services
++B. Any Business Rule can read, write, delete, and update from the table
++ C. Only artifacts in the table's application can read from the table
+
++ D.Allapplication scopes can read from the table
+1 h 5 min 18 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which one of the following is the baseline behavior of a table in a privately-scoped application?
+‘A. The table and its data are not accessible using web services
+
+B. Any Business Rule can read, write, delete, and update from the table
+
+C. Only artifacts in the table's application can read from the table
+
+D. Alll application scopes can read from the table
+1 h 5 min 20 seconds
+
+%>%
+
+pur ad ta emer iderit ie aol es ae i atertconpeeh ttc ceelh delay leet air nicer
+B, Any Business Rule can read, write, delete, and update from the table
+C. Only artifacts in the table's application can read from the table
+
+D. Alll application scopes can read from the table
+
+ 
+
+CORRECT ANSWER IS :- D
+1 h 5 min 54 seconds
+
+%>%
+
+CORRECT ANSWER IS :- D
+1 h 5 min 56 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which one of the following is NOT a purpose of application scoping?
+
++ A. Provide a relationship between application artifacts
+
++B. Provide a way of tracking the user who developed an application Most Voted
+SoC a a i a a
+1 h 5 min 58 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which one of the following is NOT a purpose of application scoping?
+
++ A. Provide a relationship between application artifacts
+
++B. Provide a way of tracking the user who developed an application Most Voted
+
++ ©. Provide a namespace (prefix and scope name) to prevent cross application name collisions
++ D. Provide controls for how scripts from another scope can alter tables in a scoped application
+1 h 6 min 0 seconds
+
+%>%
+
+CORRECT ANSWER IS :- B
+1 h 6 min 38 seconds
+
+%>%
+
+NEXT QUESTION IS
+
+Itis best practice to define the business requirements and the process(es) an application will manage
+{as part of the application development plan, What are some of the considerations to document as
+part of the business process?
+
+ 
+
++ A Business problem, data input/output, users/stakeholders, and process steps:
++ B.Business problem, data input/output, project schedule, and process steps
++ ©. Business problem, data input/output, users/stakeholders, and database capacity
+
++ D. Business problem, users/stakeholders, available licenses, and database capacity
+1 h 6 min 42 seconds
+
+%>%
+
+CORRECT ANSWER IS :- A
+1 h 7 min 44 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which of the following statements does NOT apply when extending an existing table?
+
++ A The parent table's Access Controls are evaluated when determining access to the new
+table's records and fields
+
++B, The new table inherits the functionality built into the parent table
+1 h 7 min 48 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which of the following statements does NOT apply when extending an existing table?
+
++ A The parent table's Access Controls are evaluated when determining access to the new
+table's records and fields
+
++B, The new table inherits the functionality built into the parent table
+
++ C. The new table inherits all of the fields from the parent table
+
++ __D. You must script and configure all required behaviors Most Voted
+1 h 7 min 50 seconds
+
+%>%
+
+D. You must script and configure all required behaviors Most Voted
+
+CORRECT ANSWER IS :-D
+1 h 8 min 28 seconds
+
+%>%
+
+CORRECT ANSWER IS :- D
+1 h 8 min 30 seconds
+
+%>%
+
+NEXT QUESTION IS
+
+Which of the following CANNOT be debugged using the Field Watcher?
++ A.Business Rules
+
++B. Script Includes
+
++ C. Client Scripts
+
++ D. Access Controls
+
+ 
+1 h 8 min 32 seconds
+
+%>%
+
+CORRECT ANSWER IS :-B
+1 h 8 min 54 seconds
+
+%>%
+
+CORRECT ANSWER IS :- B
+1 h 8 min 56 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which objects can be used in Inbound Action scripts?
+
++ A.current and previous
++B. current and email Most Voted
++ C.current and event
+
++ D.current and producer
+1 h 8 min 58 seconds
+
+%>%
+
+CORRECT ANSWER IS :-B
+1 h 9 min 24 seconds
+
+%>%
+
+CORRECT ANSWER IS :- B
+1 h 9 min 26 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which one of the following is part of the client-side scripting API?
+
+‘A. workflow.scratchpad
+
+B. GlideUser object (g_user) Most Voted
+C. current and previous objects
+
+D. GlideSystem object (gs)
+1 h 9 min 28 seconds
+
+%>%
+
+CORRECT ANSWER IS :- B
+1 h 9 min 54 seconds
+
+%>%
+
+NEXT QUESTION I:
+
+ 
+
+Application developers configure Ser
+
+seNow using industry standard JavaScript to")
+
+ 
+1 h 9 min 56 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Application developers configure ServiceNow using industry standard JavaScript to’t
+
++ A.Enable the right-click to edit the context menus on applications in the navigator
++B. Extend and add functionality
++ ©. Customize the organization's company logo and banner text
+
+ 
+
+. Configure the outgoing email display name
+Hide Solution Discussion
+1 h 9 min 58 seconds
+
+%>%
+
+CORRECT ANSWER IS :- B
+1 h 10 min 34 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+How many applications menus can an application have?
+
++ A.3,one for an application's user modules, one for an application's administrator modules, and
+‘one for the ServiceNow administrator's modules
+
++ B.As many as the application design requires Most Voted
+
++ C.2,one for an application's user modules and one for an application's administrator modules.
+
++ _D.1, which is used for all application modules
+1 h 10 min 38 seconds
+
+%>%
+
+ease eee ewes ee sy
+
+How many applications menus can an application have?
+
++ A.3,one for an application's user modules, one for an application's administrator modules, and
+‘one for the ServiceNow administrator's modules
+
++B. As manyas the application design requires Most Voted
+
++ C.2,one for an application's user modules and one for an application's administrator modules.
+
++ D.1, which is used for all application modules
+1 h 11 min 22 seconds
+
+%>%
+
+CORRECT ANSWER IS :- B
+1 h 11 min 24 seconds
+
+%>%
+
+1 h 11 min 26 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+‘The source control operation used to store local changes on an instance for later application is called
+
+a(n) <blank>.
++ A.Branch
++ BTag
+
++ C.Stash
+
+D. Update set
+1 h 11 min 28 seconds
+
+%>%
+
+  
+ 
+
+‘A. Branch
+
+D. Update set
+
+CORRECT ANSWER IS :- C
+1 h 11 min 50 seconds
+
+%>%
+
+CORRECT ANSWER IS :- C
+1 h 11 min 52 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+What syntax is used in a Record Producer script to access values from Record Producer form fields?
+
++ A.producerfield_name
++B. producer.variablename
+mi C. current.variable_name
+
++ D.current.field_name
+1 h 11 min 54 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+What syntax is used in a Record Producer script to access values from Record Producer form fields?
+‘A. producerfield_name
+
+B. producer.variablename
+
+C. current.variable_name
+
+D. current.field_name
+1 h 11 min 56 seconds
+
+%>%
+
+ 
+1 h 12 min 20 seconds
+
+%>%
+
+CORRECT ANSWER IS :- B
+1 h 12 min 22 seconds
+
+%>%
+
+ae a
+
+NEXT QUESTION IS :
+
+ 
+1 h 12 min 24 seconds
+
+%>%
+
+NEXT QUESTION |:
+
+ 
+
+Which of the following methods prints a message on a blue background to the top of the current form
+by default?
++ Ag-form.addinfoMsg0
+
++ B.g_form.addinfoMessage() Most Voted
++ C.g_form.showFieldMessage()
+
++ D.g_form.showFieldMsg()
+1 h 12 min 26 seconds
+
+%>%
+
+B. g_form.addinfoMessage() Most Voted
++ C.g.form.showFieldMessage()
+D. g_form.showFieldMsg()
+
+ 
+
+CORRECT ANSWER IS :- B
+1 h 12 min 40 seconds
+
+%>%
+
+CORRECT ANSWER IS :- B
+1 h 12 min 42 seconds
+
+%>%
+
+1 h 12 min 46 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+‘A scoped application containing Flow Designer content dedicated to a particular application is called
+a(n):
+
++ ‘A. Spoke Most Voted
+
+* B. Bundle
+
+* C. Action
+
+a ‘D. Flow
+1 h 12 min 48 seconds
+
+%>%
+
+CORRECT ANSWER IS :- A
+1 h 13 min 12 seconds
+
+%>%
+
+NEXT QUESTION IS
+
+ 
+
+What is a Module?
++ A The functionality within an application menu such as opening a page in the content frame or
+
+‘a separate tab or
+
+   
+1 h 13 min 16 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+What is a Module?
+
++ A. The functionality within an application menu such as oper
+‘a separate tab or window Most Voted
+
++" B. Agroup of menus, or pages, providing related information and functionality to end-users
+
+ly access information and services by filtering the items in the
+
+‘a page in the content frame or
+
+ 
+
+ 
+1 h 13 min 18 seconds
+
+%>%
+
+What is a Module?
++ A. The functionality within an application menu such as oper
+‘a separate tab or window Most Voted
++B. Agroup of menus, or pages, providing related information and functionality to end-users
+C. Away of helping users quickly access information and services by filtering the items in the
+
+ 
+
+page in the content frame or
+
+Application Navigator
++ __D.Aweb-based way of providing software to end-users
+1 h 13 min 50 seconds
+
+%>%
+
+D. A web-based way of providing software to end-users
+
+CORRECT ANSWER IS :- A
+1 h 14 min 2 seconds
+
+%>%
+
+ServiceNow CAD
+1 h 14 min 8 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which source control operation is available from BOTH Studio and the Git Repository?
++A Create Branch Most Voted
+
++B. Apply Remote Changes
+
++ C.Stash Local Changes
+
++ D.Edit Repository Configurations
+1 h 14 min 38 seconds
+
+%>%
+
+D. Edit Repository Configurations
+
+CORRECT ANSWER IS :- A
+1 h 15 min 10 seconds
+
+%>%
+
+1 h 15 min 14 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which one of the following is NOT required to link a ServiceNow application to a Git repository?
++ A Password
+
++ BURL
++ C.User name
++ _D. Application name
+
+Hide Solution Discussion
+1 h 15 min 16 seconds
+
+%>%
+
+C. User name
+D. Application name
+Hide Solution Discussion
+
+CORRECT ANSWER IS :- D
+1 h 15 min 44 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+ 
+
+Pee a ay EI NOL SE, CSOT EY ELE STS eV ea AS Tey SN, SO POS RE TD Be aL OY
+1 h 15 min 46 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+ 
+
+Which Report Type(s) can be created by right-clicking on a column header in a table's list?
++ A.Bar Chart, Pie Chart, Histogram, and Line
++ B.BarChart
+1 h 15 min 48 seconds
+
+%>%
+
+  
+
+ 
+
+Which Report Type(s) can be created by right-clicking on a column header in a table's list?
++A. Bar Chart, Pie Chart, Histogram, and Line
+B. Bar Chart
+
+C. Bar Chart, Pie Chart, and Histogram
+D. Bar Chart and Pie Chart Most Voted
+1 h 16 min 8 seconds
+
+%>%
+
+CORRECT ANSWER IS :- B
+1 h 16 min 22 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which one of the following is NOT a method used for logging messages in a server-side script for a
+privately scoped application?
+
+‘A.gs.log()
++ B.gserror),
++ C.gs.warnd)
+
+_ ee aS
+1 h 16 min 26 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which one of the following is NOT a method used for logging messages in a server-side script for a
+Privately scoped application?
+
+‘A. gs.log()
++ B.gserror),
++ C.gs.warn()
+
+: D. gs.debug()
+1 h 16 min 28 seconds
+
+%>%
+
+CORRECT ANSWER IS :- A
+1 h 16 min 56 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+1 h 16 min 58 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+If the Create module field is selected when creating a table, what is the new module's default
+behavior?
+
++ A.Open an empty form so new records can be created
+
++B. Open link to a wiki article with instructions on how to customize the behavior of the new
+module
+
++ C. Display an empty homepage for the application
+
+: D. Display a list of all records from the table
+1 h 17 min 0 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+If the Create module field is selected when creating a table, what is the new module's default
+behavior?
+
++ A. Open an empty form so new records can be created
+
++ B. Open a link toa wiki article with instructions on how to customize the behavior of the new
+module
+
++ ©. Display an empty homepage for the application
+
++ _D.Display a list of all records from the table
+1 h 17 min 38 seconds
+
+%>%
+
+CORRECT ANSWER IS :- D
+1 h 17 min 40 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+How must Application Access be configured to prevent all other private application scopes from
+
+anal
+1 h 17 min 44 seconds
+
+%>%
+
+ 
+
+NEXT QUESTION IS
+
+How must Appli
+
+ 
+
+in Access be configured to prevent all other private appl
+
+ 
+
+creatina confiauration records on an application's data tables?
+1 h 17 min 54 seconds
+
+%>%
+
+creating configuration records on an application's data tables?
+
++ A.Youmust create Access Controls to prevent all other application scopes from creating
+configuration records on an application's data tables rather than using Application Access
++B. Set the Accessible from field value to All application scopes and de-select the Can create
+option
+
++ C.Set the Accessible from field value to This application scope only and de-select the Allow
+access to this table via web services option
+
++ D.Set the Accessible from field value to This application scope only Most Voted
+1 h 17 min 56 seconds
+
+%>%
+
+BS SEE BPS PS SS SUE TENT TSE Vetter OO 2 Si app periceieecns Setar CSNY Mak YORE:
+
+CORRECT ANSWER IS :- D
+1 h 18 min 48 seconds
+
+%>%
+
+CORRECT ANSWER IS :- D
+1 h 18 min 50 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+What are some of the benefits of extending an existing table such as the Task table when creating a
+new application? a) You can repurpose existing fields by simply changing the label. b) Use existing
+fields with no modifications. c) Existing logic from the parent table will be automatically applied to the
+new table. d) All of the parent table records are copied to the new table.
+
+. A.a,b,c,andd
+: B.aandb
+: C.bande
+. D. a,b, and c Most Voted
+1 h 18 min 52 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+What are some of the benefits of extending an existing table such as the Task table when creating a
+new application? a) You can repurpose existing fields by simply changing the label. b) Use existing
+fields with no modifications. c) Existing logic from the parent table will be automatically applied to the
+new table. d) All of the parent table records are copied to the new table.
+
++ Aab,c,andd
+
++ Baandb
+
++ C.bande
+
++ D.a,b,and ¢ Most Voted
+
+ 
+1 h 18 min 54 seconds
+
+%>%
+
+1 h 19 min 58 seconds
+
+%>%
+
+CORRECT ANSWER IS :-D
+1 h 20 min 0 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+When configuring an Access Control which has no condition or script, which one of the following
+statements is NOT true?
+
+. A. table-*will grant access to every field in a record
+
++ B.table.None will grant access to every record on the table
++ C.table-field will grant access to a specific field in a record
+
+ 
+
+ 
+1 h 20 min 2 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+When configuring an Access Control which has no condition or script, which one of the following
+‘statements is NOT true?
+
++ A-table.*will grant access to every field in a record
++ B.table.None will grant access to every record on the table
++ C.table.field will grant access to a specific field in a record
+
+: D. table.id will grant access to a specific record on the table Most Voted
+1 h 20 min 4 seconds
+
+%>%
+
+CORRECT ANSWER IS :- D
+1 h 20 min 42 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which of the following methods are useful in Access Control scripts?
+
++ A.g.userhasRole() and current. isNewRecord()
++ B.gs.hasRole() and current.isNewRecord()
+
++ C.g.user.hasRole() and current.isNew()
+
++ D.gs.hasRole() and current isNew()
+
+Hide Solution Discussion
+1 h 20 min 46 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which of the following methods are useful in Access Control scripts?
+
++ A.g.userhasRole() and current.isNewRecord()
++ B.gs.hasRole() and current.isNewRecord()
+
+% C. g_userhasRole() and current.isNew()
+
+: D. gs.hasRole() and current.isNew()
+
+Hide Solution Discussion
+1 h 20 min 48 seconds
+
+%>%
+
+CORRECT ANSWER IS :- B
+1 h 21 min 20 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which one of the following client-side scripts apply to Record Producers?
++ A. Catalog Client Scripts and Catalog UI Policies
+1 h 21 min 22 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which one of the following client-side scripts apply to Record Producers?
+‘A. Catalog Client Scripts and Catalog UI Policies
+
+B. UI Scripts and UI Actions,
+
+C. UI Scripts and Record Producer Scripts
+
+D. Client Scripts and UI Policies
+
+ 
+1 h 21 min 24 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which one of the following client-side scripts apply to Record Producers?
++ A Catalog Client Scripts and Catalog UI Policies,
+
++ B.UIScripts and UI Actions
+
++ C. UI Scripts and Record Producer Scripts
+
++ D.Client Scripts and UI Policies
+1 h 21 min 52 seconds
+
+%>%
+
+CORRECT ANSWER IS :- A
+1 h 21 min 54 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+When a ServiceNow instance requests information from a web service, ServiceNow is the web service:
+: A. Publisher
+
+: 8. Specialist
+
+: C. Provider
+
+: D. Consumer
+1 h 21 min 58 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+When a ServiceNow instance requests information from a web service, ServiceNow is the web service:
++A. Publisher
+
++B Specialist
+
++ C.Provider
+
++ D.Consumer
+1 h 22 min 0 seconds
+
+%>%
+
+ee ee
+D. Consumer
+
+CORRECT ANSWER IS :- D
+1 h 22 min 22 seconds
+
+%>%
+
+CORRECT ANSWER IS :- D
+1 h 22 min 24 seconds
+
+%>%
+
+NEYT OIIECTION Ie -.
+1 h 22 min 26 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which one of the following is the fastest way to create and configure a Record Producer?
++ A Create a Catalog Category, open the category, and select the Add New Record Producer
+button
+
+: B. Use the Record Producer module then add and configure all variables manually
+
+: C. Open the table in the Table records and select the Add to Service Catalog Related Link Most
+Voted
+
+: D. Open the table's form, right-click on the form header, and select the Create Record Producer
+
+‘menu item|
+1 h 22 min 28 seconds
+
+%>%
+
+CORRECT ANSWER IS :- C
+1 h 23 min 18 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Which objects can you use in a Scheduled Script Execution (Scheduled Job) script?
++ A.GlideRecord and current
+
++B. GlideUser and GlideRecord
+
+C. GlideSystem and GlideRecord Most Voted
+
+D. GlideSystem and current
+
+ 
+1 h 23 min 20 seconds
+
+%>%
+
+CORRECT ANSWER IS :- C
+1 h 23 min 50 seconds
+
+%>%
+
+NEXT QUESTION IS :-
+
+Can inherited fields be deleted from a table?
+
+‘A. Yes, select the red X in the left-most column in the table definition
+B. Yes, but only if they are text fields
+
+C. Yes, but only if there has never been any saved field data
+
+D. No, inherited fields cannot be deleted from a child table Most Voted
+1 h 23 min 52 seconds
+
+%>%
+
+CORRECT ANSWER IS :- D
+1 h 24 min 30 seconds
