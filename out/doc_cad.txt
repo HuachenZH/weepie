@@ -5,31 +5,18 @@ ServiceNow CAD
 
 NEXT QUESTION IS :-
 
-What isthe purpose of the Application Picker?
-
-A. Select an application to run
-
-B. Select an application as a favorite in the Application Navigator
-
-©. Choose an application to edit and set the Application Scope Most Voted
-D. Choose an application to download and install
-0 min 34 seconds
-
-%>%
-
-NEXT QUESTION IS :-
-
-What isthe purpose of the Application Picker?
+What is the purpose of the Application Picker?
 
 A. Select an application to run
 
 B. Select an application as a favorite in the Application Navigator
 
 C. Choose an application to edit and set the Application Scope Most Voted
-D. Choose an application to download and install
-1 min 4 seconds
 
-%>%
+D. Choose an application to download and install
+
+0 min 34 seconds
+
 
 CORRECT ANSWER IS :- C
 1 min 6 seconds
@@ -40,11 +27,12 @@ NEXT QUESTION IS :-
 
 What are Application Files in a ServiceNow application?
 
-‘A. An XML export of an application's table records.
+A. An XML export of an application's table records.
 
 B. CSV files containing data imported into an application
 
 C. ServiceNow artifacts comprising an application Most Voted
+
 D. XML exports of an application's Update Set
 
  
@@ -61,37 +49,17 @@ NEXT QUESTION IS :-
 
 Which one of the following is NOT true for Modules?
 
-+ A. Modules open content pages
-+B. Access to Modules is controlled with roles
-+ C. Every Module must be part of an Application Menu
-
-: D. Every Module must be associated with a table
+A. Modules open content pages
+B. Access to Modules is controlled with roles
+C. Every Module must be part of an Application Menu
+D. Every Module must be associated with a table
 1 min 56 seconds
 
 %>%
 
-NEXT QUESTION IS :-
-
-Which one of the following is NOT true for Modules?
-
-‘A. Modules open content pages
-
-B. Access to Modules is controlled with roles
-
-C. Every Module must be part of an Application Menu
-D. Every Module must be associated with a table
-2 min 32 seconds
-
-%>%
-
-D. Every Module must be associated with a table
-
 CORRECT ANSWER IS :- D
 2 min 34 seconds
 
-%>%
-
-2 min 38 seconds
 
 %>%
 
@@ -99,26 +67,13 @@ NEXT QUESTION IS :-
 
 A graphical view of relationships among tables is a <blank>.
 
-‘A. Schema map
+A. Schema map
 
 B. Dependency view
 
 C. Graphical User Interface
 D. Map source report
 2 min 40 seconds
-
-%>%
-
-A graphical view of relationships among tables is a <blank>.
-
-+” A.Schema map
-+B. Dependency view
-+ C. Graphical User Interface
-
-+ D.Map source report
-3 min 4 seconds
-
-%>%
 
 CORRECT ANSWER IS :- A
 3 min 6 seconds
@@ -129,23 +84,16 @@ NEXT QUESTION IS :-
 
 Which one of the following is true for the Application Picker?
 
- 
+A.Allcustom application scope and the Global scope appear in the Application Picker
 
-+ A.Allcustom application scope and the Global scope appear in the Application Picker
-¥ B. All applications in ServiceNow, including baseline applications like Incident, appear in the
+B. All applications in ServiceNow, including baseline applications like Incident, appear in the
 Application Picker
 
-+ C.Only custom applications appear in the Application Picker
-
-: D. Only downloaded applications appear in the Application Picker
-3 min 10 seconds
-
-%>%
+C.Only custom applications appear in the Application Picker
 
 D. Only downloaded applications appear in the Application Picker
-4 min 2 seconds
+3 min 10 seconds
 
-%>%
 
 CORRECT ANSWER IS :- A
 4 min 4 seconds
@@ -160,32 +108,25 @@ experience option?
 + A.Portal
 : B. Mobile
 : C. Self-service
-
 D. Workspace
 4 min 16 seconds
-
-%>%
 
 CORRECT ANSWER |S :- B
 4 min 48 seconds
 
 %>%
 
-CORRECT ANSWER IS :- B
-4 min 54 seconds
-
-%>%
 
 NEXT QUESTION IS :-
 
 When writing a Client Script to provide feedback targeted at a specific field, which method should be
 used?
-+ A.g.form.showinfoMessage()
++ A.g_form.showinfoMessage()
 + B.g form.showFieldMsg()
 
-+ C.g-form.addinfoMessage()
++ C.g_form.addinfoMessage()
 
-+ D.g-form.addFieldMsg()
++ D.g_form.addFieldMsg()
 4 min 56 seconds
 
 %>%
@@ -195,17 +136,7 @@ CORRECT ANSWER |S :- B
 
 %>%
 
-CORRECT ANSWER IS :- B
-5 min 32 seconds
 
-%>%
-
-NEXT QUESTION IS :-
-
-Which actions can a Business Rule take without scripting?
-5 min 34 seconds
-
-%>%
 
 NEXT QUESTION IS :-
 
@@ -214,27 +145,8 @@ Which actions can a Business Rule take without scripting?
 + A.Set field values and write to the system log
 + B.Set field values and generate an event
 + C.Set field values and add message
-
 : D. Set field values and query the database
 5 min 40 seconds
-
-%>%
-
-TR BOUTS CSS BUSES HS ORS IU Sen.
-
-+ A.Set field values and write to the system log
-+ B.Set field values and generate an event
-+ C.Set field values and add message
-
-. D. Set field values and query the database
-6 min 20 seconds
-
-%>%
-
-D. Set field values and query the database
-
-CORRECT ANSWER IS :- C
-6 min 22 seconds
 
 %>%
 
@@ -248,17 +160,11 @@ NEXT QUESTION IS :-
 Which server-side object provides methods for working with dates when writing a script in a privately
 scoped application?
 
-+" A.GlideDateTime
++A.GlideDateTime
 +B GlideRecord
-
 + C.Glidesystem
-
 + D.current
 6 min 28 seconds
-
-%>%
-
-7 min 18 seconds
 
 %>%
 
@@ -266,6 +172,7 @@ CORRECT ANSWER IS :- A
 7 min 20 seconds
 
 %>%
+resumeHere
 
 NEXT QUESTION IS :-
 
