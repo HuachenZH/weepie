@@ -50,7 +50,7 @@ def build_doc(path_dir:str) -> tuple[list, list]:
         f = os.path.join(path_dir, filename)
         if os.path.isfile(f):
             text = extract_text(f)
-            # Discard the image if duplicated
+            # Discard the extracted text if duplicated
             if text == list_doc[-1]:
                 count_duplicate -=- 1
             else:

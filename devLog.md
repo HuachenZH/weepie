@@ -11,7 +11,13 @@ It's a bit hard to extract frames from the video of CAD because the images are n
 __Solution__: iterate the video two times. The first time weepie will compare each frame with previous frames, if they are different, then it means it's scrolling. If it's stable for five or ten frames, then it's fixed. Note the frame pts.  
 THen iterate for the second time and extract noted frames.
 
-To resume:  
+
+## Feature 4: extract text from hrsd.mp4
+This video is a bit different: the correct answers are not written in text but shown in another color.  
+I need to extract red text from black text.
+
+It's harder than i thought. I need to make some image preprocessing:
+- sharpen the image
 
 
 ## Encountered
@@ -21,13 +27,14 @@ To resume:
 
 
 ## To improve / future work
-- in `delete_duplicate.py`, the function `is_the_same` is built. You can build another one, is_similar, calculate the error between two matrices, return true of error is smaller than the threshold. 
+- ~~in `delete_duplicate.py`, the function `is_the_same` is built. You can build another one, is_similar, calculate the error between two matrices, return true of error is smaller than the threshold.~~
 - in `delete_duplicate.py`, the function `is_similar` can be much improved. For the moment lots of duplicates will be returned
-- for unsure OCR, give at which time (min, sec) of the video
+- ~~for unsure OCR, give at which time (min, sec) of the video~~ --> Done by adding the info into exif
 - find a way to determine similar texts
 - hrsd: the answers are not written, they are shown in different color
-- cad: in the video, the presenter scrolls a pdf....
+- ~~cad: in the video, the presenter scrolls a pdf....~~ --> Done by comparing frames before extraction 
 - `extract_frame_simple` can be deprecated, as the new function is much more powerful
+- preprocessing of image : [this post](https://stackoverflow.com/questions/37745519/use-pytesseract-ocr-to-recognize-text-from-an-image)
 
 ## 自己挖的坑
 - in the folder `data/img/`, images should be named like "frame_1.jpg", "frame_100.jpg"
