@@ -20,6 +20,13 @@ It's harder than i thought. I need to make some image preprocessing:
 - sharpen the image
 
 
+## Feature 5: extract text from itsm_*.mp4
+There are 24 videos.  
+- iterate through each video
+- output extracted frames into the same folder, numbered from 1 to n
+- extract texts from these frames
+
+
 ## Encountered
 - cv2 error: cv2.error: OpenCV(4.9.0) /io/opencv/modules/core/src/arithm.cpp:672: error: (-5:Bad argument) When the input arrays in add/subtract/multiply/divide functions have different types, the output array type must be explicitly specified in function 'arithm_op'
   - cause: `cv2.subtract(img1, img2)`, img1 and img2 are np.ndarray with diffrerent dtype
