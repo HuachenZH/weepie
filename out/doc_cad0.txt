@@ -172,7 +172,6 @@ CORRECT ANSWER IS :- A
 7 min 20 seconds
 
 %>%
-resumeHere
 
 NEXT QUESTION IS :-
 
@@ -186,20 +185,10 @@ using the Record Producer UI. How is the page specified?
 + C. Write an after Business Rule script for the Record Producer's table: window redirect =
 "<URL>";
 
- 
-
-: D. Write a script in the Record Producer's Script field: producer.redirect
-
- 
-
-"<URL>";
+: D. Write a script in the Record Producer's Script field: producer.redirect="<URL>";
 7 min 22 seconds
 
 %>%
-
-  
-
-a a tat
 
 CORRECT ANSWER IS :- D
 8 min 6 seconds
@@ -208,29 +197,14 @@ CORRECT ANSWER IS :- D
 
 NEXT QUESTION IS :-
 
-\dentfy characteristi(s) of a Record Producer. (Choose three)
+identfy characteristi(s) of a Record Producer. (Choose three)
 
 A. All records created using this strategy are inserted into the Requested Item [sc_req_item]
 table
-: B. Each field prompts the user with a question rather than a field label. Most Voted
-: C. They must be scripted.
-
-* D. You can script behaviors of fields in the user interface. Most Voted
-8 min 10 seconds
-
-%>%
-
-NEXT QUESTION IS :-
-
-Identify characteristic(s) of a Record Producer. (Choose three.)
-
-‘A. All records created using this strategy are inserted into the Requested Item [sc_req_item]
-table
-+B. Each field prompts the user with a question rather than a field label. Most Voted
-+ C. They must be scripted.
-
-+ D. Youcan script behaviors of fields in the user interface. Most Voted
-+ E.Graphics can be included on the user interface. Most Voted
+B. Each field prompts the user with a question rather than a field label. Most Voted
+C. They must be scripted.
+D. You can script behaviors of fields in the user interface. Most Voted
+E.Graphics can be included on the user interface. Most Voted
 8 min 12 seconds
 
 %>%
@@ -243,7 +217,7 @@ CORRECT ANSWER IS :- B
 NEXT QUESTION IS :-
 
 Which script types execute on the server? (Choose three.)
-‘A. Business Rule Most Voted
+A. Business Rule Most Voted
 
 B. Client Scripts
 
@@ -258,17 +232,8 @@ E, Scheduled Jobs Most Voted
 
 %>%
 
-9 min 42 seconds
-
-%>%
-
 CORRECT ANSWER IS :- A
 9 min 44 seconds
-
-%>%
-
-ServiceNow CAD
-9 min 48 seconds
 
 %>%
 
@@ -288,37 +253,25 @@ table?
 
 %>%
 
- 
-
-+ D.Insert, Delete, Query, Update
-
 CORRECT ANSWER IS :- B
 11 min 18 seconds
 
 %>%
 
-CORRECT ANSWER IS :- B
-11 min 24 seconds
-
-%>%
 
 NEXT QUESTION IS :-
 
 Which one of the following is true for this script fragment?
-g.user hasRole(‘xmy_app_user);
-+A. There is no g_userhasRole() method
+g_user hasRole(‘x_my_app_user);
 
++A. There is no g_userhasRole() method
 +B. The method returns false only if the currently logged in user has the x.my_app_user role
 + C. The method returns true only ifthe currently logged in user has the x.my_app_user role
-+ D. The method returns true if the currently logged in user has the x.my_app_user role or the
-
-admin role
++ D. The method returns true if the currently logged in user has the x.my_app_user role or the admin role
 11 min 26 seconds
 
 %>%
 
-*  __B he method rexuns rue It the Cumrently fogged #) user has the X_ny_App_User rove OF ne
-admin role
 
 CORRECT ANSWER IS :- D
 12 min 18 seconds
@@ -328,21 +281,13 @@ CORRECT ANSWER IS :- D
 NEXT QUESTION IS :-
 
 Which one of the following database operations cannot be controlled with Application Access?
-+ AQuery
-12 min 24 seconds
-
-%>%
-
-Which one of the following database operations cannot be controlled with Application Access?
-+ AQuery
-
++ A.Query
 + B.Update
 + C.Create
 + D.Delete
 12 min 32 seconds
 
 %>%
-
  
 
 CORRECT ANSWER IS :- A
@@ -350,10 +295,6 @@ CORRECT ANSWER IS :- A
 
 %>%
 
-CORRECT ANSWER IS :- A
-12 min 58 seconds
-
-%>%
 
 NEXT QUESTION IS :-
 
@@ -368,50 +309,14 @@ the table's records
 
 + C. This option restricts access only to SOAP web services but does not apply to REST
 
-+ _D. The user performing the query via web services must have the correct permissions to
-
-access the table's records Most Voted
++ _D. The user performing the query via web services must have the correct permissions to access the table's records Most Voted
 13 min 0 seconds
 
 %>%
 
-NEXT QUESTION IS :-
-
-For Application Access there is a configuration option called Allow access to this table via web
-services. Which one of the following statements is true when this option is selected?
-
- 
-
-+ A This option restricts the ability to delete records via web services but records can always be
-read
-
-+B. Even when not selected, users with the correct permissions can use web services to access
-the table's records
-
-+ C. This option restricts access only to SOAP web services but does not apply to REST
-
-+ D. The user performing the query via web services must have the correct permissions to
-
-access the table's records Most Voted
-13 min 54 seconds
-
-%>%
 
 CORRECT ANSWER IS :- D
 13 min 56 seconds
-
-%>%
-
-NEXT QUESTION IS :-
-
-Which of the following statements must evaluate to true for a user to pass an Access Control?
-
-(Choose three.)
-+ A The user has one of the roles specified in the Required roles related list. Most Voted.
-+B Scripts configured in the Access Control must evaluate to true. Most Voted
-
-© ther matehing-Aanese Gantale ar the sananda-aualuaie 1240
-13 min 58 seconds
 
 %>%
 
@@ -429,23 +334,6 @@ D. Conditions configured in the Access Control must evaluate to true. Most Voted
 
 E. The user must be granted access through a business rule.
 14 min 0 seconds
-
-%>%
-
-NEXT QUESTION IS :-
-
-Which of the following statements must evaluate to true for a user to pass an Access Control?
-(Choose three.)
-
-‘A. The user has one of the roles specified in the Required roles related list. Most Voted
-B. Scripts configured in the Access Control must evaluate to true. Most Voted
-
-C. Other matching Access Controls for the records evaluate to true.
-
-D. Conditions configured in the Access Control must evaluate to true. Most Voted
-
-E. The user must be granted access through a business rule.
-14 min 38 seconds
 
 %>%
 
@@ -468,24 +356,6 @@ scoped application?
 + D.current
 14 min 54 seconds
 
-%>%
-
-NEXT QUESTION IS :-
-
-Which server-side object provides methods for working with dates when writing a script in a privately
-scoped application?
-
-+ A GlideDateTime
-
-+ B.GlideRecord
-
-+ C.Glidesystem
-
-+ D.current
-14 min 56 seconds
-
-%>%
-
 CORRECT ANSWER IS :- A
 15 min 22 seconds
 
@@ -505,34 +375,6 @@ table
 
 + D. The application needs to run a client-side script at the same time every day Most Voted
 15 min 28 seconds
-
-%>%
-
-NEXT QUESTION IS :-
-
-Which one of the following is NOT an example of when an application might use a Scheduled Script
-Execution (Scheduled Job)?
-
-+ A. The application needs to send weekly email reminders to requestors for all records on a
-table
-+B. The application needs to run a clean up script on the last day of every month
-
- 
-
-+ C. The application needs to query the database every day to look for unassigned records
-+ D. The application needs to run a client-side script at the same time every day Most Voted
-15 min 30 seconds
-
-%>%
-
-A. The application needs to send weekly email reminders to requestors for all records on a
-
-B. The application needs to run a clean up script on the last day of every month
-C. The application needs to query the database every day to look for unassigned records
-D. The application needs to run a client-side script at the same time every day Most Voted
-
- 
-16 min 14 seconds
 
 %>%
 
@@ -583,39 +425,13 @@ NEXT QUESTION IS :-
 
 When debugging Email Notifications, what must you check on a user record? (Choose three.)
 + A Active must be true. Most Voted
-
-+B. The First name and Last name fields must have values.
-
-+ ©. The value in the Notification field must be set to enabled. Most Voted
-17 min 10 seconds
-
-%>%
-
-NEXT QUESTION IS :-
-
-When debugging Email Notifications, what must you check on a user record? (Choose three.)
-+ A Active must be true. Most Voted
-
-+B. The First name and Last name fields must have values.
-
-+ C. The value in the Notification field must be set to enabled. Most Voted
-17 min 12 seconds
-
-%>%
-
-When debugging Email Notifications, what must you check on a user record? (Choose three.)
-+ A Active must be true. Most Voted
-
 : B. The First name and Last name fields must have values.
 : C. The value in the Notification field must be set to enabled. Most Voted
 : D. The user must not be locked out.
-
 : E. The Email field must have a value. Most Voted
 17 min 34 seconds
 
 %>%
-
-E. The Email field must have a value. Most Voted
 
 CORRECT ANSWER IS :- A
 17 min 46 seconds
@@ -634,19 +450,7 @@ Which of the following methods is NOT part of the ServiceNow REST API?
 : D. POST
 17 min 50 seconds
 
-%>%
 
-NEXT QUESTION IS :-
-
-Which of the following methods is NOT part of the ServiceNow REST API?
-+ A.COPY
-
-: B.GET
-
-+ C. DELETE
-
-: D. POST
-17 min 52 seconds
 
 %>%
 
@@ -663,7 +467,7 @@ Table As records will be installed when:
 
 + A Table A is active and extends the Task table
 
-+B. Table A's records are added to the application record using the Create Application Files
++ B. Table A's records are added to the application record using the Create Application Files
 context menu item Most Voted
 
 + C. Table A has an automatic number counter for new records
@@ -673,40 +477,9 @@ context menu item Most Voted
 
 %>%
 
-NEXT QUESTION IS :-
-
-You are developing the MyApp application that has a table, Table A. When the MyApp application is
-installed on an instance, you want Table As records to be installed as part of the application.
-Table As records will be installed when:
-
-+ A Table A is active and extends the Task table
-
-+B. Table A's records are added to the application record using the Create Application Files
-context menu item Most Voted
-
-+ C. Table A has an automatic number counter for new records
-
-: D. Table A is not included in the System Clone > Exclude Tables list
-18 min 20 seconds
-
-%>%
-
-= B. Table A's records are added to the application record using the Create Applicati
-context menu item Most Voted
-
-+ C. Table Ahas an automatic number counter for new records
-
-: D. Table A is not included in the System Clone > Exclude Tables list
-
- 
-
-CGRRECT ANSWER ISB
+CORRECT ANSWER IS ;- B
 19 min 10 seconds
 
-%>%
-
-CORRECT ANSWER IS :- B
-19 min 12 seconds
 
 %>%
 
@@ -714,18 +487,7 @@ NEXT QUESTION IS :-
 
 How can an application link to a repository behind a firewall?
 
-+ A. This option is not supported.
-
-+ B.Link an application to source control through a MID Server.
-
-* _ @ Linkan application to source control through an access token.
-19 min 14 seconds
-
-%>%
-
-How can an application link to a repository behind a firewall?
-
-‘A. This option is not supported.
+A. This option is not supported.
 B. Link an application to source control through a MID Server.
 
 C. Link an application to source control through an access token,
@@ -737,14 +499,6 @@ D. Link an application to source control with multifactor authentication.
 
 CORRECT ANSWER IS :- B
 19 min 48 seconds
-
-%>%
-
-NEXT QUESTION IS :-
-
-What is the ServiceNow store?
-+ A Downloadable content ServiceNow script archive
-19 min 52 seconds
 
 %>%
 
@@ -766,15 +520,6 @@ CORRECT ANSWER IS :- D
 
 %>%
 
-CORRECT ANSWER |S :- D
-20 min 30 seconds
-
-%>%
-
-ServiceNow CAD
-20 min 34 seconds
-
-%>%
 
 NEXT QUESTION IS :-
 
@@ -783,59 +528,20 @@ Which of the following objects does a Display Business Rule NOT have access to?
 
 + B.Glidesystem
 
-+ C.g-scratchpad
++ C.g_scratchpad
 
-+ Dicurrent
++ D current
 21 min 4 seconds
 
 %>%
 
-NEXT QUESTION IS :-
-
-Which of the following objects does a Display Business Rule NOT have access to?
-+ A previous
-
-+ B.GlideSystem
-
-+ C.g-scratchpad
-
-+ D.current
-21 min 26 seconds
-
-%>%
-
-ony St Re eg TT NET eT eR RE TT REN Te PTE NC NTA ire TEN ERAT
-‘A. previous
-B. GlideSystem
-C. g_scratchpad
-
-+ D.current
-
-    
 
 CORRECT ANSWER IS :- A
 21 min 28 seconds
 
 %>%
 
-CORRECT ANSWER IS :- A
-21 min 30 seconds
-
-%>%
-
 NEXT QUESTION IS :-
-
-When creating an application through the Guided Application Creator, which of the following is NOT an
-option for creating a table?
-
-+ A Create table from template Most Voted
-: B. Create table from scratch
-. C. Extend a table
-
-D. Upload spreadsheet
-21 min 34 seconds
-
-%>%
 
 When creating an application through the Guided Application Creator, which of the following is NOT an
 option for creating a table?
@@ -859,19 +565,8 @@ CORRECT ANSWER IS :- A
 NEXT QUESTION IS :-
 
 Server-side scripts manage what?
-‘A. Database and backend Most Voted
-B. Playbook access
-©. User access
-D. Forms and Fields
-22 min 8 seconds
-
-%>%
-
-NEXT QUESTION IS :-
-
-Server-side scripts manage what?
 + A Database and backend Most Voted
-+B. Playbook access
++ B. Playbook access
 
 + C.User access
 
@@ -884,6 +579,8 @@ CORRECT ANSWER IS :- A
 22 min 38 seconds
 
 %>%
+
+resumehere
 
 NEXT QUESTION IS :-
 
