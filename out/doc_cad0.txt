@@ -580,7 +580,6 @@ CORRECT ANSWER IS :- A
 
 %>%
 
-resumehere
 
 NEXT QUESTION IS :-
 
@@ -598,61 +597,26 @@ process?
 
 %>%
 
-A. Guided Tour Designer
-
-B. Guided Application Creator
-C. ServiceNow Studio
-
-D. Flow Designer
-
 CORRECT ANSWER IS :- B
 23 min 12 seconds
 
 %>%
 
-CORRECT ANSWER IS :- B
-23 min 14 seconds
-
-%>%
-
- 
-
-NEXT QUESTION IS :-
-23 min 16 seconds
-
-%>%
 
 NEXT QUESTION IS :-
 
 What are some benefits of developing private, scoped applications? (Choose two.)
 + A To avoid using a code repository like GitHub or GitLab
 
-+B. Toreduce risk at code collisions
++ B. To reduce risk at code collisions
 
-+ C.Toenable installation and uninstallation of an application
++ C. To enable installation and uninstallation of an application
 
 + D. To replicate ServiceNow functions a private scope
 23 min 18 seconds
 
 %>%
 
-   
-
- 
-
-‘A. To avoid using a code repository like GitHub or GitLab
-
-+B. Toreduce risk at code collisions
-
-+ C. Toenable installation and uninstallation of an application
-D. To replicate ServiceNow functions a private scope
-
-   
-
- 
-23 min 52 seconds
-
-%>%
 
 CORRECT ANSWER IS :- B
 23 min 54 seconds
@@ -664,43 +628,20 @@ NEXT QUESTION IS :-
 What records are used to track cross-scope applications or scripts that request access to an
 application, application resource, or event?
 
-+ A Restricted caller access records Most Voted
-: B. Caller tracking records
++ A. Restricted caller access records
++ B. Caller tracking records
 + C. Access control level records
-
-. D. Cross-scope access records
++ D. Cross-scope access records
 23 min 58 seconds
 
 %>%
 
-NEXT QUESTION IS :-
-
-What records are used to track cross-scope applications or scripts that request access to an
-application, application resource, or event?
-
- 
-
-+ A Restricted caller access records Most Voted
-: B. Caller tracking records
-+ C. Access control level records.
-
-: D. Cross-scope access records
-24 min 0 seconds
-
-%>%
-
-C. Access control level records
-D. Cross-scope access records
 
 CORRECT ANSWER IS :- A
 24 min 30 seconds
 
 %>%
 
-CORRECT ANSWER IS :- A
-24 min 32 seconds
-
-%>%
 
 NEXT QUESTION IS :-
 
@@ -709,17 +650,10 @@ A. Create a group
 
 B. Impersonation
 
-©. Create a user
+C. Create a user
 
 D. Create a role
 24 min 36 seconds
-
-%>%
-
-B. Impersonation
-C. Create a user
-D. Create a role
-25 min 4 seconds
 
 %>%
 
@@ -731,11 +665,11 @@ CORRECT ANSWER IS :- C
 NEXT QUESTION IS :-
 
 What plugin enables the Guided Application Creator?
-+ A-com.glide.sn-guided-app-creator
+A. com.glide.sn-guided-app-creator
 
 B. com glide.service_creator
 
-C. com.glide.sne.apps_creator
+C. com.glide.snc.apps_creator
 
 D. com.sne.apps_creator_template
 25 min 10 seconds
@@ -750,7 +684,7 @@ CORRECT ANSWER IS :- A
 NEXT QUESTION IS :-
 
 Which of the following can be an external data source for a ServiceNow application?
-‘A. Microsoft Excel File
+A. Microsoft Excel File
 
 B. Data provided by a public web service using SOAP or REST
 
@@ -761,49 +695,21 @@ D. All of the above
 
 %>%
 
-B. Data provided by a public web service using SOAP or REST
-C. CSV file
-D. All of the above
-
 CORRECT ANSWER IS :- D
 25 min 56 seconds
 
 %>%
 
-CORRECT ANSWER IS :- D
-25 min 58 seconds
-
-%>%
-
-NEXT QUESTION IS :-
-
-Which one of the following is true for the Application Picker and Application Scope?
-+ A Global is a reserved application which does not appear in the Application Picker
-. B. Selecting an application from the Application Picker does not set the Application Scope
-
- 
-26 min 0 seconds
-
-%>%
 
 NEXT QUESTION IS :-
 
 Which one of the following is true for the Application Picker and Application Scope?
 
-+ A Global is a reserved application which does not appear in the Application Picker
-+ B.Selecting an application from the Application Picker does not set the Application Scope
-+ C.Selecting an application from the Application Picker sets the Application Scope
-
-D. Selecting Global in the Application Picker sets the Application Scope to Incident
++ A. Global is a reserved application which does not appear in the Application Picker
++ B. Selecting an application from the Application Picker does not set the Application Scope
++ C. Selecting an application from the Application Picker sets the Application Scope
++ D. Selecting Global in the Application Picker sets the Application Scope to Incident
 26 min 2 seconds
-
-%>%
-
- 
-
-C. Selecting an application from the Application Picker sets the Application Scope
-D. Selecting Global in the Application Picker sets the Application Scope to Incident
-26 min 40 seconds
 
 %>%
 
@@ -812,15 +718,11 @@ CORRECT ANSWER IS :- C
 
 %>%
 
-NEXT QUESTION IS :-
-26 min 44 seconds
-
-%>%
 
 NEXT QUESTION IS :-
 
 Which of the following is an available feature in Studio? (Choose two.)
-‘A. Push to update set
+A. Push to update set
 
 B. Merge branches
 
@@ -831,14 +733,11 @@ D. Push to external source control Most Voted
 
 %>%
 
-27 min 10 seconds
-
-%>%
-
 CORRECT ANSWER IS :- C
 27 min 12 seconds
 
 %>%
+resumehere
 
 NEXT QUESTION IS :-
 
