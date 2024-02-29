@@ -737,122 +737,54 @@ CORRECT ANSWER IS :- C
 27 min 12 seconds
 
 %>%
-resumehere
 
 NEXT QUESTION IS :-
 
 Why would you build a custom app? (Choose two.)
-+ A Toavoid using a code repository like GitHub or GitLab
-* B. To replace ServiceNow base tables
-
++ A. To avoid using a code repository like GitHub or GitLab
++ B. To replace ServiceNow base tables
 + C.To fulfil a specific use case on internal processes
-
 . D. To create a custom integration for a 3rd party system
+
 27 min 14 seconds
-
-%>%
-
-NEXT QUESTION IS :-
-
-Why would you build a custom app? (Choose tw<
-‘A. To avoid using a code repository like GitHub or GitLab
-B. To replace ServiceNow base tables
-
-C. To fulfil a specific use case on internal processes
-
-D. To create a custom integration for a 3rd party system
-
- 
-27 min 16 seconds
 
 %>%
 
 CORRECT ANSWER IS :- C
 27 min 48 seconds
 
-%>%
-
-27 min 52 seconds
 
 %>%
 
 NEXT QUESTION IS :-
 
 Which one of the following is NOT part of the Form Designer?
-‘A. Page header
-
++ A.Page header
 + B.Schema map
-
 + C.Field navigator
-D. Form layout
++ D. Form layout
 27 min 54 seconds
 
 %>%
 
-B. Schema map
-C. Field navigator
-D. Form layout
-
 CORRECT ANSWER IS :- B
 28 min 16 seconds
 
-%>%
-
-CORRECT ANSWER IS :- B
-28 min 20 seconds
 
 %>%
 
 NEXT QUESTION IS :-
 
 Which one of the following is true for a Script Include with a Protection Policy value of Protected?
-+ A Any user with the protected_edit role can see and edit the Script Include
-+B. The Protection policy option can only be enabled by a user with the admin role
-28 min 22 seconds
-
-%>%
-
-NEXT QUESTION IS :-
-
-Which one of the following is true for a Script Include with a Protection Policy value of Protected?
-+ A-Any user with the protected_edit role can see and edit the Script Include
-+B. The Protection policy option can only be enabled by a user with the admin role
-
- 
-
-applied only if the alide.app.apply_ protection system property value
-28 min 24 seconds
-
-%>%
-
-TE! VES PIUEe So
-
-Which one of the following is true for a Script Include with a Protection Policy value of Protected?
-+ A Any user with the protected_edit role can see and edit the Script Include
-+B. The Protection policy option can only be enabled by a user with the admin role
-
++ A.Any user with the protected_edit role can see and edit the Script Include
++ B. The Protection policy option can only be enabled by a user with the admin role
 + C. The Protection Policy is applied only if the glide.app. apply_protection system property value
 is true
-
-+ __D. The Protection Policy is applied only if the application is downloaded from the ServiceNow
++ D. The Protection Policy is applied only if the application is downloaded from the ServiceNow
 App Store Most Voted
 
  
 28 min 30 seconds
-
-%>%
-
-. A. Any user with the protected_edit role can see and edit the Script Include
-+B. The Protection policy option can only be enabled by a user with the admin role
-
-+ C. The Protection Policy is applied only if the glide.app. apply_protection system property value
-true
-
-+ __D. The Protection Policy is applied only if the application is downloaded from the ServiceNow
-App Store Most Voted
-
- 
-28 min 46 seconds
 
 %>%
 
@@ -866,7 +798,7 @@ NEXT QUESTION IS :-
 When designing and creating a form what do you create to organize fields on a form?
 + A.Buttons
 
-. B. Tabs
++ B. Tabs
 
 + C.Sections
 
@@ -875,21 +807,6 @@ When designing and creating a form what do you create to organize fields on a fo
 
 %>%
 
-NEXT QUESTION IS :-
-
-When designing and creating a form what do you create to organize fields on a form?
-+ AButtons
-
-. B. Tabs
-
-+ C.Sections
-
-: D. Related lists
-29 min 38 seconds
-
-%>%
-
-NESS NOS
 
 CORRECT ANSWER IS :- C
 29 min 40 seconds
@@ -899,22 +816,9 @@ CORRECT ANSWER IS :- C
 NEXT QUESTION IS :-
 
 Which one of the following is a good practice for adding instructions to a form?
-+ A Related links to wiki pages
-
- 
-29 min 44 seconds
-
-%>%
-
-NEXT QUESTION IS :-
-
- 
-
-Which one of the following is a good practice for adding instructions to a form?
 + A.Related links to wiki pages
-+ B.AContext Menu UI Action
-+ C. Annotations Most Voted
-
++ B.A Context Menu UI Action
++ C.Annotations Most Voted
 D. A populated read-only field
 
  
@@ -928,13 +832,6 @@ CORRECT ANSWER IS :- C
 %>%
 
 NEXT QUESTION IS :-
-
- 
-
- 
-30 min 16 seconds
-
-%>%
 
 Which of the following GlideRecord methods run a query against a database table? (Choose three.)
 A._get()
@@ -957,46 +854,27 @@ CORRECT ANSWER IS :- C
 
 NEXT QUESTION IS :-
 
-Ina Business Rule, which one of the following returns the sys-id of the currently logged in user?
+In a Business Rule, which one of the following returns the sys-id of the currently logged in user?
 A. g_form.getUserID()
-B. gs.getUserSysiD(Q)
+B. gs.getUserSysID()
 
-+ C.gs.getUseriD() Most Voted
++ C.gs.getUserID() Most Voted
 
-+ D.g-form.getUsersysiD0,
++ D.g_form.getUserSysiD()
 30 min 52 seconds
 
 %>%
 
-Ina Business Rule, which one of the following returns the sys_id of the currently logged in user?
-+ A.g-form.getUserIDQ)
-
-+ B.gs.getUserSysiD0
-
-+ C.gs.getUseriD() Most Voted
-
-+ D.g-form.getUsersysiD0,
-
- 
-31 min 22 seconds
-
-%>%
 
 CORRECT ANSWER IS :- C
 31 min 24 seconds
 
 %>%
 
-ServiceNow CAD
-31 min 32 seconds
-
-%>%
 
 NEXT QUESTION IS :-
 
-‘Access Control debug information identifies whether each element of an Access Control granted or
-denied access. The elements appear in the debug information in the order of evaluation In which’
-order are the elements of an Access Control evaluated?
+Access Control debug information identifies whether each element of an Access Control granted or denied access. The elements appear in the debug information in the order of evaluation In which order are the elements of an Access Control evaluated?
 
 + A.Conditions, Roles, Script
 
@@ -1011,104 +889,34 @@ order are the elements of an Access Control evaluated?
 
 %>%
 
-* A. Conditions, Roles, Script
-
-. B. Conditions, Script, Roles
-+ C.Roles, Conditions, Script Most Voted
-: D. Script, Conditions, Roles
-
 CORRECT ANSWER IS :- C
 32 min 52 seconds
 
 %>%
 
-CORRECT ANSWER IS :- C
-32 min 54 seconds
-
-%>%
 
 NEXT QUESTION IS :-
 
 Assume a table called table exists and contains 3 fields: field1, field2, field3. Examine the Access
 Control list for table:
 
-table None read Access Control for users withthe admin and tl roles
+table.None read Access Control for users with the admin and itil roles
 
 table.* read Access Control for users with the admin role
-32 min 56 seconds
 
-%>%
+table.field3 read Access Control for users with the itil role
 
-NEXT QUESTION IS :-
-
-Assume a table called table exists and contains 3 fields: field1, field2, field3. Examine the Access
-Control list for table:
-
-table None read Access Control for users wth the admin and ti roles
-table * read Access Control for users with the admin role
-
-table field3 read Access Control for users with the it role
-
- 
-32 min 58 seconds
-
-%>%
-
-NEXT QUESTION IS :-
-
-Assume a table called table exists and contains 3 fields:
-Control list for table:
-
-  
-
-ield1, field2, field3. Examine the Access
-
-table None read Access Control for users wth the admin and itt roles
-table.* read Access Control for users with the admin role
-
-table.field3 read Access Control for users wth thei role
 
 Which field or fields can a user with the itil role read?
-+ AAllfields except field3
++ A.All fields except field3
 
-: B.fieldi, field2, and field3
++ B.fieldi, field2, and field3
 
-+ G field? and field3
-33 min 10 seconds
++ C field? and field3
 
-%>%
++ D. field3 only
 
-Assume a table called table exists and contains 3 fields: field1, field2, field3. Examine the Access
-Control list for table:
-
-table None read Access Control for users with the admin and it roles
-table * read Access Control for users with the admin role
-
-table field3 read Access Control for users with the it role
-
-Which field or fields can a user with the itl role read?
-A Allfields except field3
-
-B. field, field2, and field3
-
-field] and field3
-
-D. field3 only
 33 min 24 seconds
-
-%>%
-
-table fielg3 read Access Control for users withthe iti rola
-
-Which field or fields can a user with the itil role read?
-+ A Allfields except field3
-
-+ B.field1, field2, and field3
-
-+ C.field1 and field
-
-+ D-field3 only
-33 min 42 seconds
 
 %>%
 
@@ -1117,36 +925,23 @@ CORRECT ANSWER IS :- D
 
 %>%
 
-Assume a table called table exists and contains 3 fields: field1, field2, field3. Examine the Access
-Control list for table:
-
- 
-
-le.None read Access Control for users with the admin and iti roles
-
-table.eld3 read Access Control for users with the admin role
-
-Which field or fields can a user with the itil role read?
-+ A field3 only
-33 min 48 seconds
-
-%>%
+NEXT QUESTION IS :-
 
 Assume a table called table exists and contains 3 fields: field1, field2, field3. Examine the Access
 Control list for table:
 
-table None read Access Control for users wih the admin and itt roles
+table.None read Access Control for users with the admin and iti roles
 
-table.el63 read Access Control for users with the admin role
+table.field3 read Access Control for users with the admin role
 
 Which field or fields can a user with the itil role read?
 + A.field3 only
 
-+ Bifiled? and fields
++ B.field1 and field3
 
-. C. All fields
++ C.All fields
 
-+ D.Allfields except field3 Most Voted
++ D.All fields except field3 Most Voted
 34 min 0 seconds
 
 %>%
@@ -1170,20 +965,6 @@ Which of the following is NOT a caller access field option?
 
 %>%
 
-NEXT QUESTION IS :-
-
-Which of the following is NOT a caller access field option?
-‘A. Caller Tracking
-
-B. Caller Restriction
-
-C. None
-
-D. Caller Permission Most Voted
-34 min 38 seconds
-
-%>%
-
 CORRECT ANSWER IS :- D
 35 min 0 seconds
 
@@ -1196,29 +977,12 @@ Which method is used to retrieve Application Property values in a script?
 A. gs.getProperty() Most Voted
 B. g_form.getAppProperty()
 
-©. g_form.getProperty()
+C. g_form.getProperty()
 
 D. gs.getAppProperty()
 35 min 4 seconds
 
 %>%
-
-NEXT QUESTION IS :-
-
-Which method is used to retrieve Application Property values in a script?
-+ A gs.getProperty() Most Voted
-
-+ B.g_form.getAppProperty()
-
-+ C.g-form.getProperty()
-
-+ D.gs.getAppProperty()
-35 min 6 seconds
-
-%>%
-
-ear eee en oe ee ee
-D. gs.getAppProperty()
 
 CORRECT ANSWER IS :- A
 35 min 34 seconds
@@ -1227,12 +991,11 @@ CORRECT ANSWER IS :- A
 
 NEXT QUESTION IS :-
 
-‘What Module Link type is used to access an Application Properties page?
-A Single Record
-B. HTML (from Arguments)
-
-+ CLURL (from Arguments)
-D. Script (from Arguments)
+What Module Link type is used to access an Application Properties page?
+A.Single Record
+B.HTML (from Arguments)
+C.URL (from Arguments)
+D.Script (from Arguments)
 35 min 38 seconds
 
 %>%
@@ -1243,167 +1006,67 @@ CORRECT ANSWER IS :- C
 %>%
 
 NEXT QUESTION IS :-
-36 min 8 seconds
-
-%>%
-
-NEXT QUESTION IS :-
 
 Identify the way(s) an application can respond to an Event generated by the gs.eventQueue() method.
 
 a. Script Action
 b. Scheduled Script Execution (Scheduled Job)
 c. UI Policy
-
 d. Email Notification
 
-+ Abande
-
-+ Be
-36 min 10 seconds
-
-%>%
-
-OT BS SAS) Sl Bp PCS GON! CORE ESOT 80 Gi EVGIN QO etee Oy Mie 9e-Cremvouey eu.
-
-a. Script Action
-b. Scheduled Script Execution (Scheduled Job)
-. UI Policy
-
-d. Email Notification
-
-+ Abande
-
-+ Be
-
-+ C.aand d Most Voted
-: D.aandc
++ A. b and c
++ B. c
++ C. a and d Most Voted
+: D. a and c
 36 min 44 seconds
 
 %>%
-
-C. aand d Most Voted
-D.aandc
 
 CORRECT ANSWER IS :- C
 37 min 2 seconds
 
 %>%
 
-C. aandd Most Voted
-D.aande
-
-CORRECT ANSWER IS :- C
-37 min 4 seconds
-
-%>%
-
 NEXT QUESTION IS :-
 
-‘When troubleshooting and debugging notifications, where do you navigate to see if an email was sent
+When troubleshooting and debugging notifications, where do you navigate to see if an email was sent
 m response to an event?
 
 + A. System Logs > Events
 
-+B. System Logs > Emails
++ B. System Logs > Emails
 
-+ €. System Logs > Push Notifications.
++ C. System Logs > Push Notifications.
 
-+ __D. System Logs > ICE Logs
++ D. System Logs > ICE Logs
 37 min 6 seconds
 
 %>%
-
-NEXT QUESTION IS :-
-
-‘When troubleshooting and debugging notifications, where do you navigate to see if an email was sent
-m response to an event?
-
-+ "A System Logs > Events
-
-+B. System Logs > Emails
-
-+ C. System Logs > Push Notifications
-
-+ __D. System Logs > ICE Logs
-37 min 8 seconds
-
-%>%
-
-ee eee ee
-D. System Logs > ICE Logs
 
 CORRECT ANSWER IS :- B
 37 min 36 seconds
 
 %>%
 
-CORRECT ANSWER IS :- B
-37 min 38 seconds
-
-%>%
-
 NEXT QUESTION IS :-
 
-What are the benefits of storing the majority of an Application’s server-side script logic in a Script
-Include?
-
+What are the benefits of storing the majority of an Application’s server-side script logic in a Script Include?
 a. This makes execution faster.
-. Only run when called from a script.
-
- 
-
- 
-37 min 40 seconds
-
-%>%
-
-NEXT QUESTION IS :-
-
-What are the benefits of storing the majority of an Application’s server-side script logic in a Script
-Include?
-
-a. This makes execution faster.
-
 b. Only run when called from a script.
+c. The script logic can be hidden when the Application is installed from the ServiceNow Store. 
+d. For some changes to application logic there is only one place to make edits.
 
-c. The script logic can be hidden when the Application is installed from the ServiceNow Store. d. For
-some changes to application logic there is only one place to make edits.
++ A. a,b and d
 
-+ Aa,bandd
++ B. a,b.c,and d
 
-+ Bab.c,andd
++ C. b,c, and d Most Voted
 
-+ C.b,c, and d Most Voted
-
-+ Dabandc
++ D. a,b and c
 37 min 42 seconds
 
 %>%
 
-‘What are the benefits of storing the majority of an Application’s server-side script logic in a Script
-Include?
-
-a. This makes execution faster.
-
-b. Only run when called from a script.
-
-¢. The script logic can be hidden when the Application is installed from the ServiceNow Store. d. For
-some changes to application logic there is only one place to make edits.
-
-+ Aa,bandd
-
-+ Ba,b,c,andd
-
-+ C.b,¢, and d Most Voted
-
-+ Dajbiande
-38 min 14 seconds
-
-%>%
-
-C.b,c, and d Most Voted
-D.a,b,andc
 
 CORRECT ANSWER IS :- C
 38 min 30 seconds
@@ -1414,26 +1077,11 @@ NEXT QUESTION IS :-
 
 Which of the following is NOT a Flow Designer feature?
 
-+ A. Runa flow from a Catalog item
-+ B.Calla flow from another flow or subflow Most Voted
++ A.Run a flow from a Catalog item
++ B.Call a flow from another flow or subflow Most Voted
 + C.Add stages to a flow
-
-D. Test a flow using the “Run as" feature
++ D.Test a flow using the “Run as" feature
 38 min 34 seconds
-
-%>%
-
-NEXT QUESTION IS :-
-
-Which of the following is NOT a Flow Designer feature?
-
-+ A Runa flow from a Catalog item
-
-+ B.Calla flow from another flow or subflow Most Voted
-+ C.Add stages to a flow
-
-+. Test a flow using the “Run as" feature
-38 min 36 seconds
 
 %>%
 
@@ -1445,30 +1093,11 @@ CORRECT ANSWER IS :- B
 NEXT QUESTION IS :-
 
 What is the purpose of the coalesce field when importing data?
-
- 
-
-+ Alf amatch is not found, the existing record is updated
-+B. Todetermine if a record matches an existing record or is a new record
-+ C. Toidentify and merge duplicate records
-
-: D. When a match is found, a new record is inserted
++ A. lf amatch is not found, the existing record is updated
++ B. To determine if a record matches an existing record or is a new record
++ C. To identify and merge duplicate records
++ D. When a match is found, a new record is inserted
 39 min 6 seconds
-
-%>%
-
-NEXT QUESTION IS :-
-
-What is the purpose of the coalesce field when importing data?
-+ A.lfamatch is not found, the existing record is updated
-
-B. To determine if a record matches an existing record or is a new record
-C. To identify and merge duplicate records
-
-D. When a match is found, a new record is inserted
-
- 
-39 min 8 seconds
 
 %>%
 
@@ -1477,27 +1106,17 @@ CORRECT ANSWER IS :-B
 
 %>%
 
- 
-
-B. ${variable_name}
-C. < variable name >.do?WSDL
-D.< variable_name >
-
-CORRECT ANSWER IS :- B
-39 min 40 seconds
-
-%>%
 
 NEXT QUESTION IS :-
 
 If you create a SOAP Message what syntax indicates a variable to pass when the function is called?
-+ Acurrent.variable name
++ A. current.variable_name
 
-+B. S(variable name}
++ B. ${variable_name}
 
-+ C.<variable_name >.do?WSDL
++ C. <variable_name >.do?WSDL
 
-+ D.< variable name >
++ D. <variable_name>
 39 min 42 seconds
 
 %>%
@@ -1507,6 +1126,7 @@ CORRECT ANSWER IS :- B
 
 %>%
 
+resumehere
 NEXT QUESTION IS :-
 
 Which of the following is NOT a way to install an application on a ServiceNow instance?

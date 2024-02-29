@@ -1,0 +1,1 @@
+- normally options start by +A, +B. Sometimes there isnt the "+" sign
