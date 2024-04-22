@@ -10,7 +10,7 @@ The weepies are always weepy.
 
 ## 1. Description
 Weepie extract images from a video then extract texts from image.  
-These two steps are executed separatly by three subparsers (in fact they can be improved into two). For more details, see [Usage](#usage).
+These two steps are executed separatly by three subparsers (in fact they can be improved into two). For more details, see [Usage](#3-usage).
 
 
 ## 2. Prepare environment
