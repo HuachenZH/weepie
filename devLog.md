@@ -25,6 +25,9 @@ It's harder than i thought. I need to make some image preprocessing:
   - cause: `cv2.subtract(img1, img2)`, img1 and img2 are np.ndarray with diffrerent dtype
   - solution: use np.npdarray.astype(int) to convert arrays to same data type before calling cv2.subtract()
 
+- argument (frequency) type error: if not specified, python will take input as string, even though you give an int.
+  - In argparse, specify type=int
+
 
 ## To improve / future work
 - ~~in `delete_duplicate.py`, the function `is_the_same` is built. You can build another one, is_similar, calculate the error between two matrices, return true of error is smaller than the threshold.~~
