@@ -14,7 +14,7 @@ def get_args():
     parser_extractFrames.add_argument("videoPath", help="Path to the video file")
     # parser.add_argument("-i", "--imageDirPath", help="Path to the output directory of extracted frames", default="../data/img/")
     parser_extractFrames.add_argument("-i", "--imageDirPath", help="Path to the output directory of extracted frames", default="../data/img/")
-    parser_extractFrames.add_argument("-freq", "--frequency", help="Frequency of extracting frames", default=10)
+    parser_extractFrames.add_argument("-freq", "--frequency", help="Frequency of extracting frames", default=10, type=int)
     parser_extractFrames.add_argument("-s", "--scrolling", help="The video is scrolling, frames are not static", action="store_true")
 
     parser_delDupFrames = subparsers.add_parser("delDupFrames", help="Delete duplicated frames")
@@ -39,7 +39,7 @@ def main():
             extract_frame_complex(args.videoPath, args.imageDirPath)
         else:
         # $ python3 weepie.py -i ../data/img/csa/ extractFrames ../data/video/csa.mp4  
-            extract_frame_simple(args.videoPath, args.imageDirPath, float(args.frequency))
+            extract_frame_simple(args.videoPath, args.imageDirPath, args.frequency)
 
     # $ python3 weepie.py -i ../data/img/cad/ delDupFrames 
     if args.cmd_name == "delDupFrames":
