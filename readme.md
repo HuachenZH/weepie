@@ -3,9 +3,9 @@ The weepies are always weepy.
 
 
 ## 0. Table of content
-- [Description](#description)
-- [Prepare environment](#prepare-environment)
-- [Usage](#usage)
+- [Description](#1-description)
+- [Prepare environment](#2-prepare-environment)
+- [Usage](#3-usage)
 
 
 ## 1. Description
