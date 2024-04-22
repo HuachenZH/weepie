@@ -10,7 +10,7 @@ The weepies are always weepy.
 
 ## 1. Description
 Weepie extract images from a video then extract texts from image.  
-These two steps are executed separatly by two subprograms. For more details, see [Usage](#usage).
+These two steps are executed separatly by three subparsers (in fact they can be improved into two). For more details, see [Usage](#usage).
 
 
 ## 2. Prepare environment
@@ -48,17 +48,17 @@ This project is based on the open source OCR tool Tesseract. Apart from installi
 
 
 ## 3. Usage
-Weepie has three subprograms: `extractFrames`, `delDupFrames` and `extractText`. (i'd like to try subparser of argparse but it seems a bad idea.)  
+Weepie has three subparsers: `extractFrames`, `delDupFrames` and `extractText`. (And the script find_unique_frame.py is used by extractFrames, normally you won't use it directly.)   
 As the name indicates, there are three steps: 
-1. Extract frames from the video. Weepie is not smart enough to tell which frame is different from others, so it extracts frames at a fix frequence, by default each ten seconds.
-2. Find unique frames then delete duplicated frames. Compare the matrix of pixel of each frame then delete duplicated frames.  
-3. Extract text from frames. OCR stuffs, done by pytesseract.  
+1. Extract frames from the video. Weepie is not smart enough to tell which frame is different from others, so it extracts frames at a fix frequence, by default each ten seconds. --> It is now smart enough (by calculating mse) to tell whether two frames are the same, however mse is not smart enough to tell whether the texts are the same.
+2. (This step is not truely necessary if you put -s flag in extractFrames) Find unique frames then delete duplicated frames. Compare the matrix of pixel of each frame then delete duplicated frames.  
+3. Extract text from frames. OCR stuffs, done by pytesseract. It is possible to fine-tune the tesseract model, but i don't think i have enough time to do so.  
 
-(the script find_unique_frame.py is used by extractFrames, normally you won't use it directly.)
+
 
 ### Usage - extractFrames
 ```shell
-$ python3 weepie.py -i <dir of images> extractFrames <path to video>
+$ python3 weepie.py extractFrames -i <dir of images>  <path to video>
 ```
 - __Name__  
 weepie extractFrames - extract frames from a video file.  
@@ -68,23 +68,23 @@ weepie -i file extractFrames [options] file
   - -i, --imageDirPath:  
   Path to the directory of images (where you want to store output extracted iamges). By default data/img/.
   - videoPath:  
-  A mandatory argument, path to the file of video.  
+  A mandatory (and positional) argument, path to the file of video. It is a postional argument but it can be placed whereever you want, since all others are optional arguments.  
   - -f, --frequency:  
   Frequency of extraction of images in seconds. By default 10 seconds.  
   - -s, --scrolling:  
   Put this flag if the video is not static powerpoint slides but a scrolling pdf. While using the -s flag, the -f (--frequency) will not be taken into account. With this flag, duplicated frames will not be extracted, so you don't need to execute delDupFrames.   
 - __Examples__  
-  - `$ python3 weepie.py extractFrames ../data/video/csa.mp4`  
+  - `$ python3 weepie.py extractFrames  ../data/video/csa.mp4`  
   Extract images from the video file csa.mp4 and use default path to store images. Use the default frequency: extract image each 10 seconds.
-  - `$ python3 weepie.py -i ../data/img/csa/ extractFrames ../data/video/csa.mp4 -f 20`  
+  - `$ python3 weepie.py extractFrames -i ../data/img/csa/ ../data/video/csa.mp4 -f 20`  
   Extract images from the video file csa.mp4 and store images to ../data/img/csa/, extract images each 20 seconds.
-  - `$ python3 weepie.py -i ../data/img/cad/ extractFrames ../data/video/cad.mp4 -s`  
+  - `$ python3 weepie.py extractFrames -i ../data/img/cad/ ../data/video/cad.mp4 -s`  
   Extract images from the video file cad.mp4 and store images to ../data/img/cad/, duplicated images will not be extracted. In this case, the frequency no longer matters as each unique image will be extracted.
 
 
 ### Usage - delDupFrames (legacy)
 ```shell
-$ python3 weepie.py -i <dir of images> delDupFrames 
+$ python3 weepie.py delDupFrames -i <dir of images> 
 ```
 - __Name__  
 weepie delDupFrames - delete duplicated frames (images) in a folder.
@@ -96,15 +96,15 @@ weepie -i file delDupFrames [options]
   - -t, --threshold:  
   The threshold of determining whether an image is a duplicate. It is the value of MSE, smaller than this value, the two images will be considered as duplicate and the second match will be deleted. By default 2.
 - __Examples__  
-  - `$ python3 weepie.py -i ../data/img/csa/ delDupFrames`  
+  - `$ python3 weepie.py delDupFrames -i ../data/img/csa/`  
   Delete duplicated images in the folder ../data/img/csa/ and use the default value as threshold. There might still be two or three duplicated iamges but no image will be deleted accidently.
-  - `$ python3 weepie.py -i ../data/img/csa/ delDupFrames -t 4`  
+  - `$ python3 weepie.py delDupFrames -i ../data/img/csa/ -t 4`  
   Delete duplicated images in the folder ../data/img/csa/ and set 4 as threshold. With this value, there will be no more duplicated images, however two or three unique images will be deleted accidently.
 
 
 ### Usage - extractText
 ```shell
-$ python3 weepie.py -i <dir or input images> extractText -o <dir of output txt>
+$ python3 weepie.py extractText -i <dir or input images> -o <dir of output txt>
 ```
 - __Name__  
 weepie extractText - extract text from images.
@@ -116,11 +116,10 @@ weepie -i file extractText -o file
   - -o, --outputPath:  
   Path to the output txt file.
 - __Examples__  
-  - `$ python3 weepie.py -i ../data/img/cad/ extractText -o ../out/cad.txt`
+  - `$ python3 weepie.py extractText -i ../data/img/cad/ -o ../out/cad.txt`  
   Read images in ../data/img/cad/, extract text and write the txt file to ../out/cad.txt.  
 
 
-As you may have noticed, the "-i" flag was added to parser but not subparser, so you need to specify it before subprogram name. Sorry.
 
 ## later...
 to explain:
