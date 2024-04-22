@@ -2,28 +2,35 @@
 The weepies are always weepy.  
 
 
-## Table of content
+## 0. Table of content
 - [Description](#description)
 - [Prepare environment](#prepare-environment)
 - [Usage](#usage)
 
 
-## Description
+## 1. Description
 Weepie extract images from a video then extract texts from image.  
 These two steps are executed separatly by two subprograms. For more details, see [Usage](#usage).
 
 
-## Prepare environment
+## 2. Prepare environment
 ### pyenv
 First you need pyenv to manage your python versions. This project is build with python 3.11.4.  
+To install pyenv, follow the doc on their [github](https://github.com/pyenv/pyenv).
 
 ### pyenv virtualenv
-It is recommended to use a virtual environment to manage packages.
+It is recommended to use a virtual environment to manage packages. First of all, cd to weepie/.
 ```shell
+# Specify python version of the current folder
 $ pyenv local 3.11.4
 
+# create a virtual env called "weepie" with version 3.11.4.
+# It is suggested that the virtual env and the project use the same name.
 $ pyenv virtualenv 3.11.4 weepie
 
+# Activate virtual env.
+# Normally if you pyenv is installed correctly, the virutal env will
+# be activated automatically each time you cd to the directory.
 $ pyenv local weepie
 ```
 
@@ -40,12 +47,14 @@ This project is based on the open source OCR tool Tesseract. Apart from installi
 
 
 
-## Usage
-Weepie has three subprograms: `extractFrames`, `delDupFrames` and `extractText`.  
+## 3. Usage
+Weepie has three subprograms: `extractFrames`, `delDupFrames` and `extractText`. (i'd like to try subparser of argparse but it seems a bad idea.)  
 As the name indicates, there are three steps: 
 1. Extract frames from the video. Weepie is not smart enough to tell which frame is different from others, so it extracts frames at a fix frequence, by default each ten seconds.
-2. Delete duplicated frames. Compare the matrix of pixel of each frame then delete duplicated frames.  
+2. Find unique frames then delete duplicated frames. Compare the matrix of pixel of each frame then delete duplicated frames.  
 3. Extract text from frames. OCR stuffs, done by pytesseract.  
+
+(the script find_unique_frame.py is used by extractFrames, normally you won't use it directly.)
 
 ### Usage - extractFrames
 ```shell
@@ -111,6 +120,7 @@ weepie -i file extractText -o file
   Read images in ../data/img/cad/, extract text and write the txt file to ../out/cad.txt.  
 
 
+As you may have noticed, the "-i" flag was added to parser but not subparser, so you need to specify it before subprogram name. Sorry.
 
 ## later...
 to explain:

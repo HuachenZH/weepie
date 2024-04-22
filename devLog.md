@@ -32,9 +32,16 @@ It's harder than i thought. I need to make some image preprocessing:
 - ~~for unsure OCR, give at which time (min, sec) of the video~~ --> Done by adding the info into exif
 - find a way to determine similar texts
 - hrsd: the answers are not written, they are shown in different color
+  - solution: image pre processing, color detection. If red, keep. Else, turn to white. Then OCR on the image, there will only be the correct answer on the image.
 - ~~cad: in the video, the presenter scrolls a pdf....~~ --> Done by comparing frames before extraction 
 - `extract_frame_simple` can be deprecated, as the new function is much more powerful
 - preprocessing of image : [this post](https://stackoverflow.com/questions/37745519/use-pytesseract-ocr-to-recognize-text-from-an-image)
+
+
+## To resume
+- reviewing `doc_cad0.txt`, search "resumehere"
+
+
 
 ## 自己挖的坑
 - in the folder `data/img/`, images should be named like "frame_1.jpg", "frame_100.jpg"
