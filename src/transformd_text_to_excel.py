@@ -18,6 +18,7 @@ def prune_text(str_doc:str):
         # replace "NEXT QUESTION IS" by start flag
         pattern = "^NEXT.*$"
         doc = re.sub(pattern, "start_flag", doc, flags=re.MULTILINE)
+
         # match the question label
         # From start flag until r"A.", it can contain any character including new line
         pattern = "start_flag(?:\n|\r|.)*A\."
@@ -35,9 +36,8 @@ def prune_text(str_doc:str):
             print("label not found")
             list_label.append("error")
             breakpoint()
-        # remove "xx min xx seconds"
-        pattern = "^.*min.*sec.*$"
-        doc = re.sub(pattern, "", doc)
+
+        # end flag will be "correct answer is"
 
     breakpoint()
 
