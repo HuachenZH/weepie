@@ -20,6 +20,27 @@ It's harder than i thought. I need to make some image preprocessing:
 - sharpen the image
 
 
+## Feature 5: fill the excel template
+columns in the template excel:
+- "Certification"
+- "Category"
+- "Label"
+- "Answers"
+- " "
+- "Réponse 1"
+- "True/False" (put true of the answer is correct)
+- "Réponse 2"
+- "True/False"
+- ...
+- "Réponse 8"
+- "True/False"
+
+You need to find solution for:
+- how to extract the label
+- how to extract each "réponse"
+- how to retrieve the correct answer
+
+
 ## Encountered
 - cv2 error: cv2.error: OpenCV(4.9.0) /io/opencv/modules/core/src/arithm.cpp:672: error: (-5:Bad argument) When the input arrays in add/subtract/multiply/divide functions have different types, the output array type must be explicitly specified in function 'arithm_op'
   - cause: `cv2.subtract(img1, img2)`, img1 and img2 are np.ndarray with diffrerent dtype
@@ -50,4 +71,13 @@ It's harder than i thought. I need to make some image preprocessing:
 - in the folder `data/img/`, images should be named like "frame_1.jpg", "frame_100.jpg"
 - in `extract_text.py`, input image must have exif info, if not, error.
 
+- in text:
+  - the first answer must contains "A."
+  - different questions must be seperated by "%>%"
 
+
+
+
+
+to_resume:
+extract each questions
