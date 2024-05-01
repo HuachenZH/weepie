@@ -11,6 +11,16 @@ def read_text(path_text:str) -> str:
 
 
 def prune_doc(doc:str) -> str:
+    """Prune doc, replace and delete some string.
+    Delete "xx min xx seconds", delete "most voted".
+    Replace the whole line of "Next question is " by start flag.
+
+            Parameters:
+                    doc (str): Each question choice answer between two %>%.
+
+            Returns:
+                    doc (str): Pruned doc.
+    """
     # replace the whole line of "NEXT QUESTION IS ..." by start flag
     pattern = "^NEXT.*$"
     doc = re.sub(pattern, "start_flag", doc, flags=re.MULTILINE)
@@ -25,6 +35,14 @@ def prune_doc(doc:str) -> str:
 
 
 def retrieve_label(doc:str) -> str:
+    """Retrieve label (the question body) from doc.
+
+            Parameters:
+                    doc (str): Each question choice answer between two %>%.
+
+            Returns:
+                    (str): The label. Return "error" if nothing was found.
+    """
     # match the question label
     # From start flag until r"A.", it can contain any character including new line
     pattern = "start_flag(?:\n|\r|.)*A\."
