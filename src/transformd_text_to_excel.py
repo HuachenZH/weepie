@@ -27,6 +27,9 @@ def prune_doc(doc:str) -> str:
     # i no longer need "xx min xx seconds"
     pattern = "^.*min.*seconds$"
     doc = re.sub(pattern, "", doc, flags=re.MULTILINE | re.IGNORECASE)
+    # Replace "CORRECT ANSWER IS ..." by answer flag
+    pattern = "correct answer is"
+    doc = re.sub(pattern, "answer_flag", doc, flags=re.IGNORECASE)
     # Delete "most voted"
     pattern = "most voted"
     doc = re.sub(pattern, "", doc, flags=re.IGNORECASE)   
@@ -51,7 +54,7 @@ def retrieve_label(doc:str) -> str:
         str_label = match[0]
         # slice the heading "start_flag" and the tailing "A."
         str_label = str_label[len("start_flag") : -2]
-        # replace newline by space
+        # replace newline by space then strip
         str_label = str_label.replace("\n", " ").replace("\r", " ").strip()
         # sometimes there are "\n+ A.", now you can find them by " +"
         str_label = str_label.replace(" +", "").strip()
@@ -60,48 +63,73 @@ def retrieve_label(doc:str) -> str:
         print("label not found")
         return "error"
 
+        
+
+def retrieve_question_choice(doc:str) -> list:
+    list_choice = ["A.", "B.", "C.", "D.", "E.", "F.", "G.", "H."]
+    list_result = []
+    flag_last_choice = False
+    for i in range(len(list_choice)-1):
+        # If the last iteration has already the last answer
+        if flag_last_choice:
+            # Fill list_result until "H."
+            list_result += ["empty" for i in range(len(list_choice)-i-1)]
+            break
+        # if there is still next choice
+        if list_choice[i+1] in doc:
+            # Sorry i don't know how to use regex here, i fail to put single backslash in pattern
+            str_question_choice = doc[doc.find(list_choice[i])+len(list_choice[i]) : doc.find(list_choice[i+1])]
+        # if not, then there must be answer_flag
+        else:
+            str_question_choice = doc[doc.find(list_choice[i])+len(list_choice[i]) : doc.find("answer_flag")]
+            # answer_flag is used
+            flag_last_choice = True
+        # replace newline by space then strip
+        str_question_choice = str_question_choice.replace("\n", " ").replace("\r", " ").strip()
+        list_result.append(str_question_choice)
+    # It's rare but in case there's "H."
+    if list_choice[len(list_choice)-1] in doc:
+        str_question_choice = doc[doc.find(list_choice[i])+len(list_choice[i]) : doc.find("answer_flag")]
+        str_question_choice = str_question_choice.replace("\n", " ").replace("\r", " ").strip()
+        list_result.append(str_question_choice)
+    else:
+        list_result.append("empty")
+    return list_result
+
+
 
 def retrieving(str_doc:str):
     list_doc = str_doc.split("%>%")
     list_label = []
     list_answers = []
-
     list_choice_1 = [] # A
     list_flag_1 = []
-
     list_choice_2 = [] # B
     list_flag_2 = []
-
     list_choice_3 = [] # C
     list_flag_3 = []
-
     list_choice_4 = [] # D
     list_flag_4 = []
-
     list_choice_5 = [] # E
     list_flag_5 = []
-
     list_choice_6 = [] # F
     list_flag_6 = []
-
     list_choice_7 = [] # G
     list_flag_7 = []
-
     list_choice_8 = [] # H
     list_flag_8 = []
 
     for doc in list_doc:
-        
-
-        
-
-        # Retrieve label
+        # Operation on doc, delete and replace some string
+        doc = prune_doc(doc)
+        # Retrieve question label
         list_label.append(retrieve_label(doc))
 
         # Retrieve each choice. We assume that there are at least A and B
+        tmp = retrieve_question_choice(doc)
+        breakpoint()
 
 
-    breakpoint()
 
 
 def main():
