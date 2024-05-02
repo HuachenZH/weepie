@@ -12,15 +12,24 @@ def read_text(path_text:str) -> str:
 
 
 def prune_whole_doc(str_doc) -> str:
+    """Prune the whole doc, replace and delete some string.
+    Delete "xx min xx seconds", delete "most voted".
+    Replace the whole line of "Next question is " by %>% and start_flag.
+    Replace "correct answer is" by answer_flag.
+
+            Parameters:
+                    doc (str): Each question+choice+answer between two %>%.
+
+            Returns:
+                    doc (str): Pruned doc.
+    """
     # Remove legacy "%>%"
     pattern = "%>%"
     str_doc = re.sub(pattern, "", str_doc)
-    breakpoint()
     # Replace the whole line of "NEXT QUESTION IS ..." by start flag
     # and start_flag can be used to separate different questions
     pattern = "^NEXT.*$"
     str_doc = re.sub(pattern, "%>%\n\nstart_flag", str_doc, flags=re.MULTILINE)
-    breakpoint()
     return str_doc
 
 
