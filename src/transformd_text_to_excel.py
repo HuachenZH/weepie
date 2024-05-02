@@ -16,7 +16,7 @@ def prune_doc(doc:str) -> str:
     Replace the whole line of "Next question is " by start flag.
 
             Parameters:
-                    doc (str): Each question choice answer between two %>%.
+                    doc (str): Each question+choice+answer between two %>%.
 
             Returns:
                     doc (str): Pruned doc.
@@ -41,7 +41,7 @@ def retrieve_label(doc:str) -> str:
     """Retrieve label (the question body) from doc.
 
             Parameters:
-                    doc (str): Each question choice answer between two %>%.
+                    doc (str): Each question+choice+answer between two %>%.
 
             Returns:
                     (str): The label. Return "error" if nothing was found.
@@ -66,6 +66,17 @@ def retrieve_label(doc:str) -> str:
         
 
 def retrieve_question_choice(doc:str) -> list:
+    """Retrieve question choices from doc.
+    Number of question choice can vary from 3 to 8.
+
+            Parameters:
+                    doc (str): Each question+choice+answer between two %>%.
+
+            Returns:
+                    list_result (list): List of question choices. 
+                    The first element is "A", the last is "H".
+                    If the question choice does not exist, it will be "empty".
+    """
     list_choice = ["A.", "B.", "C.", "D.", "E.", "F.", "G.", "H."]
     list_result = []
     flag_last_choice = False
