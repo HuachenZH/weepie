@@ -40,6 +40,7 @@ You need to find solution for:
 - how to extract each "réponse"
 - how to retrieve the correct answer
 
+- it seems that in OCR, "next question is" is always well recognized, i can use this to separate questions.
 
 ## Encountered
 - cv2 error: cv2.error: OpenCV(4.9.0) /io/opencv/modules/core/src/arithm.cpp:672: error: (-5:Bad argument) When the input arrays in add/subtract/multiply/divide functions have different types, the output array type must be explicitly specified in function 'arithm_op'
@@ -48,6 +49,9 @@ You need to find solution for:
 
 - argument (frequency) type error: if not specified, python will take input as string, even though you give an int.
   - In argparse, specify type=int
+
+- i have "A" stocked to a variable, i want to append backslach and a dot to it and to use it as a regex pattern.  
+I failed to append just a single backslash.
 
 
 ## To improve / future work
@@ -62,6 +66,8 @@ You need to find solution for:
 - preprocessing of image : [this post](https://stackoverflow.com/questions/37745519/use-pytesseract-ocr-to-recognize-text-from-an-image)
 
 
+- sometimes "B" is recognized as "8"
+
 ## To resume
 - reviewing `doc_cad0.txt`, search "resumehere"
 
@@ -73,7 +79,9 @@ You need to find solution for:
 
 - in text:
   - the first answer must contains "A."
+  - answers should start with an uppercase letter and a dot, eg "A.", "B."
   - different questions must be seperated by "%>%"
+  - there will be start_flag and answer_flag
 
 
 
@@ -81,3 +89,4 @@ You need to find solution for:
 
 to_resume:
 extract each questions
+
