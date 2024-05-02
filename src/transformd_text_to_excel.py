@@ -30,10 +30,19 @@ def prune_whole_doc(str_doc) -> str:
     # and start_flag can be used to separate different questions
     pattern = "^NEXT.*$"
     str_doc = re.sub(pattern, "%>%\n\nstart_flag", str_doc, flags=re.MULTILINE)
+    # i no longer need "xx min xx seconds"
+    pattern = "^.*min.*seconds$"
+    str_doc = re.sub(pattern, "", str_doc, flags=re.MULTILINE | re.IGNORECASE)
+    # Replace "CORRECT ANSWER IS ..." by answer flag
+    pattern = "correct answer is"
+    str_doc = re.sub(pattern, "answer_flag", str_doc, flags=re.IGNORECASE)
+    # Delete "most voted"
+    pattern = "most voted"
+    str_doc = re.sub(pattern, "", str_doc, flags=re.IGNORECASE)   
     return str_doc
 
 
-
+# deprecated, use prune_whole_doc instead
 def prune_doc(doc:str) -> str:
     """Prune doc, replace and delete some string.
     Delete "xx min xx seconds", delete "most voted".
@@ -85,6 +94,7 @@ def retrieve_label(doc:str) -> str:
         return str_label
     else:
         print("label not found")
+        breakpoint()
         return "error"
 
         
@@ -134,8 +144,10 @@ def retrieve_question_choice(doc:str) -> list:
 
 
 def retrieving(str_doc:str):
+    # Operation on doc, delete and replace some string
     str_doc = prune_whole_doc(str_doc)
     list_doc = str_doc.split("%>%")
+    # initialization
     list_label = []
     list_answers = []
     list_choice_1 = [] # A
@@ -156,8 +168,6 @@ def retrieving(str_doc:str):
     list_flag_8 = []
 
     for doc in list_doc:
-        # Operation on doc, delete and replace some string
-        doc = prune_doc(doc)
         # Retrieve question label
         list_label.append(retrieve_label(doc))
 
@@ -171,7 +181,7 @@ def retrieving(str_doc:str):
         list_choice_6.append(list_result[5]) # F
         list_choice_7.append(list_result[6]) # G
         list_choice_8.append(list_result[7]) # H
-        breakpoint()
+    breakpoint()
 
 
 
