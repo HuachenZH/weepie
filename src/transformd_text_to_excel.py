@@ -137,8 +137,24 @@ def retrieving(str_doc:str):
         list_label.append(retrieve_label(doc))
 
         # Retrieve each choice. We assume that there are at least A and B
-        tmp = retrieve_question_choice(doc)
+        list_result = retrieve_question_choice(doc)
+        list_choice_1.append(list_result[0]) # A
+        list_choice_2.append(list_result[1]) # B
+        list_choice_3.append(list_result[2]) # C
+        list_choice_4.append(list_result[3]) # D
+        list_choice_5.append(list_result[4]) # E
+        list_choice_6.append(list_result[5]) # F
+        list_choice_7.append(list_result[6]) # G
+        list_choice_8.append(list_result[7]) # H
         breakpoint()
+
+
+
+
+
+
+
+
 
 
 
