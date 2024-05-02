@@ -10,6 +10,21 @@ def read_text(path_text:str) -> str:
         return f.read()
 
 
+
+def prune_whole_doc(str_doc) -> str:
+    # Remove legacy "%>%"
+    pattern = "%>%"
+    str_doc = re.sub(pattern, "", str_doc)
+    breakpoint()
+    # Replace the whole line of "NEXT QUESTION IS ..." by start flag
+    # and start_flag can be used to separate different questions
+    pattern = "^NEXT.*$"
+    str_doc = re.sub(pattern, "%>%\n\nstart_flag", str_doc, flags=re.MULTILINE)
+    breakpoint()
+    return str_doc
+
+
+
 def prune_doc(doc:str) -> str:
     """Prune doc, replace and delete some string.
     Delete "xx min xx seconds", delete "most voted".
@@ -110,6 +125,7 @@ def retrieve_question_choice(doc:str) -> list:
 
 
 def retrieving(str_doc:str):
+    str_doc = prune_whole_doc(str_doc)
     list_doc = str_doc.split("%>%")
     list_label = []
     list_answers = []
@@ -150,19 +166,12 @@ def retrieving(str_doc:str):
 
 
 
-
-
-
-
-
-
-
-
-
 def main():
     path_text = "../out/doc_cad0_truncated.txt"
     str_doc = read_text(path_text)
     retrieving(str_doc)
+
+
 
 if __name__ == "__main__":
     main()
